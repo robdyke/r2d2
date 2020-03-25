@@ -1,11 +1,11 @@
-baseURL = "http://www.example.com"
-title = "Minimo"
+baseURL = "https://robdyke.com"
+title = "this is rob dyke dot com"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
 theme = "minimo"
 
-disqusShortname = ""
+disqusShortname = "r2d2"
 googleAnalytics = ""
 
 Paginate = 5
@@ -22,7 +22,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Minimalist theme for Hugo"
+description = ""
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -33,8 +33,8 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
-holder = "MunifTanjim"
-startYear = "2017"
+holder = "Rob Dyke"
+startYear = "2004"
 suffix = ""
 
 [params.settings]
@@ -57,8 +57,8 @@ enable = true
 [params.widgets]
 header = ["breadcrumbs"]
 homepage = ["recent_posts"]
-sidebar = ["about","search","sidebar_menu","taxonomy_cloud"]
-footer = ["social_menu"]
+sidebar = ["about","search","sidebar_menu","social_menu"]
+# footer = ["social_menu"]
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
@@ -73,17 +73,17 @@ page = "" # Twitter page username
 titleSeparator = "•"
 
 [params.social]
-codepen = "MunifTanjim"
-email = "contact@example.com"
-facebook = "MunifTanjim"
-github = "MunifTanjim"
-gitlab = "MunifTanjim"
-instagram = "MunifTanjim"
-linkedin = "muniftanjim"
-twitter = "MunifTanjim"
-telegram = "MunifTanjim"
-google_scholar = "qc6CJjYAAAAJ"
-youtube = "UCT-U0rNerYxItGcuoPX-WYA"
+# codepen = "MunifTanjim"
+email = "robdyke@gmail.com"
+# facebook = "MunifTanjim"
+github = "robdyke"
+gitlab = "robdyke"
+instagram = "robdykedotcom"
+linkedin = "RobDyke"
+twitter = "robdykedotcom"
+# telegram = ""
+# google_scholar = "qc6CJjYAAAAJ"
+youtube = "UCEx8Vn1JB4M14eo_iSpgauw"
 
 [params.comments]
 enable = false
@@ -107,8 +107,8 @@ enable = false
 issueTerm = "pathname" # pathname / url / title
 
 [params.comments.utterances.github]
-username = "MunifTanjim"
-repository = "minimo"
+username = "robdyke"
+repository = "r2d2"
 
 [params.search]
 client = "fuse" # algolia / fuse / lunr
@@ -131,7 +131,7 @@ page = "/:slug/"
 name = "Repo"
 weight = -10
 identifier = "repository"
-url = "https://github.com/MunifTanjim/minimo"
+url = "https://github.com/robdyke/robdyke.github.io"
 
 [blackfriday]
 hrefTargetBlank = true
