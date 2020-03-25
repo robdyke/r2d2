@@ -1,0 +1,11 @@
+id = "robdyke"
+
+[email]
+username = "robdyke"
+host = "gmail.com"
+
+[name]
+display = "Rob Dyke"
+
+[social]
+twitter = "robdykedotcom"
