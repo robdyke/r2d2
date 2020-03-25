@@ -1,5 +1,5 @@
 ---
-author: Rob Dyke
+authors: ["robdyke"]
 date: "2008-03-22T15:40:14Z"
 guid: http://www.robdyke.com/noc/2008/03/22/dissertation-book-print-project/
 categories:

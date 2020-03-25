@@ -1,5 +1,5 @@
 ---
-author: Rob Dyke
+authors: ["robdyke"]
 date: "2012-07-06T12:55:16Z"
 guid: http://www.handihealth.net/?p=704
 id: 858

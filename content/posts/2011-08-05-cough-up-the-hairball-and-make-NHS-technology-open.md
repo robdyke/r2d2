@@ -1,5 +1,5 @@
 ---
-author: Rob Dyke
+authors: ["robdyke"]
 date: "2011-08-05T16:10:02Z"
 guid: http://www.tactix4.com/?p=573
 id: 573

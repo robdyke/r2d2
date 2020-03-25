@@ -1,5 +1,5 @@
 ---
-author: Rob Dyke
+authors: ["robdyke"]
 date: "2010-05-10T12:59:52Z"
 guid: http://www.robdyke.com/noc/2010/05/10/take-back-parliament-fair-votes-now/
 categories:

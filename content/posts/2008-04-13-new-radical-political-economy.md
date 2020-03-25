@@ -1,5 +1,5 @@
 ---
-author: Rob Dyke
+authors: ["robdyke"]
 date: "2008-04-13T16:43:11Z"
 guid: http://www.robdyke.com/noc/2008/04/13/new-radical-political-economy/
 categories:

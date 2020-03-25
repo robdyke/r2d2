@@ -1,5 +1,5 @@
 ---
-author: Rob Dyke
+authors: ["robdyke"]
 date: "2008-12-11T15:46:33Z"
 guid: http://www.robdyke.com/noc/2008/12/11/plane-stupid-direct-action-meets-networked-civil-disobedience/
 categories:

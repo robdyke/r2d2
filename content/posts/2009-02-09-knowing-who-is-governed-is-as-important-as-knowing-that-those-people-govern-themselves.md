@@ -1,5 +1,5 @@
 ---
-author: Rob Dyke
+authors: ["robdyke"]
 date: "2009-02-09T14:04:52Z"
 guid: http://www.robdyke.com/noc/2009/02/09/knowing-who-is-governed-is-as-important-as-knowing-that-those-people-govern-themselves/
 categories:

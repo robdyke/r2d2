@@ -1,5 +1,5 @@
 ---
-author: Rob Dyke
+authors: ["robdyke"]
 date: "2008-12-24T17:34:06Z"
 enclosure:
 - |

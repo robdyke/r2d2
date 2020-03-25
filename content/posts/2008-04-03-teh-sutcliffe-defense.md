@@ -1,5 +1,5 @@
 ---
-author: Rob Dyke
+authors: ["robdyke"]
 date: "2008-04-03T18:25:22Z"
 guid: http://www.robdyke.com/noc/2008/04/03/teh-sutcliffe-defense/
 categories:

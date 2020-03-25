@@ -1,5 +1,5 @@
 ---
-author: Rob Dyke
+authors: ["robdyke"]
 tags:
 - NHSbuntu
 - NHoS

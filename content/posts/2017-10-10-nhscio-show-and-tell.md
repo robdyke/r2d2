@@ -1,5 +1,5 @@
 ---
-author: Rob Dyke
+authors: ["robdyke"]
 date: "2017-10-10T00:00:00Z"
 title: NHSCIO Show and Tell
 url: /2017/10/10/nhscio-show-and-tell

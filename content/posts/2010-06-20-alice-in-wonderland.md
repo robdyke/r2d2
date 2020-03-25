@@ -1,5 +1,5 @@
 ---
-author: Rob Dyke
+authors: ["robdyke"]
 date: "2010-06-20T13:41:28Z"
 guid: http://www.robdyke.com/noc/2010/06/20/alice-in-wonderland/
 categories:

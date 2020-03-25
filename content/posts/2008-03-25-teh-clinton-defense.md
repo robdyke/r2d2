@@ -1,5 +1,5 @@
 ---
-author: Rob Dyke
+authors: ["robdyke"]
 date: "2008-03-25T17:11:25Z"
 guid: http://www.robdyke.com/noc/2008/03/25/teh-clinton-defense/
 categories:

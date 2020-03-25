@@ -1,5 +1,5 @@
 ---
-author: Rob Dyke
+authors: ["robdyke"]
 date: "2010-05-08T11:31:57Z"
 guid: http://www.robdyke.com/bec/2010/05/08/broke-my-blog/
 categories:

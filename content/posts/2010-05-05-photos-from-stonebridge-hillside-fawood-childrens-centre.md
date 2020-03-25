@@ -1,5 +1,5 @@
 ---
-author: Rob Dyke
+authors: ["robdyke"]
 date: "2010-05-05T14:00:13Z"
 dsq_thread_id:
 - 3851493642

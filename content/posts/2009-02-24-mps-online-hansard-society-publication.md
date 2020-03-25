@@ -1,5 +1,5 @@
 ---
-author: Rob Dyke
+authors: ["robdyke"]
 date: "2009-02-24T09:00:21Z"
 guid: http://www.robdyke.com/noc/2009/02/24/mps-online-hansard-society-publication/
 categories:

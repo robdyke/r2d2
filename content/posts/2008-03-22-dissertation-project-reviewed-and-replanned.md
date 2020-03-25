@@ -1,5 +1,5 @@
 ---
-author: Rob Dyke
+authors: ["robdyke"]
 date: "2008-03-22T15:26:53Z"
 guid: http://www.robdyke.com/noc/2008/03/22/dissertation-project-reviewed-and-replanned/
 categories:

@@ -1,5 +1,5 @@
 ---
-author: Rob Dyke
+authors: ["robdyke"]
 date: "2011-02-08T19:37:35Z"
 geo_latitude:
 - 51.566710666667

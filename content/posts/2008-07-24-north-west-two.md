@@ -1,5 +1,5 @@
 ---
-author: Rob Dyke
+authors: ["robdyke"]
 date: "2008-07-24T08:55:59Z"
 guid: http://www.robdyke.com/noc/2008/07/24/north-west-two/
 categories:

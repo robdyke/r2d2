@@ -1,5 +1,5 @@
 ---
-author: Rob Dyke
+authors: ["robdyke"]
 date: "2004-08-27T14:43:42Z"
 guid: http://www.robdyke.com/noc/?p=57
 categories:
