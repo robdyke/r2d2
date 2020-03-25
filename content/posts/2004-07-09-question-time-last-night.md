@@ -2,11 +2,13 @@
 author: Rob Dyke
 date: "2004-07-09T16:29:15Z"
 guid: http://www.robdyke.com/noc/?p=76
+categories:
+  - No Overall Control
 id: 612
 title: Question Time Last Night
 url: /2004/07/09/question-time-last-night/
 tags:
-- Sarah Teather Is My MP
+- Sarah Teather
 - Politics
 ---
 Wow! What an informed and articulate audience! If there was ever an argument for extending suffrage to the 16-18 year old age group then last night's broadcast proves it.

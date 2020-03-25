@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2010-05-10T14:48:52Z"
 guid: http://www.robdyke.com/bec/?p=413
+categories:
+  - Brent East Campaigning
 id: 413
 tags:
 - Brent Council

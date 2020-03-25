@@ -2,11 +2,13 @@
 author: Rob Dyke
 date: "2004-07-03T15:57:52Z"
 guid: http://www.robdyke.com/noc/?p=81
+categories:
+  - No Overall Control
 id: 607
 title: making the spoken word more informing...
 url: /2004/07/03/making-the-spoken-word-more-informing/
 tags:
-- Sarah Teather Is My MP
+- Sarah Teather
 ---
 OK. It's great to have the Brent Liberal Democrat auto mailer tell me that a speech made by Sarah has been posted to their website. But this is the crazy-super-inter-highway-web-thingy! Here we can make things more informing, have greater detail and relevence. Online, you can hyperlink! So. In order to make [OK. It's great to have the Brent Liberal Democrat auto mailer tell me that a speech made by Sarah has been posted to their website. But this is the crazy-super-inter-highway-web-thingy! Here we can make things more informing, have greater detail and relevence. Online, you can hyperlink! So. In order to make](http://www.brentlibdems.org.uk/article.php?id=16) have greater depth, I set myself a challenge: add hyperlinks to Sarah's speech to give more information to the online reader. Here is the result.
 

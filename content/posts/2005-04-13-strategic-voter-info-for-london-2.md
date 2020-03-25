@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-13T14:31:00Z"
 guid: http://www.robdyke.com/noc/?p=196
+categories:
+  - No Overall Control
 id: 196
 title: Strategic Voter - Info for London
 url: /2005/04/13/strategic-voter-info-for-london-2/

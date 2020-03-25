@@ -7,6 +7,8 @@ enclosure:
   76498224
   audio/mpeg
 guid: http://www.robdyke.com/noc/2008/12/24/new-evilrob-for-download/
+categories:
+  - No Overall Control
 id: 365
 tags:
 - Evil Rob

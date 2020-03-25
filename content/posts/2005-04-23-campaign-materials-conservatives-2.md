@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-23T17:11:00Z"
 guid: http://www.robdyke.com/noc/?p=180
+categories:
+  - No Overall Control
 id: 180
 title: Campaign Materials -  Conservatives
 url: /2005/04/23/campaign-materials-conservatives-2/

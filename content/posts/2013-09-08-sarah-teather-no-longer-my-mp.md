@@ -6,7 +6,7 @@ dsq_thread_id:
 guid: http://robdyke.com/rdb/?p=1096
 id: 1096
 tags:
-- Sarah Teather Is My MP
+- Sarah Teather
 title: Sarah Teather no longer my MP?
 url: /2013/09/08/sarah-teather-no-longer-my-mp/
 ---

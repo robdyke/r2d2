@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2010-05-04T14:29:13Z"
 guid: http://www.robdyke.com/bec/?p=292
+categories:
+  - Brent East Campaigning
 id: 292
 title: Local Torys ready for an election.
 url: /2010/05/04/local-torys-ready-for-an-election/

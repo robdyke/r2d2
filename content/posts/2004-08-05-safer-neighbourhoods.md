@@ -2,11 +2,13 @@
 author: Rob Dyke
 date: "2004-08-05T11:48:54Z"
 guid: http://www.robdyke.com/noc/?p=69
+categories:
+  - No Overall Control
 id: 69
 title: Safer Neighbourhoods
 url: /2004/08/05/safer-neighbourhoods/
 tags:
-- Sarah Teather Is My MP
+- Sarah Teather
 ---
 [On Monday](http://www.brentlibdems.org.uk/news/146.html), Sarah attended the launch of the [Metropolitian Police Safer Neighbourhoods](http://www.met.police.uk/saferneighbourhoods/faq.htm) initiative in Kilburn.
 

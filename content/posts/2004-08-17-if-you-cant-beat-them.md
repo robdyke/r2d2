@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-08-17T09:05:00Z"
 guid: http://www.robdyke.com/noc/?p=252
+categories:
+  - No Overall Control
 id: 637
 title: If you can’t beat them...
 url: /2004/08/17/if-you-cant-beat-them/

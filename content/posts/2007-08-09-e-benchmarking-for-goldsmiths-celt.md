@@ -4,6 +4,8 @@ date: "2007-08-09T11:00:55Z"
 dsq_thread_id:
 - 3851494260
 guid: http://www.robdyke.com/noc/?p=290
+categories:
+  - No Overall Control
 id: 290
 tags:
 - goldsmiths

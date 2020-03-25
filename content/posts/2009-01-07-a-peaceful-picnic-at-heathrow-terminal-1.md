@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2009-01-07T23:04:07Z"
 guid: http://www.robdyke.com/noc/2009/01/07/a-peaceful-picnic-at-heathrow-terminal-1/
+categories:
+  - No Overall Control
 id: 366
 tags:
 - environment

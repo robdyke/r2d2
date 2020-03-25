@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-29T14:33:00Z"
 guid: http://www.robdyke.com/noc/?p=169
+categories:
+  - No Overall Control
 id: 169
 tags:
 - campaign materials

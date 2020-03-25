@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2007-12-23T21:40:02Z"
 guid: http://www.robdyke.com/noc/?p=309
+categories:
+  - No Overall Control
 id: 309
 title: space hijacking santa
 url: /2007/12/23/space-hijacking-santa/

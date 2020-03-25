@@ -2,11 +2,13 @@
 author: Rob Dyke
 date: "2004-07-05T20:56:08Z"
 guid: http://www.robdyke.com/noc/?p=78
+categories:
+  - No Overall Control
 id: 610
 title: Campaign ‘Diary’ from Sarah Teather
 url: /2004/07/05/campaign-diary-from-sarah-teather/
 tags:
-- Sarah Teather Is My MP
+- Sarah Teather
 ---
 While this isn't news in the current affairs sense, it's relevent to the 'online activism' of blogging for your MP. I found this on the Guardian website from the time of the Brent East By-election last year which took Sarah into Parliament.
 

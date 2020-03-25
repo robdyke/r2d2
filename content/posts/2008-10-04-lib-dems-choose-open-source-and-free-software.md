@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2008-10-04T14:34:13Z"
 guid: http://www.robdyke.com/noc/2008/10/04/lib-dems-choose-open-source-and-free-software/
+categories:
+  - No Overall Control
 id: 359
 tags:
 - FLOSS

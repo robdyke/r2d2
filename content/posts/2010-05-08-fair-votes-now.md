@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2010-05-08T22:38:19Z"
 guid: http://www.robdyke.com/noc/?p=376
+categories:
+  - No Overall Control
 id: 376
 title: Fair Votes Now!
 url: /2010/05/08/fair-votes-now/

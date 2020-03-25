@@ -8,6 +8,8 @@ geo_longitude:
 geo_public:
 - 1
 guid: http://www.robdyke.com/noc/2011/05/31/heritage-inn-community-event/
+categories:
+  - No Overall Control
 id: 511
 tags:
 - cricklewood

@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2006-05-20T07:56:12Z"
 guid: http://www.robdyke.com/bec/?p=133
+categories:
+  - Brent East Campaigning
 id: 133
 title: Correction...
 url: /2006/05/20/correction/

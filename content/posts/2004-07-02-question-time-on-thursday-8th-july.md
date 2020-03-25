@@ -2,11 +2,13 @@
 author: Rob Dyke
 date: "2004-07-02T15:09:46Z"
 guid: http://www.robdyke.com/noc/?p=83
+categories:
+  - No Overall Control
 id: 605
 title: Question Time on Thursday 8th July
 url: /2004/07/02/question-time-on-thursday-8th-july/
 tags:
-- Sarah Teather Is My MP
+- Sarah Teather
 ---
 Is a [special edition of the program](http://news.bbc.co.uk/1/hi/programmes/question_time/3651217.stm). It will be produced by the winners of the BBC Schools Question Time Challenge.
 

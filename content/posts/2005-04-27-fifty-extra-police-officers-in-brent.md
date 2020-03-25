@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-27T10:37:00Z"
 guid: http://www.robdyke.com/bec/?p=33
+categories:
+  - Brent East Campaigning
 id: 33
 tags:
 - campaign materials

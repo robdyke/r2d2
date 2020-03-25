@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2010-04-01T18:29:37Z"
 guid: http://www.robdyke.com/bec/?p=159
+categories:
+  - Brent East Campaigning
 id: 159
 tags:
 - dirty tricks

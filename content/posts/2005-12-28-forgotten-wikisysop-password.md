@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-12-28T20:10:15Z"
 guid: http://www.robdyke.com/noc/?p=228
+categories:
+  - No Overall Control
 id: 726
 tags:
 - mediawiki

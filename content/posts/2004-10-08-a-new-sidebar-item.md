@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-10-08T20:54:35Z"
 guid: http://www.robdyke.com/noc/?p=45
+categories:
+  - No Overall Control
 id: 662
 title: A new sidebar item
 url: /2004/10/08/a-new-sidebar-item/

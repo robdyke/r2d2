@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-08-12T14:15:23Z"
 guid: http://www.robdyke.com/noc/?p=64
+categories:
+  - No Overall Control
 id: 633
 title: Didn’t we just do something about this?
 url: /2004/08/12/didnt-we-just-do-something-about-this/

@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-09-22T18:08:24Z"
 guid: http://www.robdyke.com/noc/?p=49
+categories:
+  - No Overall Control
 id: 658
 title: Blogging the UK Poli-conf season
 url: /2004/09/22/blogging-the-uk-poli-conf-season/

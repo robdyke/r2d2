@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-05-04T22:32:00Z"
 guid: http://www.robdyke.com/noc/?p=159
+categories:
+  - No Overall Control
 id: 707
 title: Campaign Materials -  Many!
 url: /2005/05/04/campaign-materials-many-3/

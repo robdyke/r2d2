@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2007-02-04T07:59:17Z"
 guid: http://www.robdyke.com/bec/?p=149
+categories:
+  - Brent East Campaigning
 id: 149
 title: Final post - read the About page.
 url: /2007/02/04/final-post-read-the-about-page/

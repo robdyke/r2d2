@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2006-05-12T22:05:02Z"
 guid: http://www.robdyke.com/noc/?p=106
+categories:
+  - No Overall Control
 id: 768
 tags:
 - election information

@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-09-02T03:31:45Z"
 guid: http://www.robdyke.com/noc/?p=56
+categories:
+  - No Overall Control
 id: 649
 title: A few notes by way of an update.
 url: /2004/09/02/a-few-notes-by-way-of-an-update/

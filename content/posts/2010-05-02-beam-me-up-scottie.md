@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2010-05-02T20:05:07Z"
 guid: http://www.robdyke.com/noc/2010/05/02/beam-me-up-scottie/
+categories:
+  - No Overall Control
 id: 375
 tags:
 - politics

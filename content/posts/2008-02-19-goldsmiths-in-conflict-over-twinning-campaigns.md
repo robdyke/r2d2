@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2008-02-19T21:07:47Z"
 guid: http://www.robdyke.com/noc/?p=321
+categories:
+  - No Overall Control
 id: 801
 tags:
 - goldsmiths

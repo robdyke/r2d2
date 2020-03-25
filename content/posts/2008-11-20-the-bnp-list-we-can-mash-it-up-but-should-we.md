@@ -4,6 +4,8 @@ date: "2008-11-20T09:11:24Z"
 dsq_thread_id:
 - 3851494869
 guid: http://www.robdyke.com/noc/2008/11/20/the-bnp-list-we-can-mash-it-up-but-should-we/
+categories:
+  - No Overall Control
 id: 814
 tags:
 - Freedom of Information

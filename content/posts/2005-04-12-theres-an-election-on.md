@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-12T02:53:00Z"
 guid: http://www.robdyke.com/noc/?p=23
+categories:
+  - No Overall Control
 id: 686
 title: There’s an election on...
 url: /2005/04/12/theres-an-election-on/

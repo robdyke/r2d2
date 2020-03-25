@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-05-03T14:23:00Z"
 guid: http://www.robdyke.com/noc/?p=167
+categories:
+  - No Overall Control
 id: 167
 title: Campaign Materials -  Rainbow George
 url: /2005/05/03/campaign-materials-rainbow-george-2/

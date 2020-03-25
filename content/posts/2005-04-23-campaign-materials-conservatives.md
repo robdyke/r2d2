@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-23T13:11:00Z"
 guid: http://www.robdyke.com/bec/?p=25
+categories:
+  - Brent East Campaigning
 id: 25
 title: Campaign Materials -  Conservatives
 url: /2005/04/23/campaign-materials-conservatives/

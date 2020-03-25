@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-08-03T08:41:31Z"
 guid: http://www.robdyke.com/noc/?p=264
+categories:
+  - No Overall Control
 id: 619
 title: DEFCON Mango
 url: /2004/08/03/defcon-mango/

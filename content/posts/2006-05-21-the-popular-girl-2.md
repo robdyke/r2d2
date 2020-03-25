@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2006-05-21T07:02:04Z"
 guid: http://www.robdyke.com/noc/?p=102
+categories:
+  - No Overall Control
 id: 773
 tags:
 - op-ed

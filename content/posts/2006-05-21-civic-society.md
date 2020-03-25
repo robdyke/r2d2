@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2006-05-21T07:06:08Z"
 guid: http://www.robdyke.com/noc/?p=216
+categories:
+  - No Overall Control
 id: 216
 title: civic society
 url: /2006/05/21/civic-society/

@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2006-01-04T15:44:17Z"
 guid: http://www.robdyke.com/noc/?p=226
+categories:
+  - No Overall Control
 id: 226
 tags:
 - interests

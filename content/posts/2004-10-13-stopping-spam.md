@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-10-13T14:37:06Z"
 guid: http://www.robdyke.com/noc/?p=42
+categories:
+  - No Overall Control
 id: 665
 title: Stopping Spam!
 url: /2004/10/13/stopping-spam/

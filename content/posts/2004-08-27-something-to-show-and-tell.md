@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-08-27T08:37:40Z"
 guid: http://www.robdyke.com/noc/?p=248
+categories:
+  - No Overall Control
 id: 647
 title: Something to show and tell.
 url: /2004/08/27/something-to-show-and-tell/

@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-18T15:00:00Z"
 guid: http://www.robdyke.com/bec/?p=15
+categories:
+  - Brent East Campaigning
 id: 15
 title: While on the subject of voting records....
 url: /2005/04/18/while-on-the-subject-of-voting-records/

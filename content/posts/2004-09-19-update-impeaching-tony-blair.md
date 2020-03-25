@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-09-19T17:08:41Z"
 guid: http://www.robdyke.com/noc/?p=52
+categories:
+  - No Overall Control
 id: 654
 title: 'Update: Impeaching Tony Blair'
 url: /2004/09/19/update-impeaching-tony-blair/

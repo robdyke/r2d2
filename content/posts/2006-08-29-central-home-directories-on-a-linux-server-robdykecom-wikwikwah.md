@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2006-08-29T22:20:08Z"
 guid: http://www.robdyke.com/noc/?p=210
+categories:
+  - No Overall Control
 id: 210
 tags:
 - technology

@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-17T16:52:00Z"
 guid: http://www.robdyke.com/noc/?p=193
+categories:
+  - No Overall Control
 id: 193
 title: What are the policies of the three main parties?
 url: /2005/04/17/what-are-the-policies-of-the-three-main-parties-2/

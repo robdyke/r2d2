@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-09-20T08:33:02Z"
 guid: http://www.robdyke.com/noc/?p=243
+categories:
+  - No Overall Control
 id: 656
 title: Look, it wouldn’t be big OR clever...
 url: /2004/09/20/look-it-wouldnt-be-big-or-clever/

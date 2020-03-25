@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-12-11T22:03:32Z"
 guid: http://www.robdyke.com/noc/?p=230
+categories:
+  - No Overall Control
 id: 230
 tags:
 - linksys wrt54g

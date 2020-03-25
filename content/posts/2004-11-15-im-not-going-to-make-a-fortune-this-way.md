@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-11-15T13:23:55Z"
 guid: http://www.robdyke.com/noc/?p=35
+categories:
+  - No Overall Control
 id: 672
 title: I’m not going to make a fortune this way...
 url: /2004/11/15/im-not-going-to-make-a-fortune-this-way/

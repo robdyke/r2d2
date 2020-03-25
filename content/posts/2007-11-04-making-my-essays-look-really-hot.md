@@ -4,6 +4,8 @@ date: "2007-11-04T23:16:39Z"
 dsq_thread_id:
 - 3851494367
 guid: http://www.robdyke.com/noc/?p=301
+categories:
+  - No Overall Control
 id: 301
 tags:
 - TeX

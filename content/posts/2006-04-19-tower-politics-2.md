@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2006-04-19T07:51:17Z"
 guid: http://www.robdyke.com/noc/?p=130
+categories:
+  - No Overall Control
 id: 746
 tags:
 - qp tower block

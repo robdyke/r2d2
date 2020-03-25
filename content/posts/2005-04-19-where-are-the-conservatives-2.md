@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-19T15:29:00Z"
 guid: http://www.robdyke.com/noc/?p=189
+categories:
+  - No Overall Control
 id: 689
 title: Where are the Conservatives?
 url: /2005/04/19/where-are-the-conservatives-2/

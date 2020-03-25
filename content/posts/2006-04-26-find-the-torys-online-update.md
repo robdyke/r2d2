@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2006-04-26T03:55:12Z"
 guid: http://www.robdyke.com/bec/?p=104
+categories:
+  - Brent East Campaigning
 id: 104
 tags:
 - conservatives

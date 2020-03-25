@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2006-09-19T08:44:57Z"
 guid: http://www.robdyke.com/noc/?p=205
+categories:
+  - No Overall Control
 id: 205
 tags:
 - community network

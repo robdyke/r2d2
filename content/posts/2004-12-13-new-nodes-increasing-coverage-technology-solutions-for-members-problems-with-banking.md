@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-12-13T09:29:24Z"
 guid: http://www.robdyke.com/noc/?p=239
+categories:
+  - No Overall Control
 id: 239
 title: New nodes increasing coverage... technology solutions for members... problems
   with banking...

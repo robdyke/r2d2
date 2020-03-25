@@ -2,9 +2,11 @@
 author: Rob Dyke
 date: "2007-08-18T09:05:29Z"
 guid: http://www.robdyke.com/noc/?p=291
+categories:
+  - No Overall Control
 id: 291
 tags:
-- Sarah Teather Is My MP
+- Sarah Teather
 - social tools
 - websites
 title: Poke Sarah!

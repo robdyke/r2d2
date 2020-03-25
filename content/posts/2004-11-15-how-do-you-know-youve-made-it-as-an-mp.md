@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-11-15T14:30:49Z"
 guid: http://www.robdyke.com/noc/?p=34
+categories:
+  - No Overall Control
 id: 673
 title: How do you know you’ve made it as an MP?
 url: /2004/11/15/how-do-you-know-youve-made-it-as-an-mp/

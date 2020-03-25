@@ -2,11 +2,13 @@
 author: Rob Dyke
 date: "2004-07-03T14:02:39Z"
 guid: http://www.robdyke.com/noc/?p=82
+categories:
+  - No Overall Control
 id: 606
 title: when news isn’t news
 url: /2004/07/03/when-news-isnt-news/
 tags:
-- Sarah Teather Is My MP
+- Sarah Teather
 ---
 Yesterday, the 'Brent & Brent East Liberal Democrats team' automailer sent me a content update for [their website.](http://www.brentlibdems.org.uk/)
 

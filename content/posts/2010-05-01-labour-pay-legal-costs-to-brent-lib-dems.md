@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2010-05-01T11:46:00Z"
 guid: http://www.robdyke.com/bec/?p=206
+categories:
+  - Brent East Campaigning
 id: 206
 tags:
 - Dawn Butler

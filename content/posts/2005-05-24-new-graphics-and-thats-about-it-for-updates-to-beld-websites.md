@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-05-24T14:07:00Z"
 guid: http://www.robdyke.com/noc/?p=13
+categories:
+  - No Overall Control
 id: 722
 title: New graphics... And that’s about it for updates to BELD websites...
 url: /2005/05/24/new-graphics-and-thats-about-it-for-updates-to-beld-websites/

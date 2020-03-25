@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-05-09T09:00:00Z"
 guid: http://www.robdyke.com/noc/?p=237
+categories:
+  - No Overall Control
 id: 237
 title: Brent East Campaigning - A review
 url: /2005/05/09/brent-east-campaigning-a-review-2/

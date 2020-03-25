@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2008-04-03T18:25:22Z"
 guid: http://www.robdyke.com/noc/2008/04/03/teh-sutcliffe-defense/
+categories:
+  - No Overall Control
 id: 805
 title: Teh Sutcliffe Defense
 url: /2008/04/03/teh-sutcliffe-defense/

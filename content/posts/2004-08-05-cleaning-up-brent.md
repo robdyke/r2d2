@@ -2,11 +2,13 @@
 author: Rob Dyke
 date: "2004-08-05T12:05:36Z"
 guid: http://www.robdyke.com/noc/?p=68
+categories:
+  - No Overall Control
 id: 626
 title: Cleaning Up Brent
 url: /2004/08/05/cleaning-up-brent/
 tags:
-- Sarah Teather Is My MP
+- Sarah Teather
 ---
 I am pleased to see Sarah [continuing to take action](http://www.brentlibdems.org.uk/news/147.html) on the street furniture left behind following the privatisation and deregulation the telecoms industry.
 

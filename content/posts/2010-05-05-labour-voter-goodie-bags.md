@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2010-05-05T17:29:14Z"
 guid: http://www.robdyke.com/bec/?p=334
+categories:
+  - Brent East Campaigning
 id: 334
 title: Labour voter goodie bags
 url: /2010/05/05/labour-voter-goodie-bags/

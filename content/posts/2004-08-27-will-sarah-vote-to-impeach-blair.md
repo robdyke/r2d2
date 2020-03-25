@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-08-27T14:43:42Z"
 guid: http://www.robdyke.com/noc/?p=57
+categories:
+  - No Overall Control
 id: 648
 title: Will Sarah vote to impeach Blair?
 url: /2004/08/27/will-sarah-vote-to-impeach-blair/

@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2006-05-21T03:02:04Z"
 guid: http://www.robdyke.com/bec/?p=135
+categories:
+  - Brent East Campaigning
 id: 135
 tags:
 - op-ed

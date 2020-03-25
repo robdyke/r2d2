@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2008-05-26T22:40:56Z"
 guid: http://www.robdyke.com/noc/2008/05/26/the-price-of-oil-green-taxes-and-cutting-steaks-in-half/
+categories:
+  - No Overall Control
 id: 343
 tags:
 - environment

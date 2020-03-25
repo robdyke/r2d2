@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-18T19:00:00Z"
 guid: http://www.robdyke.com/noc/?p=190
+categories:
+  - No Overall Control
 id: 688
 title: While on the subject of voting records....
 url: /2005/04/18/while-on-the-subject-of-voting-records-2/

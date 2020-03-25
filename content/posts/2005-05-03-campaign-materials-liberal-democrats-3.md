@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-05-03T11:37:00Z"
 guid: http://www.robdyke.com/bec/?p=40
+categories:
+  - Brent East Campaigning
 id: 40
 title: Campaign Materials -  Liberal Democrats
 url: /2005/05/03/campaign-materials-liberal-democrats-3/

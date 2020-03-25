@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-08-15T13:00:24Z"
 guid: http://www.robdyke.com/noc/?p=255
+categories:
+  - No Overall Control
 id: 634
 title: Who’s got your attention?
 url: /2004/08/15/whos-got-your-attention/

@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-05-13T14:20:00Z"
 guid: http://www.robdyke.com/noc/?p=146
+categories:
+  - No Overall Control
 id: 720
 tags:
 - stop the war

@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2010-05-14T17:04:00Z"
 guid: http://www.robdyke.com/bec/?p=419
+categories:
+  - Brent East Campaigning
 id: 419
 tags:
 - government

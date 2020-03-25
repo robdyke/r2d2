@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-05-12T07:52:00Z"
 guid: http://www.robdyke.com/bec/?p=59
+categories:
+  - Brent East Campaigning
 id: 59
 tags:
 - stop the war

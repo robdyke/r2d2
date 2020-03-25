@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-05-06T00:04:00Z"
 guid: http://www.robdyke.com/bec/?p=53
+categories:
+  - Brent East Campaigning
 id: 53
 tags:
 - election information

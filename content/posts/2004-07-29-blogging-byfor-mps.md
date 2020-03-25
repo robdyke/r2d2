@@ -2,11 +2,13 @@
 author: Rob Dyke
 date: "2004-07-29T16:19:27Z"
 guid: http://www.robdyke.com/noc/?p=269
+categories:
+  - No Overall Control
 id: 269
 title: Blogging by/for MPs
 url: /2004/07/29/blogging-byfor-mps/
 tags:
-- Sarah Teather Is My MP
+- Sarah Teather
 - Politics
 ---
 Following on from the [Hansard Society](http://www.hansardsociety.org.uk/) report into [UK Political Weblogs](http://www.hansardsociety.org.uk/node/view/189) (PDF report [here](http://www.hansardsociety.org.uk/assets/Final_Blog_Report_.pdf)), the Guardian keeps the spotlight on this area with [this story](http://politics.guardian.co.uk/egovernment/story/0,12767,1271096,00.html), basically encouraging MPs to get blogging.

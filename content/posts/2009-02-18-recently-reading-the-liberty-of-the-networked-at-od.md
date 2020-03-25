@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2009-02-18T15:59:42Z"
 guid: http://www.robdyke.com/noc/2009/02/18/recently-reading-the-liberty-of-the-networked-at-od/
+categories:
+  - No Overall Control
 id: 368
 tags:
 - CML

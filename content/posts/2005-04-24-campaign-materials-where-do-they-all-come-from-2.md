@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-24T22:41:00Z"
 guid: http://www.robdyke.com/noc/?p=177
+categories:
+  - No Overall Control
 id: 696
 title: Campaign Materials -  Where do they all come from?
 url: /2005/04/24/campaign-materials-where-do-they-all-come-from-2/

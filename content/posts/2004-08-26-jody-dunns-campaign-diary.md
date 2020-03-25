@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-08-26T15:23:18Z"
 guid: http://www.robdyke.com/noc/?p=59
+categories:
+  - No Overall Control
 id: 645
 title: Jody Dunn’s Campaign Diary
 url: /2004/08/26/jody-dunns-campaign-diary/

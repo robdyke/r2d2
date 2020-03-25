@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-08-07T17:09:11Z"
 guid: http://www.robdyke.com/noc/?p=258
+categories:
+  - No Overall Control
 id: 629
 title: WTF! He hoaxed it!
 url: /2004/08/07/wtf-he-hoaxed-it/

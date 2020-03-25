@@ -8,6 +8,8 @@ geo_longitude:
 geo_public:
 - 1
 guid: http://www.robdyke.com/noc/2011/02/08/attendance-at-council-committees/
+categories:
+  - No Overall Control
 id: 439
 tags:
 - Brent Council

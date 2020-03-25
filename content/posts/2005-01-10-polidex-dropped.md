@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-01-10T19:22:29Z"
 guid: http://www.robdyke.com/noc/?p=32
+categories:
+  - No Overall Control
 id: 676
 title: Polidex dropped....
 url: /2005/01/10/polidex-dropped/

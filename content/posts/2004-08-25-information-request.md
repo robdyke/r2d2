@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-08-25T14:28:01Z"
 guid: http://www.robdyke.com/noc/?p=60
+categories:
+  - No Overall Control
 id: 643
 title: Information Request
 url: /2004/08/25/information-request/

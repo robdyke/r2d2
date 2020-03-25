@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2010-05-13T13:19:19Z"
 guid: http://www.robdyke.com/bec/2010/05/13/sarah-teather-housing-minister/
+categories:
+  - Brent East Campaigning
 id: 417
 tags:
 - government

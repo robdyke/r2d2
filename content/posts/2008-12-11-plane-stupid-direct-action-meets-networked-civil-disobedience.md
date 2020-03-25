@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2008-12-11T15:46:33Z"
 guid: http://www.robdyke.com/noc/2008/12/11/plane-stupid-direct-action-meets-networked-civil-disobedience/
+categories:
+  - No Overall Control
 id: 815
 tags:
 - electronic civil disobedience

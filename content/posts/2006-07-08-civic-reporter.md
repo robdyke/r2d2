@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2006-07-08T13:35:41Z"
 guid: http://www.robdyke.com/noc/?p=212
+categories:
+  - No Overall Control
 id: 779
 title: Civic Reporter
 url: /2006/07/08/civic-reporter/

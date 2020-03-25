@@ -2,11 +2,13 @@
 author: Rob Dyke
 date: "2004-07-29T22:22:32Z"
 guid: http://www.robdyke.com/noc/?p=267
+categories:
+  - No Overall Control
 id: 267
 title: 'HOWTO: blog for your MP'
 url: /2004/07/29/howto-blog-for-your-mp/
 tags:
-- Sarah Teather Is My MP
+- Sarah Teather
 - Politics
 ---
 **[Blog for your MP](http://www.bloggerheads.com/mps_weblogs.asp)**

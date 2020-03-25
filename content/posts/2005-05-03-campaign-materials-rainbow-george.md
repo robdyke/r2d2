@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-05-03T10:23:00Z"
 guid: http://www.robdyke.com/bec/?p=38
+categories:
+  - Brent East Campaigning
 id: 38
 title: Campaign Materials -  Rainbow George
 url: /2005/05/03/campaign-materials-rainbow-george/

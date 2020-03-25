@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2006-01-04T15:47:19Z"
 guid: http://www.robdyke.com/noc/?p=225
+categories:
+  - No Overall Control
 id: 225
 tags:
 - berlin

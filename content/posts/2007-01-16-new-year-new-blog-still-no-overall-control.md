@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2007-01-16T15:29:04Z"
 guid: http://www.robdyke.com/noc/?p=275
+categories:
+  - No Overall Control
 id: 275
 title: new year, new blog, still no overall control...
 url: /2007/01/16/new-year-new-blog-still-no-overall-control/

@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2006-05-22T20:51:33Z"
 guid: http://www.robdyke.com/noc/?p=100
+categories:
+  - No Overall Control
 id: 775
 tags:
 - candidates

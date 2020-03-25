@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-23T16:27:00Z"
 guid: http://www.robdyke.com/noc/?p=181
+categories:
+  - No Overall Control
 id: 693
 title: Lack of campaign materials - Labour
 url: /2005/04/23/lack-of-campaign-materials-labour-2/

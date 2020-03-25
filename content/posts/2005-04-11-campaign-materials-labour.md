@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-11T10:33:00Z"
 guid: http://www.robdyke.com/bec/?p=7
+categories:
+  - Brent East Campaigning
 id: 7
 title: Campaign Materials -  Labour
 url: /2005/04/11/campaign-materials-labour/

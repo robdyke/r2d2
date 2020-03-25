@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2006-04-19T03:51:17Z"
 guid: http://www.robdyke.com/bec/?p=94
+categories:
+  - Brent East Campaigning
 id: 94
 tags:
 - qp tower block

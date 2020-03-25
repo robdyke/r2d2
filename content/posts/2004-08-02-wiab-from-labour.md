@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-08-02T10:27:35Z"
 guid: http://www.robdyke.com/noc/?p=266
+categories:
+  - No Overall Control
 id: 266
 title: WiaB from Labour
 url: /2004/08/02/wiab-from-labour/

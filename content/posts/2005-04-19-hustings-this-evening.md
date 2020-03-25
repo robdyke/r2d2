@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-19T15:26:00Z"
 guid: http://www.robdyke.com/bec/?p=17
+categories:
+  - Brent East Campaigning
 id: 17
 title: Hustings this evening.
 url: /2005/04/19/hustings-this-evening/

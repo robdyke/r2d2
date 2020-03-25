@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-17T12:52:00Z"
 guid: http://www.robdyke.com/bec/?p=12
+categories:
+  - Brent East Campaigning
 id: 12
 title: What are the policies of the three main parties?
 url: /2005/04/17/what-are-the-policies-of-the-three-main-parties/

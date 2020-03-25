@@ -4,6 +4,8 @@ date: "2005-04-09T17:19:00Z"
 dsq_thread_id:
 - 3851493804
 guid: http://www.robdyke.com/bec/?p=6
+categories:
+  - Brent East Campaigning
 id: 6
 title: Meeting Yasmin Qureshi
 url: /2005/04/09/meeting-yasmin-qureshi/

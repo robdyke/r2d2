@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-18T14:36:00Z"
 guid: http://www.robdyke.com/bec/?p=13
+categories:
+  - Brent East Campaigning
 id: 13
 title: Don&#039;t mention the war?
 url: /2005/04/18/dont-mention-the-war/

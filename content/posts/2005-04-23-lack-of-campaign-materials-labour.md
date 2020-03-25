@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-23T12:27:00Z"
 guid: http://www.robdyke.com/bec/?p=24
+categories:
+  - Brent East Campaigning
 id: 24
 title: Lack of campaign materials - Labour
 url: /2005/04/23/lack-of-campaign-materials-labour/

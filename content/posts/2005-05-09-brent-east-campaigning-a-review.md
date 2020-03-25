@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-05-09T10:54:00Z"
 guid: http://www.robdyke.com/bec/?p=57
+categories:
+  - Brent East Campaigning
 id: 57
 tags:
 - websites

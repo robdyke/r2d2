@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-05-05T12:13:00Z"
 guid: http://www.robdyke.com/noc/?p=157
+categories:
+  - No Overall Control
 id: 157
 title: Campaign Materials -  Labour
 url: /2005/05/05/campaign-materials-labour-8/

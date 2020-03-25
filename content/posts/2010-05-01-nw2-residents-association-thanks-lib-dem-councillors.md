@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2010-05-01T12:37:42Z"
 guid: http://www.robdyke.com/bec/?p=214
+categories:
+  - Brent East Campaigning
 id: 214
 tags:
 - Liberal Democrats

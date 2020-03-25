@@ -4,6 +4,8 @@ date: "2010-05-06T10:41:53Z"
 dsq_thread_id:
 - 3851494725
 guid: http://www.robdyke.com/bec/?p=341
+categories:
+  - Brent East Campaigning
 id: 341
 tags:
 - brent central

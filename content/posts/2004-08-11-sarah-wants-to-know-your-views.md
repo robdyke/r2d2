@@ -2,11 +2,13 @@
 author: Rob Dyke
 date: "2004-08-11T16:17:54Z"
 guid: http://www.robdyke.com/noc/?p=65
+categories:
+  - No Overall Control
 id: 630
 title: Sarah wants to know your views
 url: /2004/08/11/sarah-wants-to-know-your-views/
 tags:
-- Sarah Teather Is My MP
+- Sarah Teather
 ---
 On [Friday 6th August, Sarah announced](http://www.brentlibdems.org.uk/news/151.html) that she was to conduct her own 'Big Conversation' consultation with the residents of Brent East.
 

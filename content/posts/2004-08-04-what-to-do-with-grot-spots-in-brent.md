@@ -2,11 +2,13 @@
 author: Rob Dyke
 date: "2004-08-04T17:00:12Z"
 guid: http://www.robdyke.com/noc/?p=70
+categories:
+  - No Overall Control
 id: 624
 title: What to do with ‘grot spots’ in Brent
 url: /2004/08/04/what-to-do-with-grot-spots-in-brent/
 tags:
-- Sarah Teather Is My MP
+- Sarah Teather
 ---
 From what I can gather, there are two different options for reporting 'grot spots' for action by the local authority.
 

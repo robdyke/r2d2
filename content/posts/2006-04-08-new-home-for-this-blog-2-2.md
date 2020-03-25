@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2006-04-08T20:58:55Z"
 guid: http://www.robdyke.com/noc/?p=143
+categories:
+  - No Overall Control
 id: 731
 title: new home for this blog
 url: /2006/04/08/new-home-for-this-blog-2-2/

@@ -7,6 +7,8 @@ excerpt: After much fruitless searching for helpful documentation to assist me i
   setting up the VPN services on a Cisco RV 120W to work with the open source client
   from Shrew Soft, I thought I'd better make a post here to help others.
 guid: http://www.robdyke.com/noc/?p=456
+categories:
+  - No Overall Control
 id: 456
 tags:
 - cisco

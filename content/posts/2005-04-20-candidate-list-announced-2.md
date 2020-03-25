@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-20T12:53:00Z"
 guid: http://www.robdyke.com/noc/?p=187
+categories:
+  - No Overall Control
 id: 691
 title: Candidate List Announced
 url: /2005/04/20/candidate-list-announced-2/

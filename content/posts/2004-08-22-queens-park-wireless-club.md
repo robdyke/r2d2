@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-08-22T12:55:14Z"
 guid: http://www.robdyke.com/noc/?p=250
+categories:
+  - No Overall Control
 id: 641
 title: Queen’s Park Wireless Club
 url: /2004/08/22/queens-park-wireless-club/

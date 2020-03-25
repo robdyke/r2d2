@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-11-20T00:58:11Z"
 guid: http://www.robdyke.com/noc/?p=231
+categories:
+  - No Overall Control
 id: 231
 tags:
 - xen

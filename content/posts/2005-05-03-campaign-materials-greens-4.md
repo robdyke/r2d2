@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-05-03T16:04:00Z"
 guid: http://www.robdyke.com/noc/?p=163
+categories:
+  - No Overall Control
 id: 704
 title: Campaign Materials -  Greens
 url: /2005/05/03/campaign-materials-greens-4/

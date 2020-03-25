@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-23T17:43:00Z"
 guid: http://www.robdyke.com/noc/?p=179
+categories:
+  - No Overall Control
 id: 694
 title: Campaign Materials -  Liberal Democrats
 url: /2005/04/23/campaign-materials-liberal-democrats-7/

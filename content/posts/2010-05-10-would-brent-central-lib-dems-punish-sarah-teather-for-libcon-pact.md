@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2010-05-10T12:22:43Z"
 guid: http://www.robdyke.com/bec/?p=409
+categories:
+  - Brent East Campaigning
 id: 409
 tags:
 - brent central

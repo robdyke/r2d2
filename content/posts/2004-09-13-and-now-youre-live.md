@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-09-13T16:39:52Z"
 guid: http://www.robdyke.com/noc/?p=247
+categories:
+  - No Overall Control
 id: 651
 title: And now you’re live!
 url: /2004/09/13/and-now-youre-live/

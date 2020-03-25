@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-21T13:17:00Z"
 guid: http://www.robdyke.com/noc/?p=186
+categories:
+  - No Overall Control
 id: 186
 title: Linkup for George ‘Rainbow’ Weiss
 url: /2005/04/21/linkup-for-george-rainbow-weiss-2/

@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-09-02T18:47:22Z"
 guid: http://www.robdyke.com/noc/?p=55
+categories:
+  - No Overall Control
 id: 650
 title: Crude and attention grabbing?
 url: /2004/09/02/crude-and-attention-grabbing/

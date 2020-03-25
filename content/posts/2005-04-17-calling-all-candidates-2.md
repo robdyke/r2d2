@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-17T16:30:00Z"
 guid: http://www.robdyke.com/noc/?p=194
+categories:
+  - No Overall Control
 id: 687
 title: Calling all candidates
 url: /2005/04/17/calling-all-candidates-2/

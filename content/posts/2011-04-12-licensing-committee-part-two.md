@@ -8,6 +8,8 @@ geo_longitude:
 geo_public:
 - 1
 guid: http://www.robdyke.com/noc/2011/04/12/licensing-committee-part-two/
+categories:
+  - No Overall Control
 id: 455
 tags:
 - Brent Council

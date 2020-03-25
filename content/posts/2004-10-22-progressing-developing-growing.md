@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-10-22T16:58:07Z"
 guid: http://www.robdyke.com/noc/?p=241
+categories:
+  - No Overall Control
 id: 241
 title: Progressing, developing, growing
 url: /2004/10/22/progressing-developing-growing/

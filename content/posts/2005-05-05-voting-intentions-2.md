@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-05-05T02:35:00Z"
 guid: http://www.robdyke.com/noc/?p=158
+categories:
+  - No Overall Control
 id: 158
 title: Voting intentions
 url: /2005/05/05/voting-intentions-2/

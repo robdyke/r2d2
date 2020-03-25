@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-05-03T12:04:00Z"
 guid: http://www.robdyke.com/bec/?p=42
+categories:
+  - Brent East Campaigning
 id: 42
 title: Campaign Materials -  Greens
 url: /2005/05/03/campaign-materials-greens-3/

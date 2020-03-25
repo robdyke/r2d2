@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-04-18T18:36:00Z"
 guid: http://www.robdyke.com/noc/?p=192
+categories:
+  - No Overall Control
 id: 192
 title: Don’t mention the war?
 url: /2005/04/18/dont-mention-the-war-2/

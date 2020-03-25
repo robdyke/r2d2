@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2005-05-24T09:38:00Z"
 guid: http://www.robdyke.com/noc/?p=236
+categories:
+  - No Overall Control
 id: 236
 title: Warsaw Pack and anarcho-capitalism
 url: /2005/05/24/warsaw-pack-and-anarcho-capitalism/

@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2011-01-09T16:40:08Z"
 guid: http://www.robdyke.com/bec/?p=424
+categories:
+  - Brent East Campaigning
 id: 424
 title: More Than Books
 url: /2011/01/09/more-than-books/

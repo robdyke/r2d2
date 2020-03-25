@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-08-19T13:56:39Z"
 guid: http://www.robdyke.com/noc/?p=62
+categories:
+  - No Overall Control
 id: 640
 title: She’s right....
 url: /2004/08/19/shes-right/

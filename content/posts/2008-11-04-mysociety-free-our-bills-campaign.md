@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2008-11-04T15:02:16Z"
 guid: http://www.robdyke.com/noc/2008/11/04/mysociety-free-our-bills-campaign/
+categories:
+  - No Overall Control
 id: 358
 tags:
 - Freedom of Information

@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-08-16T17:10:50Z"
 guid: http://www.robdyke.com/noc/?p=253
+categories:
+  - No Overall Control
 id: 636
 title: What’s Happening?
 url: /2004/08/16/whats-happening/

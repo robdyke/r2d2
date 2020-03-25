@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2004-10-08T21:08:37Z"
 guid: http://www.robdyke.com/noc/?p=44
+categories:
+  - No Overall Control
 id: 663
 title: Liberal Democrat Pre-Manifesto
 url: /2004/10/08/liberal-democrat-pre-manifesto/

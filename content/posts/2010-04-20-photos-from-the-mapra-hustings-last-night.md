@@ -2,6 +2,8 @@
 author: Rob Dyke
 date: "2010-04-20T19:35:27Z"
 guid: http://www.robdyke.com/bec/?p=165
+categories:
+  - Brent East Campaigning
 id: 165
 tags:
 - Election 2010
