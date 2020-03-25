@@ -127,11 +127,18 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 
-[[menu.main]]
+[[menu.sidebar]]
 name = "Repo"
 weight = -10
 identifier = "repository"
 url = "https://github.com/robdyke/robdyke.github.io"
+
+[[menu.sidebar]]
+name = "No Overall Control"
+url = "/categories/no-overall-control/"
+[[menu.sidebar]]
+name = "Brent East Campaigning"
+url = "/categories/brent-east-campaigning/"
 
 [blackfriday]
 hrefTargetBlank = true
