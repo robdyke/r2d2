@@ -7,6 +7,8 @@ categories:
 id: 673
 title: How do you know you’ve made it as an MP?
 url: /2004/11/15/how-do-you-know-youve-made-it-as-an-mp/
+tags:
+- Sarah Teather
 ---
 How do you know you've made it as an MP? When [Simon Hoggart features you in his Sketch](http://politics.guardian.co.uk/Columnists/Archive/0,9328,457368,00.html). It had taken our Sarah a little over a year to gain such acceptance. It was after her performance in Prime Ministers Question Time last week Simon [welcomed her into the fold](http://politics.guardian.co.uk/columnist/story/0,9321,1348271,00.html).
 

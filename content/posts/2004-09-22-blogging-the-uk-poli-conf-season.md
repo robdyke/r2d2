@@ -7,6 +7,8 @@ categories:
 id: 658
 title: Blogging the UK Poli-conf season
 url: /2004/09/22/blogging-the-uk-poli-conf-season/
+tags:
+- Politics
 ---
 With the RNC and the DNC being blogged both from the floor and by corporate bandwidth whores and used as sources of discussion here in the UK, I'd have thought that we would have had a few bloggers for the current silly season here within our own shores.
 

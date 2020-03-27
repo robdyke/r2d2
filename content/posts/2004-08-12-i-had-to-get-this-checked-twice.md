@@ -7,6 +7,8 @@ categories:
 id: 632
 title: I had to get this checked. Twice.
 url: /2004/08/12/i-had-to-get-this-checked-twice/
+tags:
+- Labour
 ---
 Are mine eyes deceiving me?
 

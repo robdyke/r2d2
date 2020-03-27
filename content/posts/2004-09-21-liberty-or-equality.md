@@ -7,6 +7,8 @@ categories:
 id: 657
 title: Liberty or Equality?
 url: /2004/09/21/liberty-or-equality/
+tags:
+- Sarah Teather
 ---
 At one of the Guardian sponsored fringe events surrounding the Liberal Democrat conference in Bournemouth yesterday, Sarah shared the stage with Nick Clegg, Mark Oaten and Sir Menzies Campbell debating Liberty or Equality?
 

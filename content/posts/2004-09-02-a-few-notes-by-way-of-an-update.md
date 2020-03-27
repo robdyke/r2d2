@@ -7,6 +7,8 @@ categories:
 id: 649
 title: A few notes by way of an update.
 url: /2004/09/02/a-few-notes-by-way-of-an-update/
+tags:
+- Sarah Teather
 ---
 No response from my fax to Sarah last week. I'm sure she'll respond within the target timescale - maybe even bettering her average response time! (she currently responds to 42% of messages sent via FaxYourMP.com within 14 days).
 

@@ -7,6 +7,8 @@ categories:
 id: 642
 title: Stock photography
 url: /2004/08/25/stock-photography/
+tags:
+- Sarah Teather
 ---
 Or, how to give out the desired impression by using images.
 

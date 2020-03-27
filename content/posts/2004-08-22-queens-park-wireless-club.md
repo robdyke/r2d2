@@ -7,6 +7,8 @@ categories:
 id: 641
 title: Queen’s Park Wireless Club
 url: /2004/08/22/queens-park-wireless-club/
+tags:
+- wifi
 ---
 Queen’s Park Wireless Club
 

@@ -7,6 +7,8 @@ categories:
 id: 648
 title: Will Sarah vote to impeach Blair?
 url: /2004/08/27/will-sarah-vote-to-impeach-blair/
+tags:
+- Sarah Teather
 ---
 Yesterday moves were made to begin [impeachment proceedings](http://news.google.co.uk/news?hl=en&ned=uk&q=impeach+blair&ie=UTF-8&filter=0&scoring=d) on [Tony Blair](http://www.impeachblair.org/). I want to know where Sarah stands on this issue.
 

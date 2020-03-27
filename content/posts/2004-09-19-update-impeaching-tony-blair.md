@@ -7,6 +7,8 @@ categories:
 id: 654
 title: 'Update: Impeaching Tony Blair'
 url: /2004/09/19/update-impeaching-tony-blair/
+tags:
+- Sarah Teather
 ---
 Last month, I [faxed Sarah](http://sarah-teather-mp.blogspot.com/2004/08/will-sarah-vote-to-impeach-blair.html) to get her views on the move to [impeach Tony Blair](http://www.impeachblair.org/).
 

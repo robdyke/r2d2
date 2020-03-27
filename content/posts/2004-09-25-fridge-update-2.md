@@ -7,6 +7,8 @@ categories:
 id: 660
 title: Fridge Update
 url: /2004/09/25/fridge-update-2/
+tags:
+- Brent
 ---
 I've recieved a reply to my email to the Brent Streetcare team. They acknowledge my request and the Councils contractors will be along to remove the items "over the next few days".
 

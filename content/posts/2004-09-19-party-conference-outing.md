@@ -7,6 +7,8 @@ categories:
 id: 655
 title: Party Conference Outing
 url: /2004/09/19/party-conference-outing/
+tags:
+- Sarah Teather
 ---
 "Sex, gaffes and silly stunts - it's party (conference) time again and [Westminster's circus is heading off to the coast](http://news.independent.co.uk/uk/politics/story.jsp?story=563085)."
 

@@ -7,6 +7,8 @@ categories:
 id: 674
 title: 'Opposition Day: Family Doctor Services'
 url: /2004/11/15/opposition-day-family-doctor-services/
+tags:
+- Sarah Teather
 ---
 It was a busy Commons week for Sarah last week. Not content with appearing in Hoggart's Sketch...Sorry...Questioning the Prime Minister over a serious funding shortfall caused by the actions of Government, Sarah was also speaking up for Family Doctor services in Brent East on [Opposition Day](http://www.theyworkforyou.com/glossary/?gl=28).
 

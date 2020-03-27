@@ -7,6 +7,8 @@ categories:
 id: 656
 title: Look, it wouldn’t be big OR clever...
 url: /2004/09/20/look-it-wouldnt-be-big-or-clever/
+tags:
+- Exploit
 ---
 ...so don't do it. right?
 

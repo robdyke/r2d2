@@ -7,9 +7,9 @@ categories:
 id: 246
 title: Getting yourself online
 url: /2004/09/14/getting-yourself-online/
+tags:
+- wifi
 ---
-<img />
-
 Order a beer from the Salusbury, maybe a slice of pizza from the deli, or take a seat with an eat from Baker and Spice...
 
 Open your laptop. Power up your PDA.

@@ -8,6 +8,8 @@ id: 239
 title: New nodes increasing coverage... technology solutions for members... problems
   with banking...
 url: /2004/12/13/new-nodes-increasing-coverage-technology-solutions-for-members-problems-with-banking/
+tags:
+- wifi
 ---
 The occasional blogging of the growth of a wireless community.
 

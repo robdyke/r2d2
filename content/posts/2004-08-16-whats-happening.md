@@ -7,6 +7,8 @@ categories:
 id: 636
 title: What’s Happening?
 url: /2004/08/16/whats-happening/
+tags:
+- wifi
 ---
 A Wireless Broadband Network for Queen's Park.
 

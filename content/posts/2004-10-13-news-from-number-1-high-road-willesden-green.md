@@ -7,6 +7,10 @@ categories:
 id: 664
 title: News from Number 1, High Road, Willesden Green
 url: /2004/10/13/news-from-number-1-high-road-willesden-green/
+tags:
+- Sarah Teather
+- Liberal Democrats
+- Manifesto
 ---
 In last weeks Willesden & Brent Chronicle, Sarah wrote of the recent silly season for the UK's political parties, hammered home the message that the Lib Dems are now the second party of British Politics (although, not yet Her Majesty's Official Opposition) and invited us to make a cup of tea while waiting for the pre-manifesto to download.
 

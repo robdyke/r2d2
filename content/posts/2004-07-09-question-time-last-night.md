@@ -9,7 +9,7 @@ title: Question Time Last Night
 url: /2004/07/09/question-time-last-night/
 tags:
 - Sarah Teather
-- Politics
+- BBCQT
 ---
 Wow! What an informed and articulate audience! If there was ever an argument for extending suffrage to the 16-18 year old age group then last night's broadcast proves it.
 

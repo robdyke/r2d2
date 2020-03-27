@@ -7,6 +7,9 @@ categories:
 id: 668
 title: MP’s expenses
 url: /2004/10/29/mps-expenses/
+tags:
+- Sarah Teather
+- Brent
 ---
 I wrote the post below last weekend - but I didn't have time to post it until today. Sorry.
 

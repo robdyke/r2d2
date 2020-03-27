@@ -7,6 +7,9 @@ categories:
 id: 666
 title: Happy anniversary Sarah!
 url: /2004/10/14/happy-anniversary-sarah/
+tags:
+- Sarah Teather
+- Brent East
 ---
 Today Sarah celebrates the first anniversary of being elected to serve Brent East. 365 Days in office. Happy anniversary Sarah.
 

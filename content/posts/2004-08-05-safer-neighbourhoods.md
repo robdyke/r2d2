@@ -9,6 +9,7 @@ title: Safer Neighbourhoods
 url: /2004/08/05/safer-neighbourhoods/
 tags:
 - Sarah Teather
+- Brent
 ---
 [On Monday](http://www.brentlibdems.org.uk/news/146.html), Sarah attended the launch of the [Metropolitian Police Safer Neighbourhoods](http://www.met.police.uk/saferneighbourhoods/faq.htm) initiative in Kilburn.
 

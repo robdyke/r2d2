@@ -7,6 +7,9 @@ categories:
 id: 665
 title: Stopping Spam!
 url: /2004/10/13/stopping-spam/
+tags:
+- Sarah Teather
+- SPAM
 ---
 Sarah has been asking questions of the [Secretary of State](http://www.theyworkforyou.com/glossary/?gl=23) for [Trade and Industry](http://www.dti.gov.uk/) relating to unsolicited bulk communications (be they by mail, telephone or fax calls or email.
 

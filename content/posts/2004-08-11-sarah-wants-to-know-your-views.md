@@ -9,6 +9,7 @@ title: Sarah wants to know your views
 url: /2004/08/11/sarah-wants-to-know-your-views/
 tags:
 - Sarah Teather
+- Brent
 ---
 On [Friday 6th August, Sarah announced](http://www.brentlibdems.org.uk/news/151.html) that she was to conduct her own 'Big Conversation' consultation with the residents of Brent East.
 

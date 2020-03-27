@@ -7,6 +7,8 @@ categories:
 id: 672
 title: I’m not going to make a fortune this way...
 url: /2004/11/15/im-not-going-to-make-a-fortune-this-way/
+tags:
+- Sarah Teather
 ---
 Dividends from Polidex for week ending Sunday 14, November 2004
 

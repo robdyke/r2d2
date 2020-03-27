@@ -7,6 +7,8 @@ categories:
 id: 639
 title: Meeting with Sarah Teather
 url: /2004/08/18/meeting-with-sarah-teather/
+tags:
+- Sarah Teather
 ---
 On Monday afternoon I met with Sarah Teather in her constituency office on Willesden Lane. We spoke about a number of things: blogging (needless to say), engaging with constituents, getting voice for unreported activities, technology as a barrier (for BELD!) and as an enabler (for local people) and also a little project I’ve been working on.
 

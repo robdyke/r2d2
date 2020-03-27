@@ -7,6 +7,8 @@ categories:
 id: 650
 title: Crude and attention grabbing?
 url: /2004/09/02/crude-and-attention-grabbing/
+tags:
+- Sarah Teather
 ---
 Well, why else would someone call it [Operation Gobstoppers](http://www.brentlibdems.org.uk/news/155.html)? Althought after '[Grot Spots](http://sarah-teather-mp.blogspot.com/2004/07/give-me-your-grot-spots.html)', what did I expect?
 

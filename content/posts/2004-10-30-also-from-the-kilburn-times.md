@@ -7,6 +7,9 @@ categories:
 id: 670
 title: also from the Kilburn Times...
 url: /2004/10/30/also-from-the-kilburn-times/
+tags:
+- Sarah Teather
+- Brent
 ---
 In the Kilburn Times this week, Sarah features three times on the letters page.
 

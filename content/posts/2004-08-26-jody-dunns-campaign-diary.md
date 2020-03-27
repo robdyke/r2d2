@@ -7,6 +7,9 @@ categories:
 id: 645
 title: Jody Dunn’s Campaign Diary
 url: /2004/08/26/jody-dunns-campaign-diary/
+tags:
+- Politics
+- Liberal Democrats
 ---
 Today I extend my congratualtions and a big welcome to the blogging community to Jody Dunn, Liberal Democrate candidate in the (maybe) Hartlepool by-election.
 

@@ -7,6 +7,8 @@ categories:
 id: 633
 title: Didn’t we just do something about this?
 url: /2004/08/12/didnt-we-just-do-something-about-this/
+tags:
+- Kilburn
 ---
 Last week, Sarah was [trumpeting the launch](http://www.brentlibdems.org.uk/news/146.html) of the 'Safer Neighbourhoods' initiative in Kilburn ward.
 

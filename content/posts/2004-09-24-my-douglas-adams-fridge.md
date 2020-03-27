@@ -7,6 +7,9 @@ categories:
 id: 659
 title: My Douglas Adams Fridge
 url: /2004/09/24/my-douglas-adams-fridge/
+tags:
+- Sarah Teather
+- Brent
 ---
 You'll remember Sarah's campaign - it is highly memorable after all! Without a hit of sarcasam: when I am walking about Brent and I see the spoil that is illegal fly-tipping I think 'thats a grot spot that is'.
 

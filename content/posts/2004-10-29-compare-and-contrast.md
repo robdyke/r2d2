@@ -7,6 +7,9 @@ categories:
 id: 669
 title: Compare and contrast
 url: /2004/10/29/compare-and-contrast/
+tags:
+- Sarah Teather
+- Brent
 ---
 Last week, in a show of openness prior to the commencement of the 'Freedom of Information Act' next year, MPs released the details of their expenses for public review. In yesterday's Kilburn Times, part of the Archant London Group of newspapers, [Kristina Pedersen](mailto://k.pedersen@inuk.co.uk) reports on the disclosure.
 

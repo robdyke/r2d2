@@ -7,6 +7,8 @@ categories:
 id: 640
 title: She’s right....
 url: /2004/08/19/shes-right/
+tags:
+- Sarah Teather
 ---
 it is ["bureaucratic nonsense"](http://politics.guardian.co.uk/homeaffairs/story/0,11026,1286084,00.html).
 

@@ -7,6 +7,8 @@ categories:
 id: 652
 title: News Round-up
 url: /2004/09/15/news-round-up/
+tags:
+- Sarah Teather
 ---
 Ok, I know I said that I wasn't going to comment on [that story](http://www.brentlibdems.org.uk/news/155.html), but in the end I did. I had some time while sitting waiting for my outbound flight. And yes, my holiday was very refreshing, thanks.
 

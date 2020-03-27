@@ -7,6 +7,8 @@ categories:
 id: 241
 title: Progressing, developing, growing
 url: /2004/10/22/progressing-developing-growing/
+tags:
+- wifi
 ---
 The QPWC is live.
 

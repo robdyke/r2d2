@@ -7,6 +7,8 @@ categories:
 id: 647
 title: Something to show and tell.
 url: /2004/08/27/something-to-show-and-tell/
+tags:
+- wifi
 ---
 Blogging has been light this last week or so. I've been very occupied with my [current](http://www.comwifinet.com/) [projects](http://www.queenspark.me.uk/).
 

@@ -7,6 +7,8 @@ categories:
 id: 675
 title: So it’s December already...
 url: /2004/12/08/so-its-december-already/
+tags:
+- wifi
 ---
 What's the point of blogging if I don't blog? How occasionally can I blog and still be a blogger? I've been busy. Very busy. My two full time jobs have been demanding of late - Comwifinet needed a liberal application of the hands in order to site two further antenna in Queen's Park. Coverage extends and the network continues to grow - albeit slowly.
 

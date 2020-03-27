@@ -9,7 +9,6 @@ title: The missing speeches...
 url: /2004/07/03/the-missing-speeches/
 tags:
 - Sarah Teather
-- Politics
 ---
 OK. After some further searching I found the speeches. Firstly, the reason I couldn't find the searches is that they were not made on the 1st of July as the news posts on the Brent & Brent East Lib Dem web site states and secondly, the speeches were made in adjournment debates in Westminster Hall, not in the House of Commons as the photographs would suggest.
 

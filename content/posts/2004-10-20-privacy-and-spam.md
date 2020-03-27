@@ -7,6 +7,9 @@ categories:
 id: 667
 title: Privacy and SPAM
 url: /2004/10/20/privacy-and-spam/
+tags:
+- Sarah Teather
+- SPAM
 ---
 I wrote to Sarah last week after reporting on her questioning of the Secretary of State for Trade and Industry on the subject of unsolicited telecommunications. I asked her what steps would the Liberal Democrats take to combat SPAM? Would the LD's advocate OPT-IN or OPT-OUT measures? Would LD's toughen up privacy laws to protect my contact details or will they be relaxed?
 

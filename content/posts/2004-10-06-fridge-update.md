@@ -7,6 +7,8 @@ categories:
 id: 661
 title: Fridge Update
 url: /2004/10/06/fridge-update/
+tags:
+- Brent
 ---
 Brevity is clarity.
 
