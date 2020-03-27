@@ -33,4 +33,3 @@ jobs:
           external_repository: robdyke/robdyke.github.io
           publish_dir: ./public
           publish_branch: master
-          commit_message: ${{ github.event.head_commit.message }}
