@@ -7,7 +7,7 @@ guid: http://www.tactix4.com/?p=602
 id: 833
 tags:
 - NHS Hackday
-- open source
+- Open Source
 title: AsKiT collaboration comes second at Liverpool NHS Hackday
 url: /2012/09/28/askit-collaboration-comes-second-at-liverpool-nhs-hackday/
 ---

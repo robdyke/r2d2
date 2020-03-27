@@ -6,7 +6,7 @@ url: /2017/06/19/making-nhsbuntu
 categories:
   - NHoS
 tags:
-  - open source
+  - Open Source
   - NHSbuntu
 ---
 

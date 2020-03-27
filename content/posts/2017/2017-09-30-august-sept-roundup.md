@@ -6,7 +6,7 @@ url: /2017/09/august-sept-roundup/
 categories:
   - NHoS
 tags:
-  - open source
+  - Open Source
   - NHSbuntu
 ---
 

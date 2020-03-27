@@ -6,7 +6,7 @@ url: /2017/05/19/apperta-supports-nhsbuntu
 categories:
   - NHoS
 tags:
-  - open source
+  - Open Source
   - NHSbuntu
 ---
 

@@ -10,7 +10,7 @@ tags:
 - cordova
 - ehilive 2013
 - handihealth
-- open source
+- Open Source
 title: My HANDI Health 'live coding' workshop.
 url: /2013/11/09/my-handi-health-live-coding-workshop/
 ---

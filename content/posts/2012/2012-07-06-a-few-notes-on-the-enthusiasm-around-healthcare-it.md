@@ -6,7 +6,7 @@ id: 858
 tags:
 - handihealth
 - NHS Hackday
-- open source
+- Open Source
 - tactix4
 title: A few notes on the enthusiasm around healthcare IT
 url: /2012/07/06/a-few-notes-on-the-enthusiasm-around-healthcare-it/

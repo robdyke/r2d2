@@ -6,7 +6,7 @@ url: /2017/05/17/digitalhealth-net
 categories:
   - NHoS
 tags:
-  - open source
+  - Open Source
   - NHSbuntu
 ---
 

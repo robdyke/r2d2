@@ -12,7 +12,7 @@ categories:
 id: 456
 tags:
 - cisco
-- open source
+- Open Source
 - technology
 - vpn
 title: Using Shrew Soft VPN client with a Cisco RV 120W

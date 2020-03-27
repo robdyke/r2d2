@@ -7,7 +7,7 @@ guid: http://robdyke.com/rdb/?p=975
 id: 975
 tags:
 - handihealth
-- open source
+- Open Source
 title: Talking HANDI and opensource
 url: /2012/12/31/talking-handi-and-opensource/
 ---

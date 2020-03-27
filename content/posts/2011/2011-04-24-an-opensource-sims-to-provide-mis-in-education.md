@@ -9,7 +9,7 @@ tags:
 - commercial
 - crapita
 - education
-- open source
+- Open Source
 title: An opensource SIMS to provide MIS in education?
 url: /2011/04/24/an-opensource-sims-to-provide-mis-in-education/
 ---

@@ -7,13 +7,12 @@ guid: http://robdyke.com/rdb/?p=1145
 id: 1145
 tags:
 - CIC
-- governance
-- hscic
-- open source
+- HSCIC
+- Open Source
 title: Community and Governance
 url: /2013/11/14/community-and-governance/
 ---
-This is the second in a short series of posts where I'm looking at the announcements from NHS-England / HSCIC in support of open source solutions for NHS organisations. In this post I'm looking at the role of governance and community around open source projects.
+This is the second in a short series of posts where I'm looking at the announcements from NHS England / HSCIC in support of open source solutions for NHS organisations. In this post I'm looking at the role of governance and community around open source projects.
 
 Following the Safer Hospitals, Safer Wards Technology Fund announced in June of this year, [Gary McAllister posted a comment piece](http://garymcallisteronline.blogspot.co.uk/2013/07/open-source-in-nhs.html) which neatly summarises key criteria of open source which I paraphrase here:
 

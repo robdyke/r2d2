@@ -8,7 +8,7 @@ id: 1082
 title: EHI Healthcare IT Champion 2013
 url: /2013/06/27/ehi-healthcare-it-champion-2013/
 tags:
-- open source
+- Open Source
 ---
 I've been nominated for [EHI Healthcare IT Champion 2013](http://www.ehi.co.uk/news/EHI/8688/vote-for-your-healthcare-it-champion).
 

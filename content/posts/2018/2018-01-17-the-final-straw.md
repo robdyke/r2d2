@@ -6,7 +6,7 @@ url: /2018/01/17/the-final-straw
 categories:
   - NHoS
 tags:
-  - open source
+  - Open Source
   - NHSbuntu
 ---
 

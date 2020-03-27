@@ -9,7 +9,7 @@ categories:
 id: 443
 tags:
 - dotgovlabs
-- open source
+- Open Source
 title: Discussing open source on DotGovLabs
 url: /2011/04/04/discussing-open-source-on-dotgovlabs/
 ---

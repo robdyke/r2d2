@@ -6,7 +6,7 @@ url: /2017/03/27/why-nhsbuntu/
 categories:
   - NHoS
 tags:
-  - open source
+  - Open Source
   - NHSbuntu
 ---
 

@@ -5,7 +5,7 @@ guid: http://www.tactix4.com/?p=594
 id: 594
 tags:
 - NHS Hackday
-- open source
+- Open Source
 title: PatientList wins first NHS Hackday
 url: /2012/06/05/patientlist-wins-first-nhs-hackday/
 ---

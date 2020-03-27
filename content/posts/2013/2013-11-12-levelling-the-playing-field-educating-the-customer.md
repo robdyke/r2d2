@@ -8,7 +8,7 @@ id: 1134
 tags:
 - hscic
 - nhs england
-- open source
+- Open Source
 - policy
 title: Levelling the playing field and educating the customer
 url: /2013/11/12/levelling-the-playing-field-educating-the-customer/
