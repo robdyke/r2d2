@@ -4,6 +4,8 @@ date: "2005-05-03T12:00:00Z"
 guid: http://www.robdyke.com/bec/?p=41
 categories:
   - Brent East Campaigning
+tags:
+  - Election 2005
 id: 41
 title: Counting down... .. .
 url: /2005/05/03/counting-down/

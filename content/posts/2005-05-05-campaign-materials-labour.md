@@ -4,9 +4,13 @@ date: "2005-05-05T08:13:00Z"
 guid: http://www.robdyke.com/bec/?p=48
 categories:
   - Brent East Campaigning
+tags:
+  - Election 2005
+  - Leaflets
+  - Labour
 id: 48
-title: Campaign Materials -  Labour
-url: /2005/05/05/campaign-materials-labour-7/
+title: Campaign Materials - Labour
+url: /2005/05/05/campaign-materials-labour/
 ---
 Recevied a letter from Ken Livingstone yesterday.
 

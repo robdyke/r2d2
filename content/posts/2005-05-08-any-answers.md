@@ -4,6 +4,8 @@ date: "2005-05-08T10:23:00Z"
 guid: http://www.robdyke.com/bec/?p=56
 categories:
   - Brent East Campaigning
+tags:
+  - Election 2005
 id: 56
 title: Any Answers?
 url: /2005/05/08/any-answers/

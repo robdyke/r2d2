@@ -8,7 +8,7 @@ categories:
   - Brent East Campaigning
 id: 54
 tags:
-- Brent East
+- Election 2005
 - Sarah Teather
 title: Sarah Teather Is STILL My MP
 url: /2005/05/06/sarah-teather-is-still-my-mp/

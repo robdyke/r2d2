@@ -4,6 +4,10 @@ date: "2005-05-05T08:16:00Z"
 guid: http://www.robdyke.com/bec/?p=49
 categories:
   - Brent East Campaigning
+tags:
+  - Election 2005
+  - Leaflets
+  - Conservative
 id: 49
 title: Campaign Materials -  Conservative
 url: /2005/05/05/campaign-materials-conservative/

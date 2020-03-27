@@ -6,8 +6,8 @@ categories:
   - No Overall Control
 id: 230
 tags:
-- linksys wrt54g
-- wireless
+- wrt54g
+- wifi
 title: WRT antenna
 url: /2005/12/11/wrt-antenna/
 ---

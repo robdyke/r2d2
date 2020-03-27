@@ -6,7 +6,7 @@ categories:
   - No Overall Control
 id: 724
 tags:
-- parliament
+- Sarah Teather
 title: She speaks!
 url: /2005/05/24/she-speaks/
 ---

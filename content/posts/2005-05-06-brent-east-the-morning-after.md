@@ -3,12 +3,11 @@ authors: ["robdyke"]
 date: "2005-05-06T18:30:00Z"
 guid: http://www.robdyke.com/noc/?p=16
 categories:
-  - No Overall Control
-id: 713
+  - Brent East Campaigning
 tags:
-- Brent East
-- campaigning
-- election
+  - Election 2005
+  - Sarah Teather
+id: 713
 title: Brent East - the morning after...
 url: /2005/05/06/brent-east-the-morning-after/
 ---

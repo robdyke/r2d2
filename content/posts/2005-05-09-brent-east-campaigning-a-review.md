@@ -4,13 +4,13 @@ date: "2005-05-09T10:54:00Z"
 guid: http://www.robdyke.com/bec/?p=57
 categories:
   - Brent East Campaigning
-id: 57
 tags:
-- websites
+  - Election 2005
+id: 57
 title: Brent East Campaigning - A review
 url: /2005/05/09/brent-east-campaigning-a-review/
 ---
-Over 6 weeks &#038; 53 postings the Brent East Campaign has been blogged. My keyboard is wornout and revision for my exams in backlog. This has been a prolonged high - which [explains my recent apearance](http://www.slate.com/id/2117174/entry/2118187/). I thought I'd review my efforts and share my experiences of the last six of weeks.
+Over 6 weeks & 53 postings the Brent East Campaign has been blogged. My keyboard is wornout and revision for my exams in backlog. This has been a prolonged high - which [explains my recent apearance](http://www.slate.com/id/2117174/entry/2118187/). I thought I'd review my efforts and share my experiences of the last six of weeks.
 
 Brent East Campaigning: The campaign
   

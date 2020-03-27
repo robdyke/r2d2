@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 61
 tags:
-- election information
+- Elections
 title: 'Local Democracy: Election for Councillors in Preston and Fryent wards.'
 url: /2005/05/24/local-democracy-election-for-councillors-in-preston-and-fryent-wards/
 ---

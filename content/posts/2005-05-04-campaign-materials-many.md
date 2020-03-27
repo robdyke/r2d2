@@ -1,12 +1,15 @@
 ---
 authors: ["robdyke"]
-date: "2005-05-04T22:32:00Z"
-guid: http://www.robdyke.com/noc/?p=159
+date: "2005-05-04T18:32:00Z"
+guid: http://www.robdyke.com/bec/?p=46
 categories:
-  - No Overall Control
-id: 707
-title: Campaign Materials -  Many!
-url: /2005/05/04/campaign-materials-many-3/
+  - Brent East Campaigning
+tags:
+  - Election 2005
+  - Leaflets
+id: 46
+title: Campaign Materials - Many!
+url: /2005/05/04/campaign-materials-many/
 ---
 More from Kwasi Kwarteng!
   

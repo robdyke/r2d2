@@ -3,13 +3,12 @@ authors: ["robdyke"]
 date: "2005-05-03T15:56:00Z"
 guid: http://www.robdyke.com/noc/?p=19
 categories:
-  - No Overall Control
-id: 702
+  - Brent East Campaigning
 tags:
-- Brent East
-- campaigning
-- election
-- walkabout
+  - Election 2005
+  - Liberal Democrats
+  - Charles Kennedy
+id: 702
 title: Charles Kennedy in Brent East
 url: /2005/05/03/charles-kennedy-in-brent-east/
 ---

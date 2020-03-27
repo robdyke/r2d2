@@ -3,14 +3,13 @@ authors: ["robdyke"]
 date: "2005-05-04T02:59:00Z"
 guid: http://www.robdyke.com/noc/?p=18
 categories:
-  - No Overall Control
-id: 706
+  - Brent East Campaigning
 tags:
-- Brent East
-- campaigning
-- election
+  - Election 2005
+  - Liberal Democrats
+id: 706
 title: Campaign Materials -  Liberal Democrats
-url: /2005/05/04/campaign-materials-liberal-democrats-8/
+url: /2005/05/04/campaign-materials-liberal-democrats/
 ---
 Received a letter from Charles Kennedy this morning urging me to vote because 'in certain places, the election is effectively a straight choice between having a Liberal Democrat or a Labour MP'.
 
