@@ -1,10 +1,14 @@
 ---
 authors: ["robdyke"]
-date: "2011-01-09T16:40:08Z"
-guid: http://www.robdyke.com/bec/?p=424
+date: "2011-01-09T16:44:04Z"
+guid: http://www.robdyke.com/noc/?p=427
 categories:
-  - Brent East Campaigning
-id: 424
+  - No Overall Control
+id: 427
+tags:
+- libraries
+- library
+- more than books
 title: More Than Books
 url: /2011/01/09/more-than-books/
 ---
