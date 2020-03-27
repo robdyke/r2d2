@@ -1,6 +1,5 @@
 ---
 title: About
-description: This is the online presence of Rob Dyke.
 menu: sidebar
 weight: -210
 ---
