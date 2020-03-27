@@ -1,0 +1,37 @@
+---
+authors: ["robdyke"]
+date: "2008-05-26T22:40:56Z"
+guid: http://www.robdyke.com/noc/2008/05/26/the-price-of-oil-green-taxes-and-cutting-steaks-in-half/
+categories:
+  - No Overall Control
+id: 343
+tags:
+- environment
+- op-ed
+- politics
+title: the price of oil, green taxes and cutting steaks in half.
+url: /2008/05/26/the-price-of-oil-green-taxes-and-cutting-steaks-in-half/
+---
+What factors are increasing the price of oil, [recently over $135 a barrel](http://news.bbc.co.uk/1/hi/business/7414093.stm "BBC article")? Is it the speculative 'unregulated' oil trading that William Pfaff, [writing in the IHT](http://www.iht.com/articles/2008/05/23/opinion/edpfaff.php "International Herald Tribune"), criticises? Certainly the black magic of contract trading is a factor, a parasite on the 'real' market for the commodity. According to the BBC, OPEC has so far blamed price rises on speculators and says there is no shortage of oil. Likewise, Pfaff considers the present situation with rising prices dissimilar to the [1973 oil crisis](http://en.wikipedia.org/wiki/1973_oil_crisis "Wikipedia entry"), when OPEC announced that they would no longer supply oil to nations that supported Israel in its conflict with Syria and Egypt.
+
+Paul Krugman, [also in the IHT](http://www.iht.com/articles/2008/05/19/opinion/edkrugman.php "International Herald Tribune"), is somewhat naive if he thinks that we are entering merely an **era** of scarce, expensive oil. This is more than an era. The buried sunlight that we like to burn is running out. Scarcity is the true reality. It's more than Half Gone. Not only is the raw material that we are critically addicted to becoming more expensive as it becomes increasingly scarce, feeding our addiction in consuming oil is one of the major causes of global warming.
+
+<!--more-->
+
+
+  
+If the price of oil is considered too high, conventional economic models hold that consumption will decrease, or consumers will purchase substitutes. In the seventies 'markets signals' shifted the behaviour of producers and consumers and the state. Cars with smaller engines were manufactured, consumers shifted to public transport and national energy policy was reformulated to take account of the new political factors in the price of oil from the Middle East.
+
+So what market signals are needed for our contemporary oil paradigm? Is the price mechanism sufficient for scarcity? Here Krugman has a (complementary) point for Europe. He writes "If Europe's example is any guide, here are the two secrets of coping with expensive oil: Own fuel-efficient cars, and don't drive them too much." The taxing of oil is one example of attempts to change the behaviour of oil consumers, hoping to reduce consumption in order to meet environmental targets. Environmental concerns are also behind various harm reduction strategies, demonstrated in EU regulations on emissions and fuel efficiency for new cars, for example.
+
+Progressive taxation on fuel consumption, emissions regulations, the further regulation of oil trading and other such market signals do not go far enough in altering the behaviour of consumers. According to the The [Environmental Audit Committee](http://www.parliament.uk/eacom/ "House of Commons Select Committee on Environmental Audit") (EAC) "Existing initiatives are unlikely to bring about behavioural change on the scale required [to meet 2050 carbon emissions target], with many individuals choosing to disregard the connection between their own emissions and the larger challenge. Personal carbon trading might be the kind of radical measure needed to bring about behavioural change."
+
+The high-tech personal carbon credit scheme considered by the [EAC](http://www.publications.parliament.uk/pa/cm200708/cmselect/cmenvaud/565/56503.htm "House of Commons Select Committee on Environmental Audit"), a massive database and accounting system to capture and reconcile the carbon tariff value of economic transactions demonstrates that policy makers have faith that consumer behaviour will, like the economic models tell them, respond to rational market signals. By attaching a price tag and creating a personal market for carbon credits, individuals will spend or save these allowances which will be reflected in the rate of consumption and the rate of adoption of alternatives. If we don't like expensive oil and we don't want to buy additional carbon credits to consume this expensive commodity then we will change our behaviours. Quoted on the [BBC website (from BBC Radio 4 Today programme)](http://news.bbc.co.uk/1/hi/uk_politics/7419724.stm "BBC website") environmentalist George Monbiot applauded the scheme - "It's more progressive than taxation, it tends to redistribute wealth from the rich to the poor; it's transparent; it's easy for everyone to understand, you all get the same carbon ration. It also contains an inbuilt incentive for people to think about their energy use and to think about how they are going to stay within their carbon ration."
+
+But why the need for high-tech obfuscation and a national database consolidating and accounting the transactions of private individuals? Besides, to some degree, the market, the private sector that Committee chairman Tim Yeo considers well placed to provide such a massive IT infrastructure, is already responding to the market signals that consumers are recoupling consumption with price and, most importantly, consumption with environmental impact. Smart electricity and gaz meters, carbon emission statements and online footprint calculators are responding to consumer demand for such products and services. Do the Conservatives really want Big Database State to intervene here? Thankfully not - even green Cameo has distanced himself from the idea.
+
+If governments are serious about reducing consumption in order to shore-up the economy and to meet climate change and other environmental targets, then more radical action is needed. For Brian Holmes the action is rather simple. [Cut your steak in half](http://www.nettime.org/Lists-Archives/nettime-l-0805/msg00027.html "nettime mailing list").
+
+> If North Americans, Europeans, Japanese and Australians would cut their steak in half, take public transportation once in a while and turn off their TV when they're not being hypnotized by it, prices would fall to the level of everyone's dinner table. Then maybe we could not only have more interesting discussions of international relations, but even accept that we all live on this planet together and have the same rights to its abundance.
+
+So rather than state manipulation of price as a control of scare commodities, what practical steps would radically alter consumption and encourage substitution? Perhaps a [national speed limit of 55mph](http://blog.wired.com/cars/2008/05/with-gas-prices.html "article on Wired.com") rather than [fuel](http://news.bbc.co.uk/1/hi/business/7415880.stm "BBC article on UK fuel duty increases") [duty](http://blog.wired.com/cars/2008/04/gas-tax-holiday.html "article on Wired.com - tax break for cheap votes") or [road tax](http://news.bbc.co.uk/1/hi/uk/7420409.stm "BBC article - road tax hits poor drivers") holidays recently proposed in the UK and USA is a more appropriate method of changing consumption for economic and environmental policy goals.
