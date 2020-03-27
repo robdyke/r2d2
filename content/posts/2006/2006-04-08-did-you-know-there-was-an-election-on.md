@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 62
 tags:
-- election information
+- Elections
 title: did you know there was an election on?
 url: /2006/04/08/did-you-know-there-was-an-election-on/
 ---

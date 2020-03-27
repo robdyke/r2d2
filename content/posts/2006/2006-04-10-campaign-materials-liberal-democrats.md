@@ -12,7 +12,7 @@ tags:
 - Liberal Democrats
 - mapesbury
 title: Campaign Materials - Liberal Democrats
-url: /2006/04/10/campaign-materials-liberal-democrats-5/
+url: /2006/04/10/campaign-materials-liberal-democrats/
 ---
 also in early march I received the Liberal Democrat Focus On..._Mapesbury_ newsletter. This newsletter was the first opportunity to meet the Lib Dem candidates for the Mapesbury wards. The candidates are [Chris Leaman, Sami Hashmi and Hayley Matthews](http://www.brent.gov.uk/elections.nsf/031d5c68638196618025664000760871/e9175a18d2181c5a8025714500529c07!OpenDocument&#038;Start=1&#038;Count=60&#038;Expand=11 "Brent Council Website").
 
