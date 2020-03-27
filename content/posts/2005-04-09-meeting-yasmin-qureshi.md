@@ -9,6 +9,9 @@ categories:
 id: 6
 title: Meeting Yasmin Qureshi
 url: /2005/04/09/meeting-yasmin-qureshi/
+tags:
+- Brent East
+- Election 2005
 ---
 On Thursday I bumped into [Yasmin Qureshi, the Labour candidate](http://www.labour.org.uk/maps/locinfo.phtml?ctid=2711) for Brent East, on Salusbury Road just outside the friendly and well stocked Queen's Park Books (yes, I do work there, how did you guess?). She was out on the campaign trail, meeting and greeting, probably kissing babies, seeking places to display her posters. Yasmin was accompanied by the [Queen's Park ward](http://www.brent.gov.uk/Democracy.nsf/66d8b8e642f063d780256a9400404f4e/) local [Councillor Neil Nerva](http://www.brent.gov.uk/Democracy.nsf/66d8b8e642f063d780256a9400404f4e/42f5c5d9065df85480256a960056bc85!OpenDocument).
 

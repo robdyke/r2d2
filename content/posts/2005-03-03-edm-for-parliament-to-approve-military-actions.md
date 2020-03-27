@@ -7,6 +7,8 @@ categories:
 id: 681
 title: EDM for Parliament to approve military actions
 url: /2005/03/03/edm-for-parliament-to-approve-military-actions/
+tags:
+- Sarah Teather
 ---
 Some of you may remember that I [wrote to Sarah](http://sarah-teather-mp.blogspot.com/2004/08/will-sarah-vote-to-impeach-blair.html) asking her if she will be supporting the motion to [impeach Tony Blair](http://www.impeachblair.org/). [She wasn't minded to.](http://sarah-teather-mp.blogspot.com/2004/09/update-impeaching-tony-blair.html)
 

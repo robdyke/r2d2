@@ -4,8 +4,11 @@ date: "2005-04-23T13:11:00Z"
 guid: http://www.robdyke.com/bec/?p=25
 categories:
   - Brent East Campaigning
+tags:
+  - Election 2005
+  - Conservatives
 id: 25
-title: Campaign Materials -  Conservatives
+title: Campaign Materials - Conservatives
 url: /2005/04/23/campaign-materials-conservatives/
 ---
 When I met Kwasi on Thursday at the MapRA AGM I mentioned to him that I hadn't seen any campaign materials from him over the last couple of weeks. Yesterday an Election Communiation from Brent East Conservatives was delivered by Royal Mail.

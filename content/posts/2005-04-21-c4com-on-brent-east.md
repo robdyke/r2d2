@@ -4,6 +4,8 @@ date: "2005-04-21T11:58:00Z"
 guid: http://www.robdyke.com/bec/?p=20
 categories:
   - Brent East Campaigning
+tags:
+  - Election 2005
 id: 20
 title: C4.com on Brent East
 url: /2005/04/21/c4com-on-brent-east/

@@ -1,12 +1,16 @@
 ---
 authors: ["robdyke"]
-date: "2005-05-03T15:37:00Z"
-guid: http://www.robdyke.com/noc/?p=165
+date: "2005-05-03T11:37:00Z"
+guid: http://www.robdyke.com/bec/?p=40
 categories:
-  - No Overall Control
-id: 701
-title: Campaign Materials -  Liberal Democrats
-url: /2005/05/03/campaign-materials-liberal-democrats-5-2/
+  - Brent East Campaigning
+tags:
+  - Election 2005
+  - Leaflets
+  - Liberal Democrats
+id: 40
+title: Campaign Materials - Liberal Democrats
+url: /2005/05/03/campaign-materials-liberal-democrats-3/
 ---
 A departure from the tabloid red top of Brent News, the latest campaign freesheet from the Lib Dems, Brent News, leads with the headline of 'Sarah Set To Win' - naturally...
 

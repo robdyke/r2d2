@@ -4,8 +4,13 @@ date: "2005-04-11T10:33:00Z"
 guid: http://www.robdyke.com/bec/?p=7
 categories:
   - Brent East Campaigning
+tags:
+  - Election 2005
+  - Labour
+  - Yasmin Qureshi
+  - Leaflets
 id: 7
-title: Campaign Materials -  Labour
+title: Campaign Materials - Labour
 url: /2005/04/11/campaign-materials-labour/
 ---
 Here are some campaign materials from the Labour Party for their candidate Yasmin Qureshi. I won't display them all here, but you can click on the links to see full size scans of the unsolicited mail that has popped through my letter box in support of their candidate.

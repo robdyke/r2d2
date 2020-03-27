@@ -7,6 +7,9 @@ categories:
 id: 678
 title: Feeling blue?
 url: /2005/02/15/feeling-blue/
+tags:
+- Liberal Democrats
+- Brent
 ---
 I wasn't sure who the campaign material that recently popped through my front door belonged to. I wasn't inclined to turn the flyer over really... I read the Guardian & the Indy, I get enough conservative bashing on a daily basis to have toned it out. But who was it from... Labour or Lib Dem? A closer inspection and I trained my eye on the graphic in the bottom corner which gave it away as anti-tory material published by Brent Lib Dems.
 

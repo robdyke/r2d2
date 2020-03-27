@@ -4,6 +4,8 @@ date: "2005-04-18T14:52:00Z"
 guid: http://www.robdyke.com/bec/?p=14
 categories:
   - Brent East Campaigning
+tags:
+  - Election 2005
 id: 14
 title: Postal voting in Brent East
 url: /2005/04/18/postal-voting-in-brent-east/

@@ -4,9 +4,12 @@ date: "2005-05-03T12:04:00Z"
 guid: http://www.robdyke.com/bec/?p=42
 categories:
   - Brent East Campaigning
+tags:
+  - Election 2005
+  - Greens
 id: 42
 title: Campaign Materials -  Greens
-url: /2005/05/03/campaign-materials-greens-3/
+url: /2005/05/03/campaign-materials-greens/
 ---
 I was speaking to Shahrar Ali last night about the Green campaign in Brent East and Brent South.
 

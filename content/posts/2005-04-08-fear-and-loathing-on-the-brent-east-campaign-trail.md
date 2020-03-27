@@ -7,7 +7,7 @@ categories:
 id: 5
 tags:
 - Brent East
-- election information
+- Election 2005
 title: Fear and Loathing on the Brent East Campaign Trail
 url: /2005/04/08/fear-and-loathing-on-the-brent-east-campaign-trail/
 ---

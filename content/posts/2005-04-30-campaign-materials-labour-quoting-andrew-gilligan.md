@@ -4,11 +4,11 @@ date: "2005-04-30T18:16:00Z"
 guid: http://www.robdyke.com/bec/?p=37
 categories:
   - Brent East Campaigning
-id: 37
 tags:
-- campaign materials
-- Election 2005
-- labour
+  - Election 2005
+  - Leaflets
+  - Labour
+id: 37
 title: Campaign Materials -  Labour - Quoting Andrew Gilligan!
 url: /2005/04/30/campaign-materials-labour-quoting-andrew-gilligan/
 ---

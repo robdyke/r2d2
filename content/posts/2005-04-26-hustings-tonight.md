@@ -4,10 +4,9 @@ date: "2005-04-26T19:00:00Z"
 guid: http://www.robdyke.com/bec/?p=32
 categories:
   - Brent East Campaigning
-id: 32
 tags:
-- candidates
-- Election 2005
+  - Election 2005
+id: 32
 title: Hustings TONIGHT
 url: /2005/04/26/hustings-tonight/
 ---

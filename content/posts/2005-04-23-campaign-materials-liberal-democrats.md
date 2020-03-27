@@ -4,8 +4,11 @@ date: "2005-04-23T13:43:00Z"
 guid: http://www.robdyke.com/bec/?p=26
 categories:
   - Brent East Campaigning
+tags:
+  - Election 2005
+  - Liberal Democrats
 id: 26
-title: Campaign Materials -  Liberal Democrats
+title: Campaign Materials - Liberal Democrats
 url: /2005/04/23/campaign-materials-liberal-democrats/
 ---
 Many postings to this blog today. It's all I've done this morning!

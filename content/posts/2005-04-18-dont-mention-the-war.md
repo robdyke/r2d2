@@ -4,8 +4,11 @@ date: "2005-04-18T14:36:00Z"
 guid: http://www.robdyke.com/bec/?p=13
 categories:
   - Brent East Campaigning
+tags:
+  - Election 2005
+  - Yasmin Qureshi
 id: 13
-title: Don&#039;t mention the war?
+title: Don't mention the war?
 url: /2005/04/18/dont-mention-the-war/
 ---
 The Guardian comment on the 'sssshhhh' today. You know, that little exercise in Middle East. [They say that](http://politics.guardian.co.uk/labour/story/0,9061,1462087,00.html) 'Many in Tony Blair's party who opposed the US-led invasion are keeping quiet about the issue now'.

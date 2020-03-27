@@ -7,6 +7,8 @@ categories:
 id: 683
 title: Postage problems.
 url: /2005/03/22/postage-problems/
+tags:
+- Sarah Teather
 ---
 Sarah is being blighted by postage problems. It seems that whenever she writes to a member of the government they take months to respond or the letter is delayed.
 

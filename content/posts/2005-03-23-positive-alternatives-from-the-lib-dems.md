@@ -7,6 +7,9 @@ categories:
 id: 684
 title: Positive Alternatives from the Lib Dems
 url: /2005/03/23/positive-alternatives-from-the-lib-dems/
+tags:
+- Sarah Teather
+- Liberal Democrats
 ---
 10 Good Reasons to vote Liberal Democrat from <http://www.libdems.org.uk/>.
 

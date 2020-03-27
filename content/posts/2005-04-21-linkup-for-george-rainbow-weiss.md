@@ -4,8 +4,11 @@ date: "2005-04-21T09:17:00Z"
 guid: http://www.robdyke.com/bec/?p=19
 categories:
   - Brent East Campaigning
+tags:
+  - Election 2005
+  - George 'Rainbow' Weiss
 id: 19
-title: Linkup for George &#039;Rainbow&#039; Weiss
+title: Linkup for George 'Rainbow' Weiss
 url: /2005/04/21/linkup-for-george-rainbow-weiss/
 ---
 Thanks to a reader, here are some links for the Vote For Yourself Dream Ticket Party and George 'Rainbox' Weiss.

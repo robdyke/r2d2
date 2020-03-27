@@ -7,6 +7,9 @@ categories:
 id: 680
 title: Tution Fees Text Poll
 url: /2005/02/21/tution-fees-text-poll/
+tags:
+- Sarah Teather
+- Tuition fees
 ---
 Sarah launched a text poll on tuition fees. Describing tuition fees as an unfair tax on students, Sarah said "Tuition fees will be one of the key issues to many at the forthcoming General Election. Many people are now suffering horrendous levels of debt because of Labour's broken promise on this issue."
 

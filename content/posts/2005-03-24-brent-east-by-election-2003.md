@@ -6,9 +6,8 @@ categories:
   - Brent East Campaigning
 id: 4
 tags:
-- Brent East
-- election information
-- electoral wards
+- Sarah Teather
+- Elections
 title: Brent East by-election, 2003
 url: /2005/03/24/brent-east-by-election-2003/
 ---

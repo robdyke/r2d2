@@ -7,6 +7,9 @@ categories:
 id: 238
 title: Fear and Loathing on the Brent East Campaign Trail
 url: /2005/04/08/fear-and-loathing-on-the-brent-east-campaign-trail-2/
+tags:
+- Brent East
+- Election 2005
 ---
 I've started to blog the [Brent East constituency election campaign](http://becampaign.blogspot.com/). I'll be sharing all the paper propaganda distributed by candidates over the coming four weeks. Wide open for all the see. Informed choice facilitated.
 

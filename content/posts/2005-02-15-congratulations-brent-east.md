@@ -7,6 +7,9 @@ categories:
 id: 679
 title: Congratulations Brent East.
 url: /2005/02/15/congratulations-brent-east/
+tags:
+- Sarah Teather
+- Brent East
 ---
 Sarah has been unanimously re-selected by Brent Liberal Democrats to fight the next General Election. You can [read the news story](http://www.brentlibdems.org.uk/news/210.html) on this over at the BELD website.
 

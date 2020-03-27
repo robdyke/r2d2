@@ -4,9 +4,9 @@ date: "2005-03-24T13:18:00Z"
 guid: http://www.robdyke.com/bec/?p=3
 categories:
   - Brent East Campaigning
-id: 595
 tags:
-- election information
+  - Election 2005
+id: 595
 title: Showing the paper trail...
 url: /2005/03/24/showing-the-paper-trail/
 ---

@@ -4,6 +4,9 @@ date: "2005-04-23T10:13:00Z"
 guid: http://www.robdyke.com/bec/?p=21
 categories:
   - Brent East Campaigning
+tags:
+  - Election 2005
+  - MAPRA
 id: 21
 title: Mapesbury Residents Association AGM
 url: /2005/04/23/mapesbury-residents-association-agm/

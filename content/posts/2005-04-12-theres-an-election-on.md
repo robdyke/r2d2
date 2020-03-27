@@ -7,6 +7,9 @@ categories:
 id: 686
 title: There’s an election on...
 url: /2005/04/12/theres-an-election-on/
+tags:
+- Brent East
+- Election 2005
 ---
 ...or had you'd missed that?
 

@@ -4,6 +4,9 @@ date: "2005-04-26T10:05:00Z"
 guid: http://www.robdyke.com/bec/?p=30
 categories:
   - Brent East Campaigning
+tags:
+  - Election 2005
+  - BRAT
 id: 30
 title: Brondesbury Residents &amp; Tennants Association Meeting
 url: /2005/04/26/brondesbury-residents-tennants-association-meeting/

@@ -7,8 +7,10 @@ categories:
 id: 682
 title: Busy day today.
 url: /2005/03/09/busy-day-today/
+tags:
+- Sarah Teather
 ---
-Sarah will be at Dowing Street today to deliver a 1,000 name petition on behalf of Hindu's opposing further restrictions by the Home Office on religious workers seeking leave to stay in the UK.
+Sarah will be at Downing Street today to deliver a 1,000 name petition on behalf of Hindu's opposing further restrictions by the Home Office on religious workers seeking leave to stay in the UK.
 
 For the Home Office, the measures they wish to take (outlined [here by The Scotsman](http://news.scotsman.com/latest.cfm?id=4227725)) are part of building community cohesion.
 
