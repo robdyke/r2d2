@@ -3,9 +3,11 @@ authors: ["robdyke"]
 date: "2017-05-19T00:00:00Z"
 title: Apperta Foundation supports NHSbuntu development
 url: /2017/05/19/apperta-supports-nhsbuntu
+categories:
+  - NHoS
 tags:
-- NHSbuntu
-- NHoS
+  - open source
+  - NHSbuntu
 ---
 
 We're very excited to be able to announce that the [Apperta Foundation](http://www.apperta.org/), (which was formerly the NHS England Open Source Programme) has agreed to provide NHSbuntu with initial support funding of £40k, in order to facilitate the initial few work packages required for NHSbuntu's next few steps.

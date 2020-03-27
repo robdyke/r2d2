@@ -3,9 +3,11 @@ authors: ["robdyke"]
 date: "2017-05-17T00:00:00Z"
 title: NHS urged to consider Microsoft alternatives following cyber attacks
 url: /2017/05/17/digitalhealth-net
+categories:
+  - NHoS
 tags:
-- NHSbuntu
-- NHoS
+  - open source
+  - NHSbuntu
 ---
 
 [Jon Hoeksma](https://www.digitalhealth.net/author/jon-hoeksma/) interviewed us about NHSbuntu for Digital Health.

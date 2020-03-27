@@ -3,9 +3,11 @@ authors: ["robdyke"]
 date: "2017-09-30T00:00:00Z"
 title: A long overdue summer summary
 url: /2017/09/august-sept-roundup/
+categories:
+  - NHoS
 tags:
-- NHSbuntu
-- NHoS
+  - open source
+  - NHSbuntu
 ---
 
 Marcus and I had a busy summer, what with holidays, hospitals, hacks (days/weeks/camps) and house moves. I'd like you to accept this post with our apologies for being relatively quiet recently. Now, without further ado, here’s an update on all things NHSbuntu. 

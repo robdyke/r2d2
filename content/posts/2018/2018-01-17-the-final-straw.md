@@ -3,9 +3,11 @@ authors: ["robdyke"]
 date: "2018-01-17T00:00:00Z"
 title: NHoS Closedown - the final straw
 url: /2018/01/17/the-final-straw
+categories:
+  - NHoS
 tags:
-- NHSbuntu
-- NHoS
+  - open source
+  - NHSbuntu
 ---
 
 Sorry (and of course thanks) to anyone who's helped out with the **NHSbuntu** Linux project and it's revamped version **NHoS** but I think we've finally reached a point where we've had enough.

@@ -1,8 +1,10 @@
 ---
 authors: ["robdyke"]
+categories:
+  - NHoS
 tags:
-- NHSbuntu
-- NHoS
+  - open source
+  - NHSbuntu
 date: "2017-04-26T00:00:00Z"
 title: SxSW CIO & CCIO Show and Tell
 url: /2017/04/26/sxsw-show-and-tell/

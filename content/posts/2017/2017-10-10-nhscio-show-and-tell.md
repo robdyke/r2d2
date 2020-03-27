@@ -3,9 +3,11 @@ authors: ["robdyke"]
 date: "2017-10-10T00:00:00Z"
 title: NHSCIO Show and Tell
 url: /2017/10/10/nhscio-show-and-tell
+categories:
+  - NHoS
 tags:
-- NHSbuntu
-- NHoS
+  - open source
+  - NHSbuntu
 ---
 Here are the materials I shared with [https://twitter.com/nhscio](NHS CIO Will Smart) and Alex Chaplin in October. NHoS were invited back by Will Smart to discuss the 'What's Next' in more detail.[^1]
 

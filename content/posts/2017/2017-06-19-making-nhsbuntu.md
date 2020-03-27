@@ -3,9 +3,11 @@ authors: ["robdyke"]
 date: "2017-06-19T00:00:00Z"
 title: Making NHSbuntu
 url: /2017/06/19/making-nhsbuntu
+categories:
+  - NHoS
 tags:
-- NHSbuntu
-- NHoS
+  - open source
+  - NHSbuntu
 ---
 
 NHSbuntu is built for the NHS from the Ubuntu open source operating system. To create our distribution we use tools from the Ubuntu ecosystem to package our customisations and build the download images. In this post I'll describe the techniques and tools we use for this.

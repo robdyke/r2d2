@@ -3,9 +3,11 @@ authors: ["robdyke"]
 date: "2017-03-27T00:00:00Z"
 title: Why NHSbuntu?
 url: /2017/03/27/why-nhsbuntu/
+categories:
+  - NHoS
 tags:
-- NHSbuntu
-- NHoS
+  - open source
+  - NHSbuntu
 ---
 
 Look. It’s time we talked about something. NHSland has a problem. A debt problem. A technical debt problem of immense proportions. We’re friends. We can talk about this. Openly. We want to help.
