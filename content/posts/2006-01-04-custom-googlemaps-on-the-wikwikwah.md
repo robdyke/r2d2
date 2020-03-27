@@ -6,9 +6,7 @@ categories:
   - No Overall Control
 id: 226
 tags:
-- interests
-- projects
-- public data
+- maps
 title: Custom googlemaps on the wikwikwah
 url: /2006/01/04/custom-googlemaps-on-the-wikwikwah/
 ---

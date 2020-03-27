@@ -7,8 +7,6 @@ categories:
 id: 225
 tags:
 - berlin
-- interests
-- travels
 title: Photos uploaded
 url: /2006/01/04/photos-uploaded/
 ---

@@ -6,10 +6,8 @@ categories:
   - No Overall Control
 id: 223
 tags:
-- community network
-- projects
-- technology
-- wireless
+- freifunk
+- wifi
 title: freifunk 1.1 - steps to be fleshedout
 url: /2006/01/15/freifunk-11-steps-to-be-fleshedout/
 ---
