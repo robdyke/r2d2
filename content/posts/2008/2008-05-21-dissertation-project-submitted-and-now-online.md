@@ -6,9 +6,9 @@ categories:
   - No Overall Control
 id: 809
 tags:
-- dissertation
-- FLOSS
-- goldsmiths
+- Open Source
+- Goldsmiths
+- Dissertation
 title: dissertation project - submitted and now online
 url: /2008/05/21/dissertation-project-submitted-and-now-online/
 ---

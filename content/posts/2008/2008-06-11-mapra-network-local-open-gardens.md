@@ -6,10 +6,8 @@ categories:
   - No Overall Control
 id: 354
 tags:
-- brent
-- environment
-- local groups
-- mapesbury
+- MAPRA
+- Mapesbury
 title: MapRA Network - Local Open Gardens
 url: /2008/06/11/mapra-network-local-open-gardens/
 ---

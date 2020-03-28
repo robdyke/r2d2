@@ -6,8 +6,8 @@ categories:
   - No Overall Control
 id: 800
 tags:
-- brent
-- gladstone park
+- Brent
+- Gladstone Park
 title: Dollis Hill House
 url: /2008/02/19/dollis-hill-house/
 ---

@@ -5,8 +5,6 @@ guid: http://www.robdyke.com/noc/2009/01/07/a-peaceful-picnic-at-heathrow-termin
 categories:
   - No Overall Control
 id: 366
-tags:
-- environment
 title: a peaceful picnic at Heathrow Terminal 1
 url: /2009/01/07/a-peaceful-picnic-at-heathrow-terminal/
 ---

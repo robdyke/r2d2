@@ -6,9 +6,9 @@ categories:
   - No Overall Control
 id: 802
 tags:
-- election
-- green party
-- politics
+- Election
+- Greens
+- Politics
 title: Start the countdown...
 url: /2008/02/24/start-the-countdown/
 ---

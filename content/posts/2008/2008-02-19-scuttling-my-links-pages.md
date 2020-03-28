@@ -5,9 +5,6 @@ guid: http://www.robdyke.com/noc/?p=319
 categories:
   - No Overall Control
 id: 799
-tags:
-- social tools
-- websites
 title: scuttling my links pages....
 url: /2008/02/19/scuttling-my-links-pages/
 ---

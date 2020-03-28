@@ -7,7 +7,7 @@ categories:
 id: 355
 tags:
 - Brent Council
-- gladstone park
+- Gladstone Park
 title: Dollis Hill House renewal project in jeopardy
 url: /2008/11/10/dollis-hill-house-renewal-project-in-jeopardy/
 ---

@@ -6,10 +6,8 @@ categories:
   - No Overall Control
 id: 324
 tags:
-- election
-- goldsmiths
-- study of the political
-- technology
+- Elections
+- Goldsmiths
 title: How I would have rigged the Goldsmiths College Student Elections...
 url: /2008/02/26/how-i-would-have-rigged-the-goldsmiths-college-student-elections/
 ---

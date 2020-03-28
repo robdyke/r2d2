@@ -7,9 +7,6 @@ categories:
 id: 815
 tags:
 - electronic civil disobedience
-- environment
-- op-ed
-- technology
 title: plane stupid direct action meets networked civil disobedience
 url: /2008/12/11/plane-stupid-direct-action-meets-networked-civil-disobedience/
 ---

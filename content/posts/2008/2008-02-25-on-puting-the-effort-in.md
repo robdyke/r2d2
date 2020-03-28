@@ -6,7 +6,8 @@ categories:
   - No Overall Control
 id: 803
 tags:
-- dissertation
+- Dissertation
+- Goldsmiths
 title: On puting the effort in...
 url: /2008/02/25/on-puting-the-effort-in/
 ---

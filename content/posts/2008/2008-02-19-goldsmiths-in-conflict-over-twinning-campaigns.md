@@ -6,9 +6,8 @@ categories:
   - No Overall Control
 id: 801
 tags:
-- goldsmiths
-- op-ed
-- stop the war
+- Goldsmiths
+- Stop the War
 title: goldsmiths in conflict over twinning campaigns
 url: /2008/02/19/goldsmiths-in-conflict-over-twinning-campaigns/
 ---

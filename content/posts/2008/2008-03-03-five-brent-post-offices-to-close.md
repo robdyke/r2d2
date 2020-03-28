@@ -6,9 +6,9 @@ categories:
   - No Overall Control
 id: 326
 tags:
-- brent
-- cricklewood
-- politics
+- Brent
+- Cricklewood
+- Politics
 title: Five Brent Post Offices to close?
 url: /2008/03/03/five-brent-post-offices-to-close/
 ---

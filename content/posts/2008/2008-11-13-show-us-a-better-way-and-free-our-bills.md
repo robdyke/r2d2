@@ -7,10 +7,8 @@ categories:
 id: 813
 tags:
 - Freedom of Information
-- politics
-- public data
-- technology
-- websites
+- Politics
+- open data
 title: Show Us a Better Way and Free Our Bills
 url: /2008/11/13/show-us-a-better-way-and-free-our-bills/
 ---

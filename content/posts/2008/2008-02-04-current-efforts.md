@@ -6,8 +6,8 @@ categories:
   - No Overall Control
 id: 316
 tags:
-- dissertation
-- goldsmiths
+- Dissertation
+- Goldsmiths
 title: current efforts
 url: /2008/02/04/current-efforts/
 ---

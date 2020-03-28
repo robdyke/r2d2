@@ -8,9 +8,8 @@ categories:
   - No Overall Control
 id: 810
 tags:
-- local groups
-- mapesbury
-- walkabout
+- Mapesbury
+- NW2
 title: Neighbourhood Walkabout with NW2 4th June
 url: /2008/06/06/neighbourhood-walkabout-with-nw2/
 ---

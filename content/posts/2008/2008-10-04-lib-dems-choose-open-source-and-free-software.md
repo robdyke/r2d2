@@ -6,9 +6,8 @@ categories:
   - No Overall Control
 id: 359
 tags:
-- FLOSS
+- Open Source
 - Liberal Democrats
-- technology
 title: Lib Dems choose open-source and free software
 url: /2008/10/04/lib-dems-choose-open-source-and-free-software/
 ---

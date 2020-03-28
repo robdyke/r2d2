@@ -6,9 +6,7 @@ categories:
   - No Overall Control
 id: 343
 tags:
-- environment
-- op-ed
-- politics
+- Politics
 title: the price of oil, green taxes and cutting steaks in half.
 url: /2008/05/26/the-price-of-oil-green-taxes-and-cutting-steaks-in-half/
 ---

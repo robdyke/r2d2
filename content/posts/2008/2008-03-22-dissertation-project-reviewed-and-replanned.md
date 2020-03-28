@@ -6,10 +6,9 @@ categories:
   - No Overall Control
 id: 328
 tags:
-- dissertation
-- FLOSS
-- more haste less speed
-- op-ed
+- Goldsmiths
+- Dissertation
+- Open Source
 title: dissertation project - reviewed and replanned
 url: /2008/03/22/dissertation-project-reviewed-and-replanned/
 ---

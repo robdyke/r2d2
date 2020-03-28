@@ -6,10 +6,7 @@ categories:
   - No Overall Control
 id: 806
 tags:
-- all my own work
-- goldsmiths
-- political economy
-- study of the political
+- Goldsmiths
 title: new radical political economy
 url: /2008/04/13/new-radical-political-economy/
 ---

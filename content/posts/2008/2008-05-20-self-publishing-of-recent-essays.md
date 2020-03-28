@@ -6,9 +6,7 @@ categories:
   - No Overall Control
 id: 338
 tags:
-- dissertation
-- goldsmiths
-- papers
+- Goldsmiths
 title: self-publishing of recent essays
 url: /2008/05/20/self-publishing-of-recent-essays/
 ---

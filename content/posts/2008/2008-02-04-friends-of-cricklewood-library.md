@@ -6,7 +6,8 @@ categories:
   - No Overall Control
 id: 797
 tags:
-- libraries
+- Libraries
+- Cricklewood
 title: friends of cricklewood library...
 url: /2008/02/04/friends-of-cricklewood-library/
 ---

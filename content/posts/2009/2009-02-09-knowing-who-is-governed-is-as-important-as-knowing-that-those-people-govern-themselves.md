@@ -6,7 +6,6 @@ categories:
   - No Overall Control
 id: 816
 tags:
-- Local Democracy
 - Politics
 title: Knowing who is governed is as important as knowing that those people govern
   themselves.

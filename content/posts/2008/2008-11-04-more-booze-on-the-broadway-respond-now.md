@@ -7,9 +7,8 @@ categories:
 id: 811
 tags:
 - Brent Council
-- cricklewood
-- local groups
-- mapesbury
+- Cricklewood
+- Mapesbury
 title: More booze on the Broadway - respond now!
 url: /2008/11/04/more-booze-on-the-broadway-respond-now/
 ---

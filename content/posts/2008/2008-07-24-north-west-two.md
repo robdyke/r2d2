@@ -6,10 +6,9 @@ categories:
   - No Overall Control
 id: 356
 tags:
-- local groups
-- local networks
-- mapesbury
-- websites
+- NW2
+- Mapesbury
+- Cricklewood
 title: North West Two
 url: /2008/07/24/north-west-two/
 ---

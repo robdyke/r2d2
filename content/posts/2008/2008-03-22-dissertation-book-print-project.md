@@ -6,8 +6,8 @@ categories:
   - No Overall Control
 id: 329
 tags:
-- dissertation
-- goldsmiths
+- Dissertation
+- Goldsmiths
 title: dissertation book print project
 url: /2008/03/22/dissertation-book-print-project/
 ---

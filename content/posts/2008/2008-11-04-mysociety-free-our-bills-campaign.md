@@ -7,8 +7,7 @@ categories:
 id: 358
 tags:
 - Freedom of Information
-- parliament
-- public data
+- open data
 - Sarah Teather
 title: MySociety's 'Free Our Bills' campaign
 url: /2008/11/04/mysociety-free-our-bills-campaign/

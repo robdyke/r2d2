@@ -9,8 +9,6 @@ categories:
 id: 814
 tags:
 - Freedom of Information
-- op-ed
-- technology
 title: The BNP list - we can mash it up, but should we?
 url: /2008/11/20/the-bnp-list-we-can-mash-it-up-but-should-we/
 ---
