@@ -6,11 +6,9 @@ categories:
   - No Overall Control
 id: 368
 tags:
-- CML
-- convention on modern liberty
-- politics
-- public data
-- technology
+- Convention on Modern Liberty
+- Politics
+- open data
 title: recently reading "The Liberty of the Networked" at oD
 url: /2009/02/18/recently-reading-the-liberty-of-the-networked-at-od/
 ---

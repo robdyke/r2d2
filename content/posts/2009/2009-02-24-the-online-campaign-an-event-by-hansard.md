@@ -6,10 +6,8 @@ categories:
   - No Overall Control
 id: 370
 tags:
-- campaigning
-- parliament
-- politics
-- websites
+- Hansard
+- Politics
 title: The online campaign; an event by Hansard
 url: /2009/02/24/the-online-campaign-an-event-by-hansard/
 ---

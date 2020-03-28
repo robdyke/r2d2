@@ -6,8 +6,8 @@ categories:
   - No Overall Control
 id: 816
 tags:
-- local democracy
-- politics
+- Local Democracy
+- Politics
 title: Knowing who is governed is as important as knowing that those people govern
   themselves.
 url: /2009/02/09/knowing-who-is-governed-is-as-important-as-knowing-that-those-people-govern-themselves/
