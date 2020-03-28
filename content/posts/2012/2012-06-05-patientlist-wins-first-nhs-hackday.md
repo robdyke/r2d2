@@ -29,8 +29,4 @@ I worked on a solution using HL7 data to populate a database. A dummy data set o
 
 Here is the presentation we made:
 
-<!-- iframe plugin v.3.0 wordpress.org/plugins/iframe/ -->
-
 And a video of our pitch
-
-<!-- iframe plugin v.3.0 wordpress.org/plugins/iframe/ -->

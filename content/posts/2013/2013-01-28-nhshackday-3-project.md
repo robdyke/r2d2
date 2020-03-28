@@ -6,7 +6,7 @@ dsq_thread_id:
 guid: http://robdyke.com/rdb/?p=1019
 id: 1019
 title: NHSHackday 3 - Video consultations for healthcare
-url: /2013/01/28/nhshackday-3-projec/
+url: /2013/01/28/nhshackday-3-project/
 tags:
 - NHS Hackday
 ---

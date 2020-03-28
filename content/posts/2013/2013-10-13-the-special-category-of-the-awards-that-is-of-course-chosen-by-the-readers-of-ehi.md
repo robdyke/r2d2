@@ -8,6 +8,8 @@ id: 1094
 title: the special category of the awards that is, of course, chosen by the readers
   of EHI
 url: /2013/10/13/the-special-category-of-the-awards-that-is-of-course-chosen-by-the-readers-of-ehi/
+tags:
+- EHI
 ---
 So, this years [Healthcare IT Champion of the Year](http://www.ehi.co.uk/insight/analysis/1180/rounds-of-applause), the special category of the awards that is chosen by the readers of EHI, was announced as Kemi Adenubi, the GPSoC programme director for the Health and Social Care Information Centre.
 

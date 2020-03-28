@@ -6,10 +6,8 @@ dsq_thread_id:
 guid: http://robdyke.com/rdb/?p=1103
 id: 1103
 tags:
-- barcode
-- cordova
-- ehilive 2013
-- handihealth
+- EHIlive 2013
+- HANDI Health
 - Open Source
 title: My HANDI Health 'live coding' workshop.
 url: /2013/11/09/my-handi-health-live-coding-workshop/

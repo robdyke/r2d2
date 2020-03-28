@@ -12,12 +12,6 @@ This week I went to a supplier engagement event led by people from the Governmen
 
 Hopefully the re-platforming will be as easy as replacing the engine in an aeroplane mid-flight.
 
-<!-- iframe plugin v.3.0 wordpress.org/plugins/iframe/ -->
-
 And doesn't end up crashing....
 
-<!-- iframe plugin v.3.0 wordpress.org/plugins/iframe/ -->
-
 And that the development direction taken is lightweight, agile and cheap!
-
-<!-- iframe plugin v.3.0 wordpress.org/plugins/iframe/ -->

@@ -17,6 +17,4 @@ This short note was produced by the above group in response to a request from Li
 
 <a style="margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block; text-decoration: underline;" title="View Hackdays in Procurement on Scribd" href="http://www.scribd.com/doc/114734608/Hackdays-in-Procurement">Hackdays in Procurement</a>
 
-<!-- iframe plugin v.3.0 wordpress.org/plugins/iframe/ -->
-
 Contributors include: Malcolm Newbury (Guildfoss, Consultant), Mahendra Mahey (University of Bath, Project Manager of the DevCSI Project), John Pyle (Independent Procurement Consultant), Ewan Davis (Woodcote Consulting, Consultant), Scott Wilson (Service Manager, OSS Watch and Assistant Director, CETIS) and Eckhard Schwarzat (ValueDecision, Consultant).

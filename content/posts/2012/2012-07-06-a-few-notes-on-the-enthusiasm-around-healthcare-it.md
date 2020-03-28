@@ -4,10 +4,10 @@ date: "2012-07-06T12:55:16Z"
 guid: http://www.handihealth.net/?p=704
 id: 858
 tags:
-- handihealth
+- HANDI Health
 - NHS Hackday
 - Open Source
-- tactix4
+- Tactix4
 title: A few notes on the enthusiasm around healthcare IT
 url: /2012/07/06/a-few-notes-on-the-enthusiasm-around-healthcare-it/
 ---

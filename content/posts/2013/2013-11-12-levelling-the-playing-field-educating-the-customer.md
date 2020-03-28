@@ -6,14 +6,14 @@ dsq_thread_id:
 guid: http://robdyke.com/rdb/?p=1134
 id: 1134
 tags:
-- hscic
-- nhs england
+- HSCIC
+- NHS England
 - Open Source
-- policy
+- Policy
 title: Levelling the playing field and educating the customer
 url: /2013/11/12/levelling-the-playing-field-educating-the-customer/
 ---
-There have been several announcements from NHS-England / HSCIC in support of open source solutions for NHS organisations. These announcements have spawned much discussion and debate - on EHI/HSJ/NHSHackday sites and at EHILive - which ranges in style and content from Chicken Licken to Richard Stallman.
+There have been several announcements from NHS England / HSCIC in support of open source solutions for NHS organisations. These announcements have spawned much discussion and debate - on EHI/HSJ/NHSHackday sites and at EHILive - which ranges in style and content from Chicken Licken to Richard Stallman.
 
 In a short series of blogs I'm planning to post I'm going to look at these announcements and the reaction from a few different perspectives. In this post I'm looking at where the direction for such support from NHS England is coming from and what 'support' for open source solutions might actually mean.
 

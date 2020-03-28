@@ -35,8 +35,7 @@ In addition to the app, there is a web based front end that can be used to gener
 
 **The presentation:**
 
-  
-<!-- iframe plugin v.3.0 wordpress.org/plugins/iframe/ -->
+
 
 **Source Code:**
 

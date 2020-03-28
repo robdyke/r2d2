@@ -6,8 +6,8 @@ dsq_thread_id:
 guid: http://www.tactix4.com/?p=649
 id: 838
 tags:
-- tactix4
-- wardware
+- Tactix4
+- Wardware
 title: Tactix4 with ITK ISCF award with Luton and Dunstable NHS Trust
 url: /2012/12/16/tactix4-with-itk-iscf-award-with-luton-and-dunstable-nhs-trust/
 ---

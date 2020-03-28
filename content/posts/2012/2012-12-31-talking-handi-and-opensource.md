@@ -6,11 +6,9 @@ dsq_thread_id:
 guid: http://robdyke.com/rdb/?p=975
 id: 975
 tags:
-- handihealth
+- HANDI Health
 - Open Source
 title: Talking HANDI and opensource
 url: /2012/12/31/talking-handi-and-opensource/
 ---
 A couple of video interviews with me made with Pete Cogle from Inside Talking.
-
-<!-- iframe plugin v.3.0 wordpress.org/plugins/iframe/ -->

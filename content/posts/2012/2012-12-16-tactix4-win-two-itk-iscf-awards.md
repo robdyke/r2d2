@@ -4,7 +4,7 @@ date: "2012-12-16T18:07:52Z"
 guid: http://www.tactix4.com/?p=645
 id: 837
 tags:
-- tactix4
+- Tactix4
 title: Tactix4 win ITK ISCF award with Kings College Hospital
 url: /2012/12/16/tactix4-win-two-itk-iscf-awards/
 ---

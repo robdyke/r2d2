@@ -10,9 +10,10 @@ id: 857
 jabber_published:
 - 1332497209
 tags:
-- handihealth
+- HANDI Health
+- Apps
 title: A problem with mHealth apps....
-url: /2012/03/23/a-problem-with-mhealth-apps-2/
+url: /2012/03/23/a-problem-with-mhealth-apps/
 ---
 From a thread on the handihealth discussion group.
 

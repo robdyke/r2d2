@@ -7,7 +7,7 @@ guid: http://robdyke.com/rdb/?p=1118
 id: 1118
 tags:
 - CIC
-- handihealth
+- HANDI Health
 - Open Source
 title: 'HANDI - Selfish or Selfless: sorts of software for social systems'
 url: /2013/11/09/handi-selfish-or-selfless-sorts-of-software-for-social-systems/
