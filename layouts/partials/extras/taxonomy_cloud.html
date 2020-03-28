@@ -8,8 +8,8 @@
 <div class='container list-container'>
   <ul class='list taxonomy-cloud {{- if not $Shuffle }} no-shuffle {{- end -}}'>
   {{- if gt ( len $Data.Terms ) 0 -}}
-    {{- $maxSize := 3.0 -}}
-    {{- $minSize := 1.0 -}}
+    {{- $maxSize := 2.0 -}}
+    {{- $minSize := 0.5 -}}
     {{- $sizeSpread := ( sub $maxSize $minSize ) -}}
 
     {{- $maxCount := ( index $Data.Terms.ByCount 0 ).Count -}}

@@ -25,14 +25,6 @@ jobs:
 
       - name: Build
         run: hugo --minify
-      
-      # - name: Deploy
-      #   uses: peaceiris/actions-gh-pages@v3
-      #   with:
-      #     deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-      #     external_repository: robdyke/robdyke.github.io
-      #     publish_dir: ./public
-      #     publish_branch: master
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

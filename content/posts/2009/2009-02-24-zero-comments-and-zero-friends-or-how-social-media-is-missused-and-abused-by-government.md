@@ -7,7 +7,6 @@ categories:
 id: 372
 tags:
 - Politics
-- Study of the Political
 title: Zero Comments and Zero Friends or how 'social media' is missused and abused
   by government.
 url: /2009/02/24/zero-comments-and-zero-friends-or-how-social-media-is-missused-and-abused-by-government/

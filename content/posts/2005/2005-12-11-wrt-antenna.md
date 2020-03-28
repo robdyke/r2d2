@@ -5,8 +5,6 @@ guid: http://www.robdyke.com/noc/?p=230
 categories:
   - No Overall Control
 id: 230
-tags:
-- wrt54g
 title: WRT antenna
 url: /2005/12/11/wrt-antenna/
 ---

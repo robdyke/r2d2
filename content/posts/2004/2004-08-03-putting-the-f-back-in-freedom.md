@@ -7,8 +7,6 @@ categories:
 id: 621
 title: Putting the ‘F’ back in Freedom
 url: /2004/08/03/putting-the-f-back-in-freedom/
-tags:
-- Film
 ---
 This season, I shall mostly be looking forward to ['Team America: World Police'](http://www.teamamericamovie.com/).
 

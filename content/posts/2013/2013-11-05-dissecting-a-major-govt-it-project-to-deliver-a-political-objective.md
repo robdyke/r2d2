@@ -6,9 +6,7 @@ dsq_thread_id:
 guid: http://robdyke.com/rdb/?p=1100
 id: 1100
 tags:
-- healthcare.gov
 - HSCIC
-- UK Gov IT
 - Policy
 title: dissecting a major Govt IT project to deliver a political objective
 url: /2013/11/05/dissecting-a-major-govt-it-project-to-deliver-a-political-objective/

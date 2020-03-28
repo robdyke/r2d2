@@ -8,7 +8,6 @@ categories:
   - No Overall Control
 id: 443
 tags:
-- dotgovlabs
 - Open Source
 title: Discussing open source on DotGovLabs
 url: /2011/04/04/discussing-open-source-on-dotgovlabs/

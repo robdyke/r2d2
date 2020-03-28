@@ -9,7 +9,6 @@ categories:
 id: 331
 tags:
 - Freedom of Information
-- Parliament
 - Politics
 title: UKCOD, whatdotheyknow and other web projects for shaking up democracy
 url: /2008/03/25/ukcod-whatdotheyknow-and-other-web-project-for-shaking-up-democracy/

@@ -8,7 +8,6 @@ id: 101
 tags:
 - Brent Council
 - Mapesbury
-- Police
 - Street Care
 title: Mapesbury is All Action!
 url: /2006/04/25/mapesbury-is-all-action/
