@@ -6,9 +6,7 @@ categories:
   - No Overall Control
 id: 738
 tags:
-- local networks
-- projects
-- social tools
+- Social Tools
 title: community campaigning tools
 url: /2006/04/11/community-campaigning-tools/
 ---

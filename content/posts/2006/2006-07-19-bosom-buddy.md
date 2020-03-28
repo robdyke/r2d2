@@ -6,7 +6,7 @@ categories:
   - No Overall Control
 id: 780
 tags:
-- campaigning
+- Sarah Teather
 title: bosom buddy
 url: /2006/07/19/bosom-buddy/
 ---

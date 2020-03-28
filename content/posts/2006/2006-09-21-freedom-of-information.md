@@ -8,7 +8,7 @@ id: 148
 tags:
 - Brent Council
 - Freedom of Information
-- parking
+- Parking
 title: Freedom of Information
 url: /2006/09/21/freedom-of-information/
 ---

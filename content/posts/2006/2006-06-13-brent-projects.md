@@ -5,10 +5,6 @@ guid: http://www.robdyke.com/bec/?p=138
 categories:
   - Brent East Campaigning
 id: 138
-tags:
-- brent
-- projects
-- websites
 title: brent projects
 url: /2006/06/13/brent-projects/
 ---

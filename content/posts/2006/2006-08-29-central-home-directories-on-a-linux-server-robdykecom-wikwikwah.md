@@ -6,8 +6,7 @@ categories:
   - No Overall Control
 id: 210
 tags:
-- technology
-- wiki
+- Tech
 title: Central home directories on a linux server - robdyke.com wikwikwah
 url: /2006/08/29/central-home-directories-on-a-linux-server-robdykecom-wikwikwah/
 ---

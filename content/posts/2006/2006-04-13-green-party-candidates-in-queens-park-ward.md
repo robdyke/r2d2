@@ -7,7 +7,6 @@ categories:
 id: 90
 tags:
 - Leaflets
-- candidates
 - Green Party
 - Queens Park
 title: Green Party Candidates in Queen&#039;s Park ward.

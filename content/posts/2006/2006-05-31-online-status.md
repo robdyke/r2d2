@@ -5,8 +5,6 @@ guid: http://www.robdyke.com/noc/?p=215
 categories:
   - No Overall Control
 id: 215
-tags:
-- my sites
 title: online status
 url: /2006/05/31/online-status/
 ---

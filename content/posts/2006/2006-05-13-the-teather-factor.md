@@ -7,7 +7,6 @@ categories:
 id: 769
 tags:
 - Brent Council
-- campaigning
 - Sarah Teather
 title: The Teather Factor
 url: /2006/05/13/the-teather-factor/

@@ -6,8 +6,7 @@ categories:
   - Brent East Campaigning
 id: 136
 tags:
-- candidates
-- independent candidate
+- Rocky Fernandez
 title: new link added
 url: /2006/05/22/new-link-added/
 ---

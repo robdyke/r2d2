@@ -6,7 +6,7 @@ categories:
   - No Overall Control
 id: 225
 tags:
-- berlin
+- Berlin
 title: Photos uploaded
 url: /2006/01/04/photos-uploaded/
 ---

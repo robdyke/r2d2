@@ -7,9 +7,6 @@ categories:
 id: 749
 tags:
 - Brent Council
-- geodata
-- projects
-- public data
 - wirelesslondon
 title: in development
 url: /2006/04/23/in-development/

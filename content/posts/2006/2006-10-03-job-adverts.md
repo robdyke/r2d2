@@ -5,8 +5,6 @@ guid: http://www.robdyke.com/noc/?p=204
 categories:
   - No Overall Control
 id: 204
-tags:
-- my sites
 title: Job adverts
 url: /2006/10/03/job-adverts/
 ---

@@ -5,9 +5,6 @@ guid: http://www.robdyke.com/bec/?p=140
 categories:
   - Brent East Campaigning
 id: 140
-tags:
-- bonnet network
-- websites
 title: helping more community interest groups
 url: /2006/08/07/helping-more-community-interest-groups/
 ---

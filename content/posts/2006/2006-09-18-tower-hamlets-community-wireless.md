@@ -6,10 +6,8 @@ categories:
   - No Overall Control
 id: 207
 tags:
-- community network
-- comwifinet
-- london
-- wireless
+- Community Network
+- Comwifinet
 title: Tower Hamlets - community wireless
 url: /2006/09/18/tower-hamlets-community-wireless/
 ---

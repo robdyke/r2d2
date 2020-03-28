@@ -7,7 +7,7 @@ categories:
 id: 122
 tags:
 - Brent Council
-- election information
+- Elections
 title: Updates at brent.gov
 url: /2006/05/05/updates-at-brentgov/
 ---

@@ -7,7 +7,7 @@ categories:
 id: 778
 tags:
 - Brent Council
-- comwifinet
+- Comwifinet
 title: civic reporter
 url: /2006/06/21/civic-reporter-2/
 ---

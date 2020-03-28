@@ -6,9 +6,9 @@ categories:
   - Brent East Campaigning
 id: 131
 tags:
-- election information
+- Elections
 - Queens Park
-- recount
+- Recount
 title: Witnessing the count
 url: /2006/05/19/witnessing-the-count/
 ---

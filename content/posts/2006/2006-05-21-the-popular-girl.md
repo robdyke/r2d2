@@ -5,9 +5,6 @@ guid: http://www.robdyke.com/bec/?p=135
 categories:
   - Brent East Campaigning
 id: 135
-tags:
-- op-ed
-- websites
 title: The Popular Girl
 url: /2006/05/21/the-popular-girl/
 ---

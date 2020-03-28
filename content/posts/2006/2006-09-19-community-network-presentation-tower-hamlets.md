@@ -6,9 +6,8 @@ categories:
   - No Overall Control
 id: 784
 tags:
-- community network
-- comwifinet
-- london
+- Community Network
+- Comwifinet
 title: community network presentation - Tower Hamlets
 url: /2006/09/19/community-network-presentation-tower-hamlets/
 ---

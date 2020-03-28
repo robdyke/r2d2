@@ -8,7 +8,7 @@ id: 147
 tags:
 - Brent Council
 - Freedom of Information
-- parking
+- Parking
 title: Parking tickets in Brent and the FoI Act
 url: /2006/09/21/parking-tickets-in-brent-and-the-foi-act/
 ---

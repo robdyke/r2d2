@@ -7,7 +7,7 @@ categories:
 id: 78
 tags:
 - Leaflets
-- council tax
+- Council Tax
 - Liberal Democrats
 title: "the lib dems stand up for us"
 url: /2006/04/10/the-lib-dems-stand-up-for-us/

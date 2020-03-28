@@ -6,7 +6,6 @@ categories:
   - No Overall Control
 id: 745
 tags:
-- defection
 - Liberal Democrats
 title: QP Cllr Davies joins Lib Dems
 url: /2006/04/13/qp-cllr-davies-joins-lib-dems/

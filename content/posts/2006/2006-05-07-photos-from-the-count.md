@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 123
 tags:
-- websites
+- Elections
 title: Photos from the count.
 url: /2006/05/07/photos-from-the-count/
 ---

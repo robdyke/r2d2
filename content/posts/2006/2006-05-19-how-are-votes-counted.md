@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 129
 tags:
-- election information
+- Elections
 title: How are votes counted?
 url: /2006/05/19/how-are-votes-counted/
 ---

@@ -7,7 +7,6 @@ categories:
 id: 739
 tags:
 - Brent East
-- campaigning
 title: More on Brent East Campaigning
 url: /2006/04/11/more-on-brent-east-campaigning/
 ---

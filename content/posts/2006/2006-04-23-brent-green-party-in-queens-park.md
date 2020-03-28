@@ -7,7 +7,6 @@ categories:
 id: 100
 tags:
 - Leaflets
-- candidates
 - Green Party
 - Queens Park
 title: Brent Green Party in Queen&#039;s Park

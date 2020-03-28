@@ -7,7 +7,6 @@ categories:
 id: 85
 tags:
 - Leaflets
-- environment
 - Labour
 - Mapesbury
 title: where did the logo go? Part 1 of a series

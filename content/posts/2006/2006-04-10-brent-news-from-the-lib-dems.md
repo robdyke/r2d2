@@ -7,7 +7,7 @@ categories:
 id: 83
 tags:
 - Leaflets
-- council tax
+- Council Tax
 - Liberal Democrats
 - Mapesbury
 - Queens Park tower block

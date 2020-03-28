@@ -6,8 +6,8 @@ categories:
   - Brent East Campaigning
 id: 137
 tags:
-- election information
-- recount
+- Elections
+- Recount
 title: legal challenges to the results
 url: /2006/05/31/legal-challenges-to-the-results/
 ---

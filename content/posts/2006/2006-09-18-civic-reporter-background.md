@@ -7,9 +7,8 @@ categories:
 id: 209
 tags:
 - Brent Council
-- community network
-- comwifinet
-- projects
+- Community Network
+- Comwifinet
 title: civic reporter - background
 url: /2006/09/18/civic-reporter-background/
 ---

@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 121
 tags:
-- election information
+- Elections
 - Mapesbury
 - Queens Park
 title: And our winners are....

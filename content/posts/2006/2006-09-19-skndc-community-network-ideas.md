@@ -6,9 +6,10 @@ categories:
   - No Overall Control
 id: 205
 tags:
-- community network
-- south kilburn
-- wireless
+- Brent Council
+- Community Network
+- Comwifinet
+- South Kilburn
 title: SKNDC community network ideas
 url: /2006/09/19/skndc-community-network-ideas/
 ---
