@@ -6,8 +6,7 @@ categories:
   - Brent East Campaigning
 id: 110
 tags:
-- election information
-- op-ed
+- Elections
 title: my thoughts on the results
 url: /2006/05/03/my-thoughts-on-the-results/
 ---

@@ -7,8 +7,8 @@ categories:
 id: 121
 tags:
 - election information
-- mapesbury
-- queens park
+- Mapesbury
+- Queens Park
 title: And our winners are....
 url: /2006/05/05/and-our-winners-are/
 ---

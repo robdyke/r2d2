@@ -8,7 +8,7 @@ id: 102
 tags:
 - Leaflets
 - candidates
-- conservatives
+- Conservatives
 title: meeting Jack Sayers
 url: /2006/04/26/meeting-jack-sayers/
 ---

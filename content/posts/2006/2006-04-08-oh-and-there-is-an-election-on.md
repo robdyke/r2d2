@@ -6,8 +6,8 @@ categories:
   - No Overall Control
 id: 730
 tags:
-- Brent East
-- local democracy
+- Brent Council
+- Elections
 title: oh, and there is an election on
 url: /2006/04/08/oh-and-there-is-an-election-on/
 ---

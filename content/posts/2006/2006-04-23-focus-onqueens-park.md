@@ -7,8 +7,8 @@ categories:
 id: 99
 tags:
 - Liberal Democrats
-- qp tower block
-- queens park
+- Queens Park tower block
+- Queens Park
 title: Focus on...Queen&#039;s Park
 url: /2006/04/23/focus-onqueens-park/
 ---

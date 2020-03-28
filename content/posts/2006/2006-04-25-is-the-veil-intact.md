@@ -8,7 +8,7 @@ id: 103
 tags:
 - Brent Council
 - Leaflets
-- labour
+- Labour
 - Liberal Democrats
 title: is the veil intact?
 url: /2006/04/25/is-the-veil-intact/

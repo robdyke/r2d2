@@ -6,9 +6,9 @@ categories:
   - Brent East Campaigning
 tags:
   - Election 2005
-  - Greens
+  - Green Party
 id: 22
-title: Campaign Materials - Greens
+title: Campaign Materials - Green Party
 url: /2005/04/23/campaign-materials-greens/
 ---
 I received the Green Party Election Communication for Brent East earlier this week. I've scanned the 100% RECYCLED PAPER leaflet for you to download from here ([front cover](http://www.comwifinet.com/becampaign/gp_sa_fc_web.jpg), [inside](http://www.comwifinet.com/becampaign/gp_sa_inside_web.jpg), [back cover](http://www.comwifinet.com/becampaign/gp_sa_back_web.jpg)).

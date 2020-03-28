@@ -7,8 +7,6 @@ categories:
 id: 760
 tags:
 - Brent East
-- campaigning
-- local democracy
 title: Local elections - Look for the BIRD!
 url: /2006/05/03/local-elections-look-for-the-bird/
 ---

@@ -6,9 +6,7 @@ categories:
   - Brent East Campaigning
 id: 108
 tags:
-- election information
-- electoral wards
-- op-ed
+- Elections
 title: been busy - is this the last post?
 url: /2006/05/03/been-busy-is-this-the-last-post/
 ---

@@ -8,7 +8,7 @@ id: 143
 tags:
 - Brent Council
 - Leaflets
-- labour
+- Labour
 - Liberal Democrats
 title: FUD review for July
 url: /2006/08/08/fud-review-for-july/

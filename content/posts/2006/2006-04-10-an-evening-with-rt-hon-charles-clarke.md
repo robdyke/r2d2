@@ -7,8 +7,8 @@ categories:
 id: 80
 tags:
 - Leaflets
-- labour
-- mapesbury
+- Labour
+- Mapesbury
 title: an evening with Rt Hon Charles Clarke
 url: /2006/04/10/an-evening-with-rt-hon-charles-clarke/
 ---

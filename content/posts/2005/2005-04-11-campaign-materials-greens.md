@@ -7,7 +7,7 @@ categories:
 tags:
   - Election 2005
   - Leaflets
-  - Greens
+  - Green Party
 id: 8
 title: Campaign Materials -  Greens
 url: /2005/04/11/campaign-materials-greens/

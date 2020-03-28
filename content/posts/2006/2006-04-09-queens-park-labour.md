@@ -7,8 +7,8 @@ categories:
 id: 64
 tags:
 - Leaflets
-- labour
-- queens park
+- Labour
+- Queens Park
 title: queen&#039;s park labour
 url: /2006/04/09/queens-park-labour/
 ---

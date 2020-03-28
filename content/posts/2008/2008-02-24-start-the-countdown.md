@@ -7,7 +7,7 @@ categories:
 id: 802
 tags:
 - Election
-- Greens
+- Green Party
 - Politics
 title: Start the countdown...
 url: /2008/02/24/start-the-countdown/

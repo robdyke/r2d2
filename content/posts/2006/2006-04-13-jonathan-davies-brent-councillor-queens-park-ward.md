@@ -6,9 +6,9 @@ categories:
   - Brent East Campaigning
 id: 88
 tags:
-- labour
-- qp tower block
-- queens park
+- Labour
+- Queens Park tower block
+- Queens Park
 title: JONATHAN DAVIES BRENT COUNCILLOR QUEENS PARK WARD
 url: /2006/04/13/jonathan-davies-brent-councillor-queens-park-ward/
 ---

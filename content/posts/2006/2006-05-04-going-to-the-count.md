@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 118
 tags:
-- election information
+- Elections
 title: Going to the count...
 url: /2006/05/04/going-to-the-count/
 ---

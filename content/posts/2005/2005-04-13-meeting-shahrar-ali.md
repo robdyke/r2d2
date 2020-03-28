@@ -7,7 +7,7 @@ categories:
 tags:
   - Election 2005
   - Shahrar Ali
-  - Greens
+  - Green Party
 id: 10
 title: Meeting Shahrar Ali
 url: /2005/04/13/meeting-shahrar-ali/

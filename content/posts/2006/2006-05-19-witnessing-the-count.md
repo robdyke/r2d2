@@ -7,7 +7,7 @@ categories:
 id: 131
 tags:
 - election information
-- queens park
+- Queens Park
 - recount
 title: Witnessing the count
 url: /2006/05/19/witnessing-the-count/

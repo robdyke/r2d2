@@ -7,10 +7,8 @@ categories:
 id: 74
 tags:
 - Leaflets
-- council tax
-- environment
 - Liberal Democrats
-- mapesbury
+- Mapesbury
 title: Campaign Materials - Liberal Democrats
 url: /2006/04/10/campaign-materials-liberal-democrats/
 ---

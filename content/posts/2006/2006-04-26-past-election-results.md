@@ -7,9 +7,7 @@ categories:
 id: 105
 tags:
 - Brent East
-- election information
-- electoral wards
-- op-ed
+- Elections
 title: Past Election Results
 url: /2006/04/26/past-election-results/
 ---

@@ -6,8 +6,7 @@ categories:
   - Brent East Campaigning
 id: 115
 tags:
-- election information
-- op-ed
+- Elections
 title: Brent, are you voting?
 url: /2006/05/04/brent-are-you-voting/
 ---

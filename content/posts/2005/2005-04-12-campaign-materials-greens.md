@@ -7,9 +7,9 @@ categories:
 tags:
   - Election 2005
   - Leaflets
-  - Greens
+  - Green Party
 id: 197
-title: Campaign Materials - Greens
+title: Campaign Materials - Green Party
 url: /2005/04/12/campaign-materials-greens/
 ---
 [Brent East Green News - A4 newsletter - Front Page - JPG](http://www.comwifinet.com/becampaign/be_green_news_fr.jpg)

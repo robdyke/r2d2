@@ -7,7 +7,7 @@ categories:
 id: 134
 tags:
 - election information
-- queens park
+- Queens Park
 - recount
 title: Next steps in Queen&#039;s Park ward
 url: /2006/05/21/next-steps-in-queens-park-ward/

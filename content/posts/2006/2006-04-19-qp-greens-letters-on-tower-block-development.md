@@ -7,9 +7,9 @@ categories:
 id: 96
 tags:
 - Brent Council
-- green party
-- qp tower block
-- queens park
+- Green Party
+- Queens Park tower block
+- Queens Park
 title: QP Green&#039;s letters on tower block development
 url: /2006/04/19/qp-greens-letters-on-tower-block-development/
 ---

@@ -6,9 +6,9 @@ categories:
   - Brent East Campaigning
 id: 95
 tags:
-- green party
-- mapesbury
-- queens park
+- Green Party
+- Mapesbury
+- Queens Park
 title: Will Brent Vote Blue and Go Green?
 url: /2006/04/19/will-brent-vote-blue-and-go-green/
 ---

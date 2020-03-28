@@ -7,9 +7,7 @@ categories:
 id: 93
 tags:
 - Leaflets
-- candidates
-- conservatives
-- websites
+- Conservatives
 title: Brent Conservatives Unavailable?
 url: /2006/04/13/brent-conservatives-unavailable/
 ---

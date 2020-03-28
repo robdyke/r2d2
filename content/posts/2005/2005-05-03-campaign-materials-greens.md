@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 tags:
   - Election 2005
-  - Greens
+  - Green Party
 id: 42
 title: Campaign Materials -  Greens
 url: /2005/05/03/campaign-materials-greens/

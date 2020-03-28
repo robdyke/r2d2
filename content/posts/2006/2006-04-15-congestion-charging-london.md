@@ -6,8 +6,8 @@ categories:
   - No Overall Control
 id: 218
 tags:
-- london
-- technology
+- London
+- Tech
 title: Congestion Charging London
 url: /2006/04/15/congestion-charging-london/
 ---

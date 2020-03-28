@@ -7,10 +7,10 @@ categories:
 id: 67
 tags:
 - Leaflets
-- labour
+- Labour
 - Liberal Democrats
-- qp tower block
-- queens park
+- Queens Park tower block
+- Queens Park
 title: calling it as you see it
 url: /2006/04/09/calling-it-as-you-see-it/
 ---

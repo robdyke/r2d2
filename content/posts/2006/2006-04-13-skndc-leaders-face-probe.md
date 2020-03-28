@@ -6,8 +6,7 @@ categories:
   - No Overall Control
 id: 219
 tags:
-- projects
-- south kilburn
+- South Kilburn
 title: SKNDC leaders face probe
 url: /2006/04/13/skndc-leaders-face-probe/
 ---

@@ -7,7 +7,7 @@ categories:
 id: 761
 tags:
 - Brent Council
-- election information
+- Elections
 title: Big Brother Brent
 url: /2006/05/04/big-brother-brent/
 ---

@@ -7,7 +7,7 @@ categories:
 id: 106
 tags:
 - Leaflets
-- conservatives
+- Conservatives
 title: Brent Conservatives leave the office - SHOCK!
 url: /2006/05/03/brent-conservatives-leave-the-office-shock/
 ---

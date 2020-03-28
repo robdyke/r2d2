@@ -6,10 +6,8 @@ categories:
   - No Overall Control
 id: 727
 tags:
-- drupal
-- local networks
-- projects
-- social tools
+- Drupal
+- Social Tools
 title: drupal for IP Community commission
 url: /2006/01/16/drupal-for-ip-community-commission/
 ---

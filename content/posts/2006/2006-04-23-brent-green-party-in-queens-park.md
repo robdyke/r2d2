@@ -8,8 +8,8 @@ id: 100
 tags:
 - Leaflets
 - candidates
-- green party
-- queens park
+- Green Party
+- Queens Park
 title: Brent Green Party in Queen&#039;s Park
 url: /2006/04/23/brent-green-party-in-queens-park/
 ---

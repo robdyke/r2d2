@@ -6,10 +6,8 @@ categories:
   - Brent East Campaigning
 id: 107
 tags:
-- candidates
-- environment
-- green party
-- queens park
+- Green Party
+- Queens Park
 title: Solar Panels in a conservation area
 url: /2006/04/28/solar-panels-in-a-conservation-area/
 ---

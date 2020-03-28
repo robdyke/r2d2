@@ -7,14 +7,14 @@ categories:
 id: 97
 tags:
 - Leaflets
-- conservatives
+- Conservatives
 - dudden hill
-- green party
-- labour
+- Green Party
+- Labour
 - Liberal Democrats
-- mapesbury
-- qp tower block
-- queens park
+- Mapesbury
+- Queens Park tower block
+- Queens Park
 title: Queen&#039;s Park Tower Plan
 url: /2006/04/23/queens-park-tower-plan/
 ---

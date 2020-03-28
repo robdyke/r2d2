@@ -6,8 +6,8 @@ categories:
   - Brent East Campaigning
 id: 71
 tags:
-- election information
-- qp tower block
+- Elections
+- Queens Park tower block
 title: 5 reasons to vote - one is a tower!
 url: /2006/04/09/5-reasons-to-vote-one-is-a-tower/
 ---

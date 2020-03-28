@@ -7,7 +7,7 @@ categories:
 id: 768
 tags:
 - election information
-- queens park
+- Queens Park
 title: Missing votes in Queen’s Park ward?
 url: /2006/05/12/missing-votes-in-queens-park-ward/
 ---
