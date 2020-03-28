@@ -5,6 +5,7 @@ guid: http://www.robdyke.com/bec/?p=156
 categories:
   - Brent East Campaigning
 id: 156
+tags:
 - Election 2010
 - Leaflets
 - Labour
