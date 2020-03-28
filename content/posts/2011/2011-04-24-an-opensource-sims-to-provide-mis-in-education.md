@@ -6,9 +6,7 @@ categories:
   - No Overall Control
 id: 462
 tags:
-- commercial
-- crapita
-- education
+- Crapita
 - Open Source
 title: An opensource SIMS to provide MIS in education?
 url: /2011/04/24/an-opensource-sims-to-provide-mis-in-education/

@@ -6,9 +6,7 @@ categories:
   - No Overall Control
 id: 427
 tags:
-- libraries
-- library
-- more than books
+- Libraries
 title: More Than Books
 url: /2011/01/09/more-than-books/
 ---
