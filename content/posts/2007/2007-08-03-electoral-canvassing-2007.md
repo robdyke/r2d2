@@ -7,8 +7,7 @@ categories:
 id: 286
 tags:
 - Brent Council
-- election information
-- local democracy
+- Elections
 title: Electoral Canvassing 2007
 url: /2007/08/03/electoral-canvassing-2007/
 ---

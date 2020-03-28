@@ -6,9 +6,8 @@ categories:
   - No Overall Control
 id: 306
 tags:
-- FLOSS
-- goldsmiths
-- mediawiki
+- Open Source
+- Goldsmiths
 title: goldsmiths wiki
 url: /2007/12/05/goldsmiths-wiki/
 ---

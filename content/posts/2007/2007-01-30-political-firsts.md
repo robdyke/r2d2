@@ -6,8 +6,7 @@ categories:
   - No Overall Control
 id: 282
 tags:
-- goldsmiths
-- study of the political
+- Goldsmiths
 title: political firsts...
 url: /2007/01/30/political-firsts/
 ---

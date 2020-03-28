@@ -7,9 +7,8 @@ categories:
 id: 790
 tags:
 - Brent Council
-- candidates
-- local election
-- stonebridge
+- Elections
+- Stonebridge
 title: Stonebridge candidates
 url: /2007/08/23/stonebridge-candidates/
 ---

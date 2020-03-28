@@ -7,7 +7,6 @@ categories:
 id: 284
 tags:
 - Brent East
-- electoral wards
 title: 'Boundary changes: Winners and losers'
 url: /2007/02/05/boundary-changes-winners-and-losers/
 ---

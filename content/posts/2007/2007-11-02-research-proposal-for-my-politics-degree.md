@@ -6,8 +6,8 @@ categories:
   - No Overall Control
 id: 793
 tags:
-- dissertation
-- FLOSS
+- Dissertation
+- Open Source
 title: research proposal for my politics degree
 url: /2007/11/02/research-proposal-for-my-politics-degree/
 ---

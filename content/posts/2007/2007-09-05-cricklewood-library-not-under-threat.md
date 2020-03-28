@@ -6,9 +6,9 @@ categories:
   - No Overall Control
 id: 295
 tags:
-- brent
-- libraries
-- mapesbury
+- Brent
+- Libraries
+- Mapesbury
 title: Cricklewood Library - NOT under threat!
 url: /2007/09/05/cricklewood-library-not-under-threat/
 ---

@@ -6,10 +6,8 @@ categories:
   - No Overall Control
 id: 298
 tags:
-- FLOSS
-- goldsmiths
-- learning technology
-- libraries
+- Open Source
+- Goldsmiths
 title: extending `smiths library services
 url: /2007/10/23/extending-smiths-library-services/
 ---

@@ -8,8 +8,7 @@ categories:
   - No Overall Control
 id: 290
 tags:
-- goldsmiths
-- learning technology
+- Goldsmiths
 title: E-Benchmarking for Goldsmiths CELT
 url: /2007/08/09/e-benchmarking-for-goldsmiths-celt/
 ---

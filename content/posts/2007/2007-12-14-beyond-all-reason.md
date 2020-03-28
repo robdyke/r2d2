@@ -6,9 +6,7 @@ categories:
   - No Overall Control
 id: 308
 tags:
-- goldsmiths
-- study of the political
-- websites
+- Goldsmiths
 title: Beyond All Reason
 url: /2007/12/14/beyond-all-reason/
 ---

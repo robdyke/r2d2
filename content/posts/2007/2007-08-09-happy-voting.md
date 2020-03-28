@@ -7,9 +7,8 @@ categories:
 id: 789
 tags:
 - Brent Council
-- election
-- local democracy
-- stonebridge
+- Elections
+- Stonebridge
 title: '"Happy voting" ???'
 url: /2007/08/09/happy-voting/
 ---

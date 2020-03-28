@@ -6,7 +6,7 @@ categories:
   - No Overall Control
 id: 794
 tags:
-- dissertation
+- Dissertation
 title: dissertation research proposal submitted today
 url: /2007/11/13/dissertation-research-proposal-submitted-today/
 ---

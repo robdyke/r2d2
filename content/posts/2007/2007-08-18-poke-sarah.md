@@ -7,8 +7,6 @@ categories:
 id: 291
 tags:
 - Sarah Teather
-- social tools
-- websites
 title: Poke Sarah!
 url: /2007/08/18/poke-sarah/
 ---

@@ -6,7 +6,7 @@ categories:
   - No Overall Control
 id: 305
 tags:
-- goldsmiths
+- Goldsmiths
 title: '@smiths... the student staff forum.'
 url: /2007/12/05/smiths-the-student-staff-forum/
 ---

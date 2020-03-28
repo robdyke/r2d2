@@ -6,7 +6,7 @@ categories:
   - No Overall Control
 id: 307
 tags:
-- goldsmiths
+- Goldsmiths
 title: The Prime Minister's Lunch
 url: /2007/12/05/the-prime-ministers-lunch/
 ---

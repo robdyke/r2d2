@@ -6,7 +6,7 @@ categories:
   - No Overall Control
 id: 283
 tags:
-- goldsmiths
+- Goldsmiths
 title: Goldsmiths Debating Society
 url: /2007/01/30/goldsmiths-debating-society/
 ---

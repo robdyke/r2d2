@@ -6,9 +6,9 @@ categories:
   - No Overall Control
 id: 792
 tags:
-- brent
-- libraries
-- mapesbury
+- Brent
+- Libraries
+- Mapesbury
 title: Cricklewood Library
 url: /2007/09/05/cricklewood-library/
 ---

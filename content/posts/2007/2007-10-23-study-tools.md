@@ -6,10 +6,7 @@ categories:
   - No Overall Control
 id: 285
 tags:
-- goldsmiths
-- learning technology
-- study of the political
-- technology
+- Goldsmiths
 title: study tools
 url: /2007/10/23/study-tools/
 ---
