@@ -23,7 +23,7 @@ defaultContentLanguage = "en"
 
 [params.info]
 description = ""
-title404 = "Nothing's here!"
+title404 = "This is to be expected..."
 
 [params.assets]
 favicon = "favicon.ico"
