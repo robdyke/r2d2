@@ -9,7 +9,6 @@ title: Liberal Democrat Pre-Manifesto
 url: /2004/10/08/liberal-democrat-pre-manifesto/
 tags:
 - Liberal Democrats
-- Manifesto
 ---
 Available for download from Sarah's website is the LDs pre-manifesto "Freedom Fairness Trust'. It'll save you a £1 on buying it. Although as it is a 5.8MB PDF (with an estimated 17 minutes download at 56k) of 12 full colour pages, I wouldn't advise you print it...not with the [cost of inkjet printing](http://www.davidbowe.co.uk/press_releases/detail.php?pressReleaseId=12&currentPage=1).
 

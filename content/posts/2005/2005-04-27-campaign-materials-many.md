@@ -7,7 +7,6 @@ categories:
 id: 35
 tags:
 - Leaflets
-- candidates
 - Election 2005
 title: Campaign Materials -  Many!
 url: /2005/04/27/campaign-materials-many/

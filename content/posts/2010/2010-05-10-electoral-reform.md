@@ -6,6 +6,8 @@ categories:
   - No Overall Control
 id: 819
 title: Electoral Reform.
+tags:
+- Election 2010
 url: /2010/05/10/electoral-reform/
 ---
 New figures from the [Electoral Reform Society](http://www.electoral-reform.org.uk/index.php) examine exactly how well each party would have done under two systems of PR: Alternative Vote (AV) and Single Transferable Vote (STV).

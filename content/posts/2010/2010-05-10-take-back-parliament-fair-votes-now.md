@@ -7,7 +7,6 @@ categories:
 id: 396
 tags:
 - Election 2010
-- takeitback
 title: Take Back Parliament - Fair Votes Now
 url: /2010/05/10/take-back-parliament-fair-votes-now/
 ---

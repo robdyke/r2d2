@@ -5,8 +5,6 @@ guid: http://www.robdyke.com/noc/2008/12/11/plane-stupid-direct-action-meets-net
 categories:
   - No Overall Control
 id: 815
-tags:
-- electronic civil disobedience
 title: plane stupid direct action meets networked civil disobedience
 url: /2008/12/11/plane-stupid-direct-action-meets-networked-civil-disobedience/
 ---

@@ -6,7 +6,6 @@ categories:
   - Brent East Campaigning
 id: 154
 tags:
-- Candidates
 - Election 2010
 - MAPRA
 title: MapRA AGM and hustings tonight.

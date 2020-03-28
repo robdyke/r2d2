@@ -5,8 +5,6 @@ guid: http://www.robdyke.com/noc/?p=226
 categories:
   - No Overall Control
 id: 226
-tags:
-- maps
 title: Custom googlemaps on the wikwikwah
 url: /2006/01/04/custom-googlemaps-on-the-wikwikwah/
 ---

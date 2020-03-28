@@ -11,8 +11,7 @@ categories:
   - No Overall Control
 id: 456
 tags:
-- cisco
-- vpn
+- Tech
 title: Using Shrew Soft VPN client with a Cisco RV 120W
 url: /2011/04/24/using-shrew-soft-vpn-client-with-a-cisco-rv-120w/
 ---

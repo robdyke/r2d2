@@ -6,7 +6,7 @@ categories:
   - No Overall Control
 id: 802
 tags:
-- Election
+- Elections
 - Green Party
 - Politics
 title: Start the countdown...

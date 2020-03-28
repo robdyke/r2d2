@@ -5,7 +5,6 @@ guid: http://www.robdyke.com/bec/?p=12
 categories:
   - No Overall Control
 tags:
-  - Manifesto
   - Politics
 id: 12
 title: What are the policies of the three main parties?

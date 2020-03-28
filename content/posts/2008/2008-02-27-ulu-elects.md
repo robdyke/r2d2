@@ -6,7 +6,7 @@ categories:
   - No Overall Control
 id: 325
 tags:
-- Election
+- Elections
 - Goldsmiths
 title: ULU Elects!
 url: /2008/02/27/ulu-elects/
