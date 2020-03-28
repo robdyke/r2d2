@@ -8,7 +8,7 @@ categories:
   - Brent East Campaigning
 id: 341
 tags:
-- brent central
+- Brent Central
 - Election 2010
 - willesden green
 title: Brent Central - Willesden Green

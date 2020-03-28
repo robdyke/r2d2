@@ -7,7 +7,6 @@ categories:
 id: 240
 tags:
 - Brent Council
-- local election
 title: Local elections in the shadow?
 url: /2010/05/03/local-elections-in-the-shadow/
 ---

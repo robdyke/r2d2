@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 151
 tags:
-- candidates
+- Candidates
 - Election 2010
 title: Last day to submit your nomination.
 url: /2010/04/19/last-day-to-submit-your-nomination/

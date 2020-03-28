@@ -7,7 +7,7 @@ categories:
 id: 103
 tags:
 - Brent Council
-- campaign materials
+- Leaflets
 - labour
 - Liberal Democrats
 title: is the veil intact?

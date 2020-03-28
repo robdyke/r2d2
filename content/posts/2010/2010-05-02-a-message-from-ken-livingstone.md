@@ -6,9 +6,10 @@ categories:
   - Brent East Campaigning
 id: 288
 tags:
-- brent central
-- ken livingstone
-- labour
+- Brent Central
+- Ken Livingstone
+- Labour
+- Election 2010
 title: A message from Ken Livingstone
 url: /2010/05/02/a-message-from-ken-livingstone/
 ---

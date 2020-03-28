@@ -6,7 +6,7 @@ categories:
   - No Overall Control
 id: 421
 tags:
-- gladstone park
+- Gladstone Park
 title: Gladstone Park
 url: /2010/07/25/gladstone-park/
 ---

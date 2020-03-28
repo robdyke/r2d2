@@ -7,7 +7,7 @@ categories:
 id: 404
 tags:
 - Brent Council
-- library
+- Libraries
 title: Out with the old, in with new.
 url: /2010/06/17/out-with-the-old-in-with-new/
 ---

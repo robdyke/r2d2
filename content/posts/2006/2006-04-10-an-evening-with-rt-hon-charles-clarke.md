@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 80
 tags:
-- campaign materials
+- Leaflets
 - labour
 - mapesbury
 title: an evening with Rt Hon Charles Clarke

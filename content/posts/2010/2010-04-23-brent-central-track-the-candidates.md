@@ -6,11 +6,11 @@ categories:
   - Brent East Campaigning
 id: 168
 tags:
-- brent central
-- brent north
-- campaign materials
-- electoral wards
-- hampstead and kilburn
+- Brent Central
+- Brent North
+- Leaflets
+- Hampstead and Kilburn
+- Election 2010
 title: Brent Central - track the candidates
 url: /2010/04/23/brent-central-track-the-candidates/
 ---

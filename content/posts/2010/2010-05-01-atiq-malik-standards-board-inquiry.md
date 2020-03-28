@@ -6,10 +6,8 @@ categories:
   - Brent East Campaigning
 id: 194
 tags:
-- brent central
-- candidates
-- dirty politics
-- independent candidate
+- Brent Central
+- Election 2010
 title: Atiq Malik standards board inquiry
 url: /2010/05/01/atiq-malik-standards-board-inquiry/
 ---

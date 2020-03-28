@@ -8,7 +8,10 @@ categories:
   - Brent East Campaigning
 id: 327
 tags:
-- stonebridge
+- Stonebridge
+- Labour
+- Dawn Butler
+- Election 2010
 title: Photos from Stonebridge - Hillside &amp; Fawood Children&#039;s Centre
 url: /2010/05/05/photos-from-stonebridge-hillside-fawood-childrens-centre/
 ---

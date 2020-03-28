@@ -6,10 +6,13 @@ categories:
   - Brent East Campaigning
 id: 206
 tags:
+tags:
+- Expenses
+- Labour
+- Liberal Democrats
+- Sarah Teather
 - Dawn Butler
-- dirty politics
-- dirty tricks
-- expenses
+- Election 2010
 title: Labour pay legal costs to Brent Lib Dems
 url: /2010/05/01/labour-pay-legal-costs-to-brent-lib-dems/
 ---

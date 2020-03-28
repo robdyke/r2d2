@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 102
 tags:
-- campaign materials
+- Leaflets
 - candidates
 - conservatives
 title: meeting Jack Sayers

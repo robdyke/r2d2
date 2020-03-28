@@ -6,8 +6,6 @@ categories:
   - Brent East Campaigning
 id: 417
 tags:
-- government
-- housing
 - Sarah Teather
 title: Sarah Teather - Housing Minister?
 url: /2010/05/13/sarah-teather-housing-minister/

@@ -6,11 +6,11 @@ categories:
   - Brent East Campaigning
 id: 159
 tags:
-- dirty tricks
-- expenses
-- labour
+- Expenses
+- Labour
 - Liberal Democrats
 - Sarah Teather
+- Election 2010
 title: MP Sarah Cleared
 url: /2010/04/01/mp-sarah-cleared/
 ---

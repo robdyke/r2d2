@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 35
 tags:
-- campaign materials
+- Leaflets
 - candidates
 - Election 2005
 title: Campaign Materials -  Many!

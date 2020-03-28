@@ -6,10 +6,10 @@ categories:
   - Brent East Campaigning
 id: 336
 tags:
-- brent central
-- campaign materials
+- Brent Central
+- Leaflets
 - Election 2010
-- hampstead and kilburn
+- Hampstead and Kilburn
 title: Kilburn Station, 6:45pm
 url: /2010/05/05/kilburn-station-645pm/
 ---

@@ -7,7 +7,7 @@ categories:
 id: 152
 tags:
 - Brent Council
-- candidates
+- Election 2010
 title: List of candidates for Brent Council wards.
 url: /2010/04/09/list-of-candidates-for-brent-council-wards/
 ---

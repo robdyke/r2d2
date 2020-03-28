@@ -5,10 +5,9 @@ guid: http://www.robdyke.com/bec/?p=156
 categories:
   - Brent East Campaigning
 id: 156
-tags:
-- campaign materials
-- labour
-- mapesbury
+- Election 2010
+- Leaflets
+- Labour
 title: Brent Labour - Mapesbury News
 url: /2010/04/04/brent-labour-mapesbury-news/
 ---

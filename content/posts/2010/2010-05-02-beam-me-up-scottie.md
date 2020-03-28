@@ -6,8 +6,8 @@ categories:
   - No Overall Control
 id: 375
 tags:
-- politics
-- technology
+- Election 2010
+- Ubuntu
 title: Beam me up scottie.
 url: /2010/05/02/beam-me-up-scottie/
 ---

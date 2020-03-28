@@ -6,12 +6,12 @@ categories:
   - Brent East Campaigning
 id: 360
 tags:
-- brent central
-- campaign materials
-- conservatives
+- Brent Central
+- Leaflets
+- Conservatives
 - Election 2010
 - Liberal Democrats
-- mapesbury
+- Mapesbury
 title: While I was out....
 url: /2010/05/06/while-i-was-out/
 ---

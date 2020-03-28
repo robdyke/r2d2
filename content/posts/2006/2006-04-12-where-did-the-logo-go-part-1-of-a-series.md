@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 85
 tags:
-- campaign materials
+- Leaflets
 - environment
 - labour
 - mapesbury

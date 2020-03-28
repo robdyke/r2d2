@@ -6,9 +6,8 @@ categories:
   - Brent East Campaigning
 id: 367
 tags:
-- brent central
+- Brent Central
 - Election 2010
-- local election
 title: Sarah Teather Is Our MP
 url: /2010/05/07/sarah-teather-is-our-mp/
 ---

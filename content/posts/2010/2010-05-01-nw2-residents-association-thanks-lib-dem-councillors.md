@@ -7,8 +7,8 @@ categories:
 id: 214
 tags:
 - Liberal Democrats
-- mapesbury
-- northwesttwo
+- MAPRA
+- NW2
 title: NW2 Residents Association Thanks Lib Dem Councillors
 url: /2010/05/01/nw2-residents-association-thanks-lib-dem-councillors/
 ---

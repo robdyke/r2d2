@@ -6,10 +6,12 @@ categories:
   - Brent East Campaigning
 id: 317
 tags:
-- brent central
-- campaign materials
+tags:
+- Leaflets
+- Stonebridge
+- Labour
 - Dawn Butler
-- stonebridge
+- Election 2010
 title: Dawn Butler&#039;s hoarding at Unisys, Brentfield
 url: /2010/05/05/dawn-butlers-hoarding-at-unisys-brentfield/
 ---

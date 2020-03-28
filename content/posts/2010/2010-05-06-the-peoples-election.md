@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 339
 tags:
-- campaign materials
+- Leaflets
 - Election 2010
 title: The peoples election
 url: /2010/05/06/the-peoples-election/

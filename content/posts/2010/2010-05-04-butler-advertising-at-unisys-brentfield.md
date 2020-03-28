@@ -6,11 +6,12 @@ categories:
   - Brent East Campaigning
 id: 276
 tags:
-- brentfield
-- campaign materials
+- Brentfield
+- Leaflets
+- Stonebridge
+- Labour
 - Dawn Butler
-- labour
-- stonebridge
+- Election 2010
 title: Dawn Butler hording advertising at Unisys, Brentfield.
 url: /2010/05/04/butler-advertising-at-unisys-brentfield/
 ---

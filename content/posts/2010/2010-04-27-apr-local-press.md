@@ -6,11 +6,9 @@ categories:
   - Brent East Campaigning
 id: 187
 tags:
-- brent central
-- candidates
+- Brent Central
 - Election 2010
-- independent candidate
-- queensbury
+- Queensbury
 title: from the local press
 url: /2010/04/27/apr-local-press/
 ---

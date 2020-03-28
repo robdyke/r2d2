@@ -7,8 +7,8 @@ categories:
 id: 484
 tags:
 - Brent Council
-- council tax
-- crapita
+- Council Tax
+- Crapita
 title: 'Brent Council Tax : £15m to increase collection rates'
 url: /2011/04/24/brent-council-tax/
 ---

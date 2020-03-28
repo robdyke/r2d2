@@ -6,12 +6,12 @@ categories:
   - Brent East Campaigning
 id: 176
 tags:
+- Expenses
+- Labour
+- Liberal Democrats
+- Sarah Teather
 - Dawn Butler
-- dirty politics
-- dirty tricks
-- expenses
 - Election 2010
-- labour
 title: WB Times &#039;Butler told to apologise&#039;
 url: /2010/04/23/wb-times-butler-told-to-apologise/
 ---

@@ -7,7 +7,7 @@ categories:
 id: 143
 tags:
 - Brent Council
-- campaign materials
+- Leaflets
 - labour
 - Liberal Democrats
 title: FUD review for July

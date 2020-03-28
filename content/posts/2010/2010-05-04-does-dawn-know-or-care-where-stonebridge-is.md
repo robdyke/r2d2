@@ -6,11 +6,11 @@ categories:
   - Brent East Campaigning
 id: 299
 tags:
-- brent central
-- campaign materials
+- Brent Central
+- Leaflets
 - Dawn Butler
 - Election 2010
-- labour
+- Labour
 title: Does Dawn know (or care) where Stonebridge is?
 url: /2010/05/04/does-dawn-know-or-care-where-stonebridge-is/
 ---

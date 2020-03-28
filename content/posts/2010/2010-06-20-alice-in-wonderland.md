@@ -6,7 +6,7 @@ categories:
   - No Overall Control
 id: 412
 tags:
-- gladstone park
+- Gladstone Park
 title: Alice in Wonderland
 url: /2010/06/20/alice-in-wonderland/
 ---

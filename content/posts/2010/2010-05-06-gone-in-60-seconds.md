@@ -6,9 +6,9 @@ categories:
   - Brent East Campaigning
 id: 357
 tags:
-- campaign materials
+- Leaflets
 - Election 2010
-- labour
+- Labour
 title: Gone in 60 seconds.
 url: /2010/05/06/gone-in-60-seconds/
 ---

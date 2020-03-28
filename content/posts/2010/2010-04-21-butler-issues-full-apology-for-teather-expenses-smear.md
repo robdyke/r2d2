@@ -6,10 +6,12 @@ categories:
   - Brent East Campaigning
 id: 164
 tags:
+- Expenses
+- Labour
+- Liberal Democrats
+- Sarah Teather
 - Dawn Butler
-- dirty tricks
-- expenses
-- labour
+- Election 2010
 title: Butler issues full apology for Teather expenses smear
 url: /2010/04/21/butler-issues-full-apology-for-teather-expenses-smear/
 ---

@@ -5,7 +5,8 @@ guid: http://www.tactix4.com/?p=573
 id: 573
 tags:
 - Open Source
-- tactix4
+- Tactix4
+- Policy
 title: Cough up the hairball and make NHS technology open
 url: /2011/08/05/573/
 ---

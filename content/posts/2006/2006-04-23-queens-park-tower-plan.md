@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 97
 tags:
-- campaign materials
+- Leaflets
 - conservatives
 - dudden hill
 - green party

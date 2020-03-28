@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 64
 tags:
-- campaign materials
+- Leaflets
 - labour
 - queens park
 title: queen&#039;s park labour

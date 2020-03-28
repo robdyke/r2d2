@@ -6,11 +6,12 @@ categories:
   - Brent East Campaigning
 id: 170
 tags:
-- brent central
+- Brent Central
 - Brent East
-- brent north
-- campaign materials
-- hampstead and kilburn
+- Brent North
+- Leaflets
+- Hampstead and Kilburn
+- Election 2010
 title: Local election leaflets online
 url: /2010/04/23/local-election-leaflets-online/
 ---

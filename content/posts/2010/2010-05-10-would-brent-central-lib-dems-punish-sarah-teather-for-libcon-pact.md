@@ -6,9 +6,8 @@ categories:
   - Brent East Campaigning
 id: 409
 tags:
-- brent central
+- Brent Central
 - Election 2010
-- hung parliament
 title: Would Brent Central Lib Dems punish Sarah Teather for Lib/Con pact?
 url: /2010/05/10/would-brent-central-lib-dems-punish-sarah-teather-for-libcon-pact/
 ---

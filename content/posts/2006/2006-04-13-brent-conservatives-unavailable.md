@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 93
 tags:
-- campaign materials
+- Leaflets
 - candidates
 - conservatives
 - websites

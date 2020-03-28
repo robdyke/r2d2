@@ -12,8 +12,8 @@ categories:
   - No Overall Control
 id: 511
 tags:
-- cricklewood
-- herritage inn
+- Cricklewood
+- Herritage Inn
 title: Heritage Inn Community Event
 url: /2011/05/31/heritage-inn-community-event/
 ---

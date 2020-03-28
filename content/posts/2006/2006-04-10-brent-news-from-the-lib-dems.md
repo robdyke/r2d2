@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 83
 tags:
-- campaign materials
+- Leaflets
 - council tax
 - Liberal Democrats
 - mapesbury

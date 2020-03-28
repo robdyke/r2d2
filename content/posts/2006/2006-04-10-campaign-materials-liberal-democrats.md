@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 74
 tags:
-- campaign materials
+- Leaflets
 - council tax
 - environment
 - Liberal Democrats

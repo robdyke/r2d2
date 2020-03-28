@@ -6,7 +6,6 @@ categories:
   - Brent East Campaigning
 id: 419
 tags:
-- government
 - Sarah Teather
 title: Sarah Teather appointed Minister of State for Children and Families
 url: /2010/05/14/sarah-teather-appointed-minister-of-state-for-children-and-families/

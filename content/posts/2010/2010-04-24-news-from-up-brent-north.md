@@ -8,9 +8,9 @@ categories:
   - Brent East Campaigning
 id: 179
 tags:
-- brent north
-- campaign materials
-- labour
+- Brent North
+- Leaflets
+- Labour
 title: News from up Brent North
 url: /2010/04/24/news-from-up-brent-north/
 ---

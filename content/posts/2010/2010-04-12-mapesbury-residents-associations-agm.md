@@ -7,7 +7,7 @@ categories:
 id: 153
 tags:
 - Election 2010
-- mapesbury
+- MAPRA
 title: Mapesbury Residents Associations AGM - 19th APR
 url: /2010/04/12/mapesbury-residents-associations-agm/
 ---

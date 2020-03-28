@@ -6,7 +6,6 @@ categories:
   - Brent East Campaigning
 id: 150
 tags:
-- election information
 - Election 2010
 title: No Brent East, Just Campaigning
 url: /2010/04/06/no-brent-east-just-campaigning/

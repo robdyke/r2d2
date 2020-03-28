@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 106
 tags:
-- campaign materials
+- Leaflets
 - conservatives
 title: Brent Conservatives leave the office - SHOCK!
 url: /2006/05/03/brent-conservatives-leave-the-office-shock/

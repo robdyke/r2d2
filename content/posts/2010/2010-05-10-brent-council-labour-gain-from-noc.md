@@ -7,8 +7,8 @@ categories:
 id: 413
 tags:
 - Brent Council
-- green party
-- local election
+- Greens
+- Elections
 title: Brent Council - Labour Gain from NOC
 url: /2010/05/10/brent-council-labour-gain-from-noc/
 ---

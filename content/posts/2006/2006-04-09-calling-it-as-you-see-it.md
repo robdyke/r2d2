@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 67
 tags:
-- campaign materials
+- Leaflets
 - labour
 - Liberal Democrats
 - qp tower block

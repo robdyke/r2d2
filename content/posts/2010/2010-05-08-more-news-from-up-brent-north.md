@@ -6,9 +6,9 @@ categories:
   - Brent East Campaigning
 id: 405
 tags:
-- barry gardiner
-- brent north
-- expenses
+- Barry Gardiner
+- Brent North
+- Expenses
 title: More news from up Brent North
 url: /2010/05/08/more-news-from-up-brent-north/
 ---

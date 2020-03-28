@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 78
 tags:
-- campaign materials
+- Leaflets
 - council tax
 - Liberal Democrats
 title: "the lib dems stand up for us"

@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 100
 tags:
-- campaign materials
+- Leaflets
 - candidates
 - green party
 - queens park

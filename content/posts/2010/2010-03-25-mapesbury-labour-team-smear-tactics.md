@@ -6,10 +6,9 @@ categories:
   - Brent East Campaigning
 id: 162
 tags:
-- campaign materials
-- dirty tricks
-- expenses
-- labour
+- Expenses
+- Labour
+- Liberal Democrats
 - Sarah Teather
 title: Mapesbury Labour Team smear tactics....?
 url: /2010/03/25/mapesbury-labour-team-smear-tactics/
