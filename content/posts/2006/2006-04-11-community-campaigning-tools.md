@@ -5,8 +5,6 @@ guid: http://www.robdyke.com/noc/?p=221
 categories:
   - No Overall Control
 id: 738
-tags:
-- Social Tools
 title: community campaigning tools
 url: /2006/04/11/community-campaigning-tools/
 ---

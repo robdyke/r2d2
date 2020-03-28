@@ -10,7 +10,7 @@ tags:
 - Council Tax
 - Liberal Democrats
 - Mapesbury
-- Queens Park tower block
+- Tower block
 - Willesden Green
 title: Brent News from the Lib Dems
 url: /2006/04/10/brent-news-from-the-lib-dems/

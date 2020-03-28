@@ -6,7 +6,7 @@ categories:
   - No Overall Control
 id: 232
 tags:
-- xen
+- linux
 title: Index of /riel/xen_for_fc4
 url: /2005/11/20/index-of-rielxen_for_fc4/
 ---

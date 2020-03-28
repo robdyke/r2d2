@@ -6,7 +6,7 @@ categories:
   - No Overall Control
 id: 231
 tags:
-- xen
+- linux
 title: FedoraXenQuickstart - Fedora Project Wiki
 url: /2005/11/20/fedoraxenquickstart-fedora-project-wiki/
 ---

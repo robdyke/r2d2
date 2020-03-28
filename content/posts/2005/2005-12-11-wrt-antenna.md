@@ -7,7 +7,6 @@ categories:
 id: 230
 tags:
 - wrt54g
-- wifi
 title: WRT antenna
 url: /2005/12/11/wrt-antenna/
 ---

@@ -6,7 +6,7 @@ categories:
   - Brent East Campaigning
 id: 94
 tags:
-- Queens Park tower block
+- Tower block
 - Queens Park
 title: Tower Politics
 url: /2006/04/19/tower-politics/

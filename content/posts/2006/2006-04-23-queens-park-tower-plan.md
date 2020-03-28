@@ -13,7 +13,7 @@ tags:
 - Labour
 - Liberal Democrats
 - Mapesbury
-- Queens Park tower block
+- Tower block
 - Queens Park
 title: Queen's Park Tower Plan
 url: /2006/04/23/queens-park-tower-plan/

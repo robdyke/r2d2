@@ -5,8 +5,6 @@ guid: http://www.robdyke.com/noc/?p=227
 categories:
   - No Overall Control
 id: 227
-tags:
-- drupal
 title: Freemind | drupal.org
 url: /2005/12/28/freemind-drupalorg/
 ---

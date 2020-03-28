@@ -7,7 +7,7 @@ categories:
 id: 71
 tags:
 - Elections
-- Queens Park tower block
+- Tower block
 title: 5 reasons to vote - one is a tower!
 url: /2006/04/09/5-reasons-to-vote-one-is-a-tower/
 ---

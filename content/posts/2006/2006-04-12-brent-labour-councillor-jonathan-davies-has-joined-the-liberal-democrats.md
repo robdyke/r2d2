@@ -8,7 +8,7 @@ id: 84
 tags:
 - Labour
 - Liberal Democrats
-- Queens Park tower block
+- Tower block
 - Queens Park
 title: Brent Labour Councillor Jonathan Davies has joined the Liberal Democrats
 url: /2006/04/12/brent-labour-councillor-jonathan-davies-has-joined-the-liberal-democrats/

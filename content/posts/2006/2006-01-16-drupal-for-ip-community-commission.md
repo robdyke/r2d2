@@ -6,8 +6,7 @@ categories:
   - No Overall Control
 id: 727
 tags:
-- Drupal
-- Social Tools
+- Open Source
 title: drupal for IP Community commission
 url: /2006/01/16/drupal-for-ip-community-commission/
 ---

@@ -9,7 +9,7 @@ tags:
 - Leaflets
 - Labour
 - Liberal Democrats
-- Queens Park tower block
+- Tower block
 - Queens Park
 title: calling it as you see it
 url: /2006/04/09/calling-it-as-you-see-it/
