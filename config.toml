@@ -127,9 +127,9 @@ course = "courses"
 [permalinks]
 page = "/:slug/"
 degree = "/:section/:title/"
-# [[menu.sidebar]]
-# name = "Blog"
-# url = "/posts"
+[[menu.sidebar]]
+name = "Career"
+url = "https://robdyke.github.io/career-profile/"
 
 [blackfriday]
 hrefTargetBlank = true
