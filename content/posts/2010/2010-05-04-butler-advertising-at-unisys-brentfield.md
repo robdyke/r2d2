@@ -25,7 +25,7 @@ The ex-Unisys building on Brentfield has been empty for well over  a decade. In
 
 I was attracted to the Labour posters along the boundary fence and the massive Vote Dawn Butler advertising hoarding, sadly fallen from grace and lying in the mud.
 
-[<img class="aligncenter size-medium wp-image-253" title="Dawn Butler hoarding" src="/pubfiles/2010/05/P1000511-300x225.jpg" alt="" width="300" height="225" />](/pubfiles/2010/05/P1000511.jpg)
+{{< figure title="Dawn Butler hoarding" src="/pubfiles/2010/05/P1000511.jpg" alt="" width="300" height="225" >}}
 
 According to the planning conditions attached the the permission granted in 1997, "Prior consent may be required under the Town & Country Planning (Control of Advertisements) Regulations 1992 for the erection of any advertising signs and/or hoardings on the subject site." So I spoke with Brent Planning, who advised me that An Advertisement means:
 
