@@ -9,7 +9,7 @@ tags:
 - Leaflets
 - Green Party
 - Queens Park
-title: Brent Green Party in Queen&#039;s Park
+title: Brent Green Party in Queen's Park
 url: /2006/04/23/brent-green-party-in-queens-park/
 ---
 The local Greens have been distributing their literature in the wards. They have also made the literature available online so I don't have to scan it I can link to it from here.

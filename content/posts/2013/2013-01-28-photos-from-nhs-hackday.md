@@ -108,47 +108,5 @@ tags:
     <li class="photonic-flickr-image photonic-flickr-photo photonic-pad-photos">
       <a  class='launch-gallery-fancybox fancybox'  rel='lightbox-photonic-flickr-stream-1'  href="https://farm9.static.flickr.com/8495/8424632054_ab51f4947b_z.jpg" title="<a href=&#039;https://www.flickr.com/photos/90867769@N08/8424632054&#039; >NHS hackday</a>" ><img alt="NHS hackday" src="https://farm9.static.flickr.com/8495/8424632054_ab51f4947b_s.jpg" /></a>
     </li>
-    <li class="photonic-flickr-image photonic-flickr-photo photonic-pad-photos">
-      <a  class='launch-gallery-fancybox fancybox'  rel='lightbox-photonic-flickr-stream-1'  href="https://farm9.static.flickr.com/8485/8246080999_384d950a17_z.jpg" title="<a href=&#039;https://www.flickr.com/photos/90867769@N08/8246080999&#039; >Afternoon Session - App Ideas Factories</a>" ><img alt="Afternoon Session - App Ideas Factories" src="https://farm9.static.flickr.com/8485/8246080999_384d950a17_s.jpg" /></a>
-    </li>
-    <li class="photonic-flickr-image photonic-flickr-photo photonic-pad-photos">
-      <a  class='launch-gallery-fancybox fancybox'  rel='lightbox-photonic-flickr-stream-1'  href="https://farm9.static.flickr.com/8490/8247148216_a818883076_z.jpg" title="<a href=&#039;https://www.flickr.com/photos/90867769@N08/8247148216&#039; >Afternoon Session - App Ideas Factories</a>" ><img alt="Afternoon Session - App Ideas Factories" src="https://farm9.static.flickr.com/8490/8247148216_a818883076_s.jpg" /></a>
-    </li>
-    <li class="photonic-flickr-image photonic-flickr-photo photonic-pad-photos">
-      <a  class='launch-gallery-fancybox fancybox'  rel='lightbox-photonic-flickr-stream-1'  href="https://farm9.static.flickr.com/8208/8247148334_3917262395_z.jpg" title="<a href=&#039;https://www.flickr.com/photos/90867769@N08/8247148334&#039; >Afternoon Session - App Ideas Factories</a>" ><img alt="Afternoon Session - App Ideas Factories" src="https://farm9.static.flickr.com/8208/8247148334_3917262395_s.jpg" /></a>
-    </li>
-    <li class="photonic-flickr-image photonic-flickr-photo photonic-pad-photos">
-      <a  class='launch-gallery-fancybox fancybox'  rel='lightbox-photonic-flickr-stream-1'  href="https://farm9.static.flickr.com/8490/8246081371_29c7c411f3_z.jpg" title="<a href=&#039;https://www.flickr.com/photos/90867769@N08/8246081371&#039; >Afternoon Session - App Ideas Factories</a>" ><img alt="Afternoon Session - App Ideas Factories" src="https://farm9.static.flickr.com/8490/8246081371_29c7c411f3_s.jpg" /></a>
-    </li>
-    <li class="photonic-flickr-image photonic-flickr-photo photonic-pad-photos">
-      <a  class='launch-gallery-fancybox fancybox'  rel='lightbox-photonic-flickr-stream-1'  href="https://farm9.static.flickr.com/8342/8247148650_6e9b92180f_z.jpg" title="<a href=&#039;https://www.flickr.com/photos/90867769@N08/8247148650&#039; >Afternoon Session - App Ideas Factories</a>" ><img alt="Afternoon Session - App Ideas Factories" src="https://farm9.static.flickr.com/8342/8247148650_6e9b92180f_s.jpg" /></a>
-    </li>
-    <li class="photonic-flickr-image photonic-flickr-photo photonic-pad-photos">
-      <a  class='launch-gallery-fancybox fancybox'  rel='lightbox-photonic-flickr-stream-1'  href="https://farm9.static.flickr.com/8210/8246081641_aee8907fe1_z.jpg" title="<a href=&#039;https://www.flickr.com/photos/90867769@N08/8246081641&#039; >Afternoon Session - App Ideas Factories</a>" ><img alt="Afternoon Session - App Ideas Factories" src="https://farm9.static.flickr.com/8210/8246081641_aee8907fe1_s.jpg" /></a>
-    </li>
-    <li class="photonic-flickr-image photonic-flickr-photo photonic-pad-photos">
-      <a  class='launch-gallery-fancybox fancybox'  rel='lightbox-photonic-flickr-stream-1'  href="https://farm9.static.flickr.com/8350/8247148942_1b528c1267_z.jpg" title="<a href=&#039;https://www.flickr.com/photos/90867769@N08/8247148942&#039; >Afternoon Session - App Ideas Factories</a>" ><img alt="Afternoon Session - App Ideas Factories" src="https://farm9.static.flickr.com/8350/8247148942_1b528c1267_s.jpg" /></a>
-    </li>
-    <li class="photonic-flickr-image photonic-flickr-photo photonic-pad-photos">
-      <a  class='launch-gallery-fancybox fancybox'  rel='lightbox-photonic-flickr-stream-1'  href="https://farm9.static.flickr.com/8199/8246081915_f79677a397_z.jpg" title="<a href=&#039;https://www.flickr.com/photos/90867769@N08/8246081915&#039; >Afternoon Session - App Ideas Factories</a>" ><img alt="Afternoon Session - App Ideas Factories" src="https://farm9.static.flickr.com/8199/8246081915_f79677a397_s.jpg" /></a>
-    </li>
-    <li class="photonic-flickr-image photonic-flickr-photo photonic-pad-photos">
-      <a  class='launch-gallery-fancybox fancybox'  rel='lightbox-photonic-flickr-stream-1'  href="https://farm9.static.flickr.com/8201/8247144816_81a395ac5b_z.jpg" title="<a href=&#039;https://www.flickr.com/photos/90867769@N08/8247144816&#039; >Anatomy and Physiology of NHS IT in the bigger world</a>" ><img alt="Anatomy and Physiology of NHS IT in the bigger world" src="https://farm9.static.flickr.com/8201/8247144816_81a395ac5b_s.jpg" /></a>
-    </li>
-    <li class="photonic-flickr-image photonic-flickr-photo photonic-pad-photos">
-      <a  class='launch-gallery-fancybox fancybox'  rel='lightbox-photonic-flickr-stream-1'  href="https://farm9.static.flickr.com/8489/8247144482_a1280f24dc_z.jpg" title="<a href=&#039;https://www.flickr.com/photos/90867769@N08/8247144482&#039; >Anatomy and Physiology of NHS IT in the bigger world</a>" ><img alt="Anatomy and Physiology of NHS IT in the bigger world" src="https://farm9.static.flickr.com/8489/8247144482_a1280f24dc_s.jpg" /></a>
-    </li>
-    <li class="photonic-flickr-image photonic-flickr-photo photonic-pad-photos">
-      <a  class='launch-gallery-fancybox fancybox'  rel='lightbox-photonic-flickr-stream-1'  href="https://farm9.static.flickr.com/8478/8246077765_2199015035_z.jpg" title="<a href=&#039;https://www.flickr.com/photos/90867769@N08/8246077765&#039; >Anatomy and Physiology of NHS IT in the bigger world</a>" ><img alt="Anatomy and Physiology of NHS IT in the bigger world" src="https://farm9.static.flickr.com/8478/8246077765_2199015035_s.jpg" /></a>
-    </li>
-    <li class="photonic-flickr-image photonic-flickr-photo photonic-pad-photos">
-      <a  class='launch-gallery-fancybox fancybox'  rel='lightbox-photonic-flickr-stream-1'  href="https://farm9.static.flickr.com/8340/8246077383_5a4a5dc805_z.jpg" title="<a href=&#039;https://www.flickr.com/photos/90867769@N08/8246077383&#039; >Anatomy and Physiology of NHS IT in the bigger world</a>" ><img alt="Anatomy and Physiology of NHS IT in the bigger world" src="https://farm9.static.flickr.com/8340/8246077383_5a4a5dc805_s.jpg" /></a>
-    </li>
-    <li class="photonic-flickr-image photonic-flickr-photo photonic-pad-photos">
-      <a  class='launch-gallery-fancybox fancybox'  rel='lightbox-photonic-flickr-stream-1'  href="https://farm9.static.flickr.com/8203/8247143878_f416d0055c_z.jpg" title="<a href=&#039;https://www.flickr.com/photos/90867769@N08/8247143878&#039; >Anatomy and Physiology of NHS IT in the bigger world</a>" ><img alt="Anatomy and Physiology of NHS IT in the bigger world" src="https://farm9.static.flickr.com/8203/8247143878_f416d0055c_s.jpg" /></a>
-    </li>
-    <li class="photonic-flickr-image photonic-flickr-photo photonic-pad-photos">
-      <a  class='launch-gallery-fancybox fancybox'  rel='lightbox-photonic-flickr-stream-1'  href="https://farm9.static.flickr.com/8057/8247143126_ebf21d61fc_z.jpg" title="<a href=&#039;https://www.flickr.com/photos/90867769@N08/8247143126&#039; >Anatomy and Physiology of NHS IT in the bigger world</a>" ><img alt="Anatomy and Physiology of NHS IT in the bigger world" src="https://farm9.static.flickr.com/8057/8247143126_ebf21d61fc_s.jpg" /></a>
-    </li>
   </ul>
 </div>
