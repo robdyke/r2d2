@@ -121,12 +121,12 @@ searchApiKey = ""
 [taxonomies]
 author = "authors"
 category = "categories"
-series = "series"
 tag = "tags"
+course = "courses"
 
 [permalinks]
 page = "/:slug/"
-
+degree = "/:section/:title/"
 # [[menu.sidebar]]
 # name = "Blog"
 # url = "/posts"

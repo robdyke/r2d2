@@ -1,12 +1,14 @@
 ---
 date: "2020-03-29T00:12:34Z"
-title: "New Radical Political Economy"
+title: "To what extent do social, p2p or participatory financial models democratise capital?"
 authors: [robdyke]
 type: page
+# categories:
+#     - Goldsmiths
+courses:
+    - New Radical Political Economy
 tags:
-  - First Year
-categories:
-  - Goldsmiths
+    - Third Year
 ---
 > “What matters in the world is money, machines and people, in that
 > order. Our political task is to reverse the order.” Keith Hart[^1]
