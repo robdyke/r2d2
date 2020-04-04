@@ -1,0 +1,6 @@
+/* Custom CSS */
+
+/* add override for .container max-width */
+.container {
+    max-width: 900px;
+  }
