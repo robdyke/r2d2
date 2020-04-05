@@ -3,12 +3,12 @@ authors: ["robdyke"]
 date: "2004-08-16T17:10:50Z"
 guid: http://www.robdyke.com/noc/?p=253
 categories:
-  - No Overall Control
+  - Community Wifi
 id: 636
 title: What’s Happening?
 url: /2004/08/16/whats-happening/
 tags:
-- wifi
+- Queens Park Wifi Club
 ---
 A Wireless Broadband Network for Queen's Park.
 

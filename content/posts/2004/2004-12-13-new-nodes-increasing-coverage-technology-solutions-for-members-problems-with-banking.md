@@ -3,13 +3,13 @@ authors: ["robdyke"]
 date: "2004-12-13T09:29:24Z"
 guid: http://www.robdyke.com/noc/?p=239
 categories:
-  - No Overall Control
+  - Community Wifi
 id: 239
 title: New nodes increasing coverage... technology solutions for members... problems
   with banking...
 url: /2004/12/13/new-nodes-increasing-coverage-technology-solutions-for-members-problems-with-banking/
 tags:
-- wifi
+- Queens Park Wifi Club
 ---
 The occasional blogging of the growth of a wireless community.
 
