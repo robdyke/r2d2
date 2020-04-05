@@ -3,12 +3,12 @@ authors: ["robdyke"]
 date: "2004-09-14T10:00:09Z"
 guid: http://www.robdyke.com/noc/?p=246
 categories:
-  - No Overall Control
+  - Community Wifi
 id: 246
 title: Getting yourself online
 url: /2004/09/14/getting-yourself-online/
 tags:
-- wifi
+- Queens Park Wifi Club
 ---
 Order a beer from the Salusbury, maybe a slice of pizza from the deli, or take a seat with an eat from Baker and Spice...
 
