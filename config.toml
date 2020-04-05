@@ -122,7 +122,6 @@ searchApiKey = ""
 author = "authors"
 category = "categories"
 tag = "tags"
-course = "courses"
 
 [permalinks]
 page = "/:slug/"
@@ -130,6 +129,11 @@ degree = "/:section/:title/"
 [[menu.sidebar]]
 name = "Career"
 url = "https://robdyke.github.io/career-profile/"
+weight = "80"
+# [[menu.sidebar]]
+# name = "Tags"
+# url = "/tags"
+# weight = "310"
 
 [blackfriday]
 hrefTargetBlank = true

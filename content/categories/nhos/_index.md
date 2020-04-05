@@ -2,6 +2,6 @@
 title: "NHoS"
 menu:
     sidebar: 
-        parent: About
+        parent: Projects
 ---
 NHoS - an OS for the NHS (aka NHSbuntu)

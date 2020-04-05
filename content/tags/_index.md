@@ -2,5 +2,5 @@
 title: Tags
 menu:
   - sidebar
-weight: 30
+weight: 100
 ---
