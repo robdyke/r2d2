@@ -42,24 +42,30 @@ I decided to leave as out of scope the installation of the JDK and ADT dependenc
 
 From the command line, I installed cordova & plugman using npm
 
-<pre>sudo npm install cordova
-sudo npm install plugman</pre>
+```sudo npm install cordova
+sudo npm install plugman
+```
 
 I then created a new cordova project and added android platform features
 
-<pre>cordova create ehiscan1 com.example.ehiscan1 EHIScan1
-cordova platform add android</pre>
+```
+cordova create ehiscan1 com.example.ehiscan1 EHIScan1
+cordova platform add android
+```
 
 I downloaded the scandit plugin and unzipped it before installing it with plugman
 
-<pre>plugman install --platform android --project /home/robdyke/Development/ehiscan1/platforms/android/ --plugin /home/robdyke/Downloads/scandit/
-plugman install --platform android --project /home/robdyke/Development/ehiscan1/ --plugin org.apache.cordova.inappbrowser</pre>
+```
+plugman install --platform android --project /home/robdyke/Development/ehiscan1/platforms/android/ --plugin /home/robdyke/Downloads/scandit/
+plugman install --platform android --project /home/robdyke/Development/ehiscan1/ --plugin org.apache.cordova.inappbrowser
+```
 
 #### Write some code:
 
 Now to edit the index.html file to load the barcode scanner and perform an action on the input. I edited www/index.html and replaced everything between the body tags as follows:
 
-<pre class="lang:js decode:true ">&lt;body onload="onBodyLoad()" style="background: url(img/ScanditSDKDemo-Splash.png) no-repeat;background-size: 100%;background-color: #000000"&gt;
+```
+body onload="onBodyLoad()" style="background: url(img/ScanditSDKDemo-Splash.png) no-repeat;background-size: 100%;background-color: #000000"&gt;
         &lt;script type="text/javascript" src="cordova.js"&gt;&lt;/script&gt;
         &lt;script type="text/javascript" src="js/index.js"&gt;&lt;/script&gt;
         &lt;script type="text/javascript"&gt;
@@ -90,16 +96,19 @@ Now to edit the index.html file to load the barcode scanner and perform an actio
         &lt;div align="center" valign="center"&gt;
             &lt;input type="button" value="scan" onclick="scan()" style="margin-top: 230px; width: 100px; height: 30px; font-size: 1em"/&gt;
         &lt;/div&gt;
-    &lt;/body&gt;</pre>
+    &lt;/body&gt;
+```
 
 This could clearly be improved ... as I'm really not a coder, your contributions welcome!
 
 The key part of the code above is the section:
 
-<pre class="lang:js decode:true ">function success(resultArray) {
+```
+function success(resultArray) {
 	    	var barcode = resultArray[0];
 	    	window.location = barcode;
-            }</pre>
+            }
+```
 
 This function takes the (resultArray) from a successful barcode scan and passes the value var from the scan to the in app browser for action, in this case opening it as a URL input.
 
