@@ -67,20 +67,14 @@ I advocate CICs for a few reasons, mainly:
 
 Here is a simple example of a CIC organisation for an open source project:
 
-<p style="text-align: center;">
-   <img class="aligncenter  wp-image-1148" alt="Simple CIC" src="/pubfiles/2013/11/Simple-CIC.png" width="651" height="389" />
-</p>
+{{< figure alt="Simple CIC" src="/pubfiles/2013/11/Simple-CIC.png" width="651" height="389" >}}
 
 Still with me at the back? Here is a more complex model showing how a CIC might operate as a business: managing partner relationships, releasing software, assuring regulatory compliance, &tc.
 
-<p style="text-align: center;">
-  <img class="aligncenter  wp-image-1149" alt="Complex CIC" src="/pubfiles/2013/11/Complex-CIC.png" width="640" height="401" />
-</p>
+{{< figure alt="Complex CIC" src="/pubfiles/2013/11/Complex-CIC.png" width="640" height="401" >}}
 
 This sort of approach would also work for an over-aching governance & assurance model for NHS-England / HSCIC to adopt. We could think of an NHS-E-CIC as a Big Tent in which a variety of organisations could become members and actively participate in the governance and assurance of healthcare IT _in general_ while at the same time leaving individual projects to decide for themselves appropriate approaches to the same.
 
 Ideally we end up with [something like this](http://www.haneke.net/) ... only in pink.
 
 Tactix4 are establishing a number of Community Interest Companies around the various open source projects that we are working in right now. There will announcements on the T4 website in due course.
-
-&nbsp;

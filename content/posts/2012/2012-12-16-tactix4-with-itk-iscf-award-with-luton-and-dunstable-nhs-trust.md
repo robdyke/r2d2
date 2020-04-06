@@ -19,7 +19,7 @@ Two NHS Trusts bid with Tactix4 demonstrating that our ideas showed value for mo
 
 [Rebecca Todd at EHI reports](http://www.ehi.co.uk/news/EHI/8262/itk-fund-winners-announced) that The Luton and Dunstable award is to work with Tactix4 to implement ITK ADT support for the [Wardware opensource nursing observation platform](http://wardware.co.uk/). Wardware delivers an electronic observation system with National EWS support that results in medical teams having easier access to patient observations.
 
-[<img class="aligncenter size-medium wp-image-637" title="logo_1_morepinkblue" alt="" src="http://www.tactix4.com/pubfiles/2012/02/logo_1_morepinkblue-300x75.png" width="300" height="75" />](http://www.wardware.co.uk)
+<!-- {{< figure caption="logo_1_morepinkblue" alt="" src="/pubfiles/2012/02/logo_1_morepinkblue-300x75.png" width="300" height="75" >}} -->
 
 > It has been a pleasure to work with Anne Thomson of the electronic observation implementation team and others at L&D to make Wardware a successful project for the trust, helping to prevent cardiac arrests and reduce avoidable deaths.
 

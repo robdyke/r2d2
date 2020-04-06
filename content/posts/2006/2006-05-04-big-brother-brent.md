@@ -11,4 +11,4 @@ tags:
 title: Big Brother Brent
 url: /2006/05/04/big-brother-brent/
 ---
-<a rel="attachment" title="Big Brother Election Poster" href="http://www.robdyke.com/bec/?attachment_id=113"><img alt="Big Brother Election Poster" src="/pubfiles/2006/05/big_brother_brent.jpg" /></a>
+{{< figure caption="Big Brother Election Poster" alt="Big Brother Election Poster" src="/pubfiles/2006/05/big_brother_brent.jpg" >}}

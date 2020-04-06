@@ -25,7 +25,7 @@ From a political perspective, it looks like this project was deliberately frustr
 
 Then a week or so ago the single-point-of-failure did just that.
 
-<img class="aligncenter size-medium wp-image-1124" alt="healthcare-error-640x426" src="/pubfiles/2013/11/healthcare-error-640x426-300x199.jpg" width="300" height="199" />
+{{< figure alt="healthcare-error-640x426" src="/pubfiles/2013/11/healthcare-error-640x426-300x199.jpg" width="300" height="199" >}}
 
 Over on Arstechnica Sean Gallagher gives his view on Obamacare site's litany of woes in a piece ['The seven deadly sins of HealthCare.gov'](http://arstechnica.com/information-technology/2013/10/the-seven-deadly-sins-of-healthcare-gov/): Hyper-complexity, Dependency issues, All-new build, Rolling requirements, Anti-testing, Release late & release once, Anti-bugfixing.
 
@@ -33,29 +33,12 @@ Thankfully NHS England & HSCIC are not looking like going down the same path - o
 
 "[HSCICs] future relationship with the market involves:"
 
-<div>
-  <ul>
-    <li>
-      Contracts with smaller financial values, covering shorter duration;
-    </li>
-    <li>
-      Significant reductions in procurement timescales;
-    </li>
-    <li>
-      Increasing use of Government frameworks;
-    </li>
-    <li>
-      New approaches to engaging and driving the market, with particular emphasis on engaging with Small to Medium Enterprises and creating competitive market tensions not only during procurement, but throughout the delivery of a service;
-    </li>
-    <li>
-      Less reliance on multi-national operators acting as prime contractors;
-    </li>
-    <li>
-      Where possible leveraging services from other Government departments.
-    </li>
-  </ul>
-  
-  <p>
-    I'm looking forward to the launches of e-Referrals / Customer Service Platform ... I'm not expecting a #fail.
-  </p>
-</div>
+- Contracts with smaller financial values, covering shorter duration;
+- Significant reductions in procurement timescales;
+- Increasing use of Government frameworks;
+- New approaches to engaging and driving the market, with particular emphasis on engaging with Small to Medium - Enterprises and creating competitive market tensions not only during procurement, but throughout the delivery of a service;
+- Less reliance on multi-national operators acting as prime contractors;
+- Where possible leveraging services from other Government departments.
+
+I'm looking forward to the launches of e-Referrals / Customer Service Platform ... I'm not expecting a #fail.
+
