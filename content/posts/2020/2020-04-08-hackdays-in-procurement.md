@@ -10,7 +10,17 @@ description: Note for Cabinet Office on the use of hackdays to achieve a level p
 toc: true
 ---
 
-> This short note was produced by the above group in response to a request from [Liam Maxwell made at EHI Live 2012](/2012/11/30/hackdays-levelling-the-playing-field/), to investigate how hackdays could help procurement. Reposting here as the PDF is locked behind a paywall.
+> This short note was produced in response to a request from [Liam Maxwell made at EHI Live 2012](/2012/11/30/hackdays-levelling-the-playing-field/), to investigate how hackdays could help procurement. Reposting here as the PDF is locked behind a paywall.
+
+Contributors
+
+- Malcolm Newbury, Guildfoss, Consultant
+- Mahendra Mahey, University of Bath, Project Manager of the DevCSI Project
+- John Pyle, Independent Procurement Consultant
+- Ewan Davis, Woodcote Consulting, Consultant
+- Rob Dyke, Technical Director, Tactix4
+- Scott Wilson, Service Manager, OSS Watch and Assistant Director, CETIS
+- Eckhard Schwarzat, ValueDecision, Consultant
 
 A "hackday" or "modding" (modification) day is an event where a group of people extractedfrom their normal day to day jobs and are brought together typically to deliver solutions touser problems. There is usually an online dialogue between users and developersculminating in a 2-3 day event, in which solutions are developed and sometimes judged. Hackdays are used to develop solutions to problems that may not be solved by the "business as usual" processes. They are relatively cheap to operate, often conducted on a voluntary basis, they are sometimes organised by small business units and SMEs seeing aself interest in participation. As well generating intellectual property (IP) and solutions, hackdays create networks, relationships and creative energy which is unsurpassed by anyother networking event. However, there needs to be a clear route to market for the outputs of hackdays, for their true value to be realised by the community. The public sector procurement process is singled out as having the most to gain from using hackdays, to levelthe playing field and expose innovation.
 
@@ -176,13 +186,3 @@ More concerted central government action is required to exploit the benefits of 
 Another example would be for departmental sector sponsors including Cabinet Office toprovide funds to support hackdays where new ground needs to be broken.
 
 Finally, work to produce new guidance for "the use of hackdays in procurement" to address any perceived risks, would ensure broad take up and maxim benefit.
-
-## Contributors:
-
-- Malcolm Newbury, Guildfoss, Consultant
-- Mahendra Mahey, University of Bath, Project Manager of the DevCSI Project
-- John Pyle, Independent Procurement Consultant
-- Ewan Davis, Woodcote Consulting, Consultant
-- Rob Dyke, Technical Director, Tactix4
-- Scott Wilson, Service Manager, OSS Watch and Assistant Director, CETIS
-- Eckhard Schwarzat, ValueDecision, Consultant
