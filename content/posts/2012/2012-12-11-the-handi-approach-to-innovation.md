@@ -28,6 +28,4 @@ While I must thank Roy Lilley of NHSManagers.net for the ultimate oxymoron line,
 
 HANDI Health has this culture change at heart, Dick. Thanks for the vote of confidence.
 
-<div style="margin-bottom:5px">
-  <strong> <a href="https://www.slideshare.net/HANDIhealth/handi-health-innovation" title="HANDI Health - Innovation?" target="_blank">HANDI Health - Innovation?</a> </strong> from <strong><a href="http://www.slideshare.net/HANDIhealth" target="_blank">HANDI HEALTH</a></strong>
-</div>
+{{< slideshare src="//www.slideshare.net/slideshow/embed_code/key/bxIlzlj1luTWlW" href="//www.slideshare.net/HANDIhealth/handi-health-innovation" title="HANDI Health - Innovation?" >}}
