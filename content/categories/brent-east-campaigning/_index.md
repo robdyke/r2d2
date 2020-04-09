@@ -3,5 +3,5 @@ title: "Brent East Campaigning"
 menu:
     sidebar: 
         parent: About
-        weight: 40
+        weight: 20
 ---
