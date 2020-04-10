@@ -1,15 +1,12 @@
 ---
 date: "2020-03-29T00:00:00Z"
 authors: [robdyke]
-# type: page
 tags:
     - Third Year
     - Discourse, Power, Politics
-bibliography:
-    - /home/robd/projects/robdyke/goldsmiths/bibliography/globalbib.bib
-meta-json: {"bibliography":["/home/robd/projects/robdyke/goldsmiths/bibliography/globalbib.bib"],"date":"","author":["Course Code PO53018A, Student No. 22164733"],"title":"Do you agree with Hardt and Negri’s contention that we now live in the\nage of Empire? Justify your response"}
 title: Do you agree with Hardt and Negri’s contention that we now live in the
   age of Empire?
+toc: true
 ---
 My reading of Hardt and Negri’s *Empire*[^1] has taken me on a personal
 political journey. The text has provoked a critical examination of my

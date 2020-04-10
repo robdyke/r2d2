@@ -1,12 +1,11 @@
 ---
 date: "2020-03-30T00:00:00Z"
 authors: [robdyke]
-# type: page
 tags:
     - Third Year
     - Dissertation
-meta-json: {"bibliography":["/home/robd/projects/robdyke/goldsmiths/bibliography/globalbib.bib"],"date":"","author":["Rob Dyke"],"title":"Hacking the Networked Society."}
 title: Hacking the Networked Society.
+toc: true
 ---
 Introduction.
 =============

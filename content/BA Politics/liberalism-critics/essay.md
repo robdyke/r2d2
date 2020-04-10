@@ -4,9 +4,8 @@ authors: [robdyke]
 tags:
     - Third Year
     - Liberalism and its Critics
-bibliography: /home/robd/projects/robdyke/goldsmiths/bibliography/globalbib.bib
-meta-json: {"bibliography":["/home/robd/projects/robdyke/goldsmiths/bibliography/globalbib.bib"],"date":"","author":["Student Registration No. 22164733"],"title":"“There is no such thing as a ‘communitarian’ critique of liberalism for\nsuch ‘critiques’ are in reality only expressions of liberal\ndissatisfaction with the excesses of liberal individualism” Discuss."}
 title: “There is no such thing as a ‘communitarian’ critique of liberalism for such ‘critiques’ are in reality only expressions of liberal dissatisfaction with the excesses of liberal individualism”
+toc: true
 ---
 After an eleven year absence, the manifestation of all that was 1990s
 Girl Power, the Spice Girls, reformed recently for a world tour. Once

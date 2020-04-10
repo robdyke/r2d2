@@ -5,6 +5,7 @@ authors: [robdyke]
 tags:
     - Third Year
     - New Radical Political Economy
+toc: true
 ---
 > “What matters in the world is money, machines and people, in that
 > order. Our political task is to reverse the order.” Keith Hart[^1]

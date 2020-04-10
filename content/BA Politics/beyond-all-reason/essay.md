@@ -8,6 +8,7 @@ tags:
 bibliography: /home/robd/projects/robdyke/goldsmiths/bibliography/globalbib.bib
 meta-json: {"bibliography":["/home/robd/projects/robdyke/goldsmiths/bibliography/globalbib.bib"],"date":"Autumn Term 2007-08","author":["Student Registration No. 22164733"],"title":"Evaluate the contemporary relevance of Schmitt’s conception of ‘the\npolitical’."}
 title: Evaluate the contemporary relevance of Schmitt’s conception of ‘the political’.
+toc: true
 ---
 Schmitt’s stark conception of ‘the political’ serves to remind us of two
 significant yet often neglected aspects of political philosophy.
