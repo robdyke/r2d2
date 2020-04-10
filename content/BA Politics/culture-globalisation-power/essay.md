@@ -1,13 +1,13 @@
 ---
-date: "2020-03-29T00:12:34Z"
+date: "2020-03-29T00:00:00Z"
 authors: [robdyke]
-type: page
+# type: page
 tags:
     - Third Year
     - Culture, Globalisation and Power
 bibliography: /home/robd/projects/robdyke/goldsmiths/Bibliography/globalbib.bib
 meta-json: {"bibliography":["/home/robd/projects/robdyke/goldsmiths/Bibliography/globalbib.bib"],"date":"","author":["Student Registration No. 22164733"],"title":"Critically discuss Appadurai’s theory of globalisation with reference to\nhis idea of scapes"}
-title: Critically discuss Appadurai’s theory of globalisation with reference to his idea of scapes
+title: Critically discuss Appadurai’s theory of globalisation with reference to his idea of scapes.
 ---
 Appadurai’s theory of globalisation stands out from the myriad of
 theories in a number of ways. First and foremost his theory of
