@@ -11,16 +11,12 @@ meta-json: {"bibliography":["/home/robd/projects/robdyke/goldsmiths/bibliography
 title: Do you agree with Hardt and Negri’s contention that we now live in the
   age of Empire?
 ---
-#### 
-
 My reading of Hardt and Negri’s *Empire*[^1] has taken me on a personal
 political journey. The text has provoked a critical examination of my
 own politics, bringing about a new consciousness of subject and
 sovereignty, of agency in a hyperglobalised world and of resistance to
 global capital. To a greater or lesser degree I do support Hardt and
 Negri’s contention that we now live in the age of Empire.
-
-#### 
 
 To justify my position of qualified agreement with these authors I will
 explore the following four broad themes that emerge from the work:
@@ -33,8 +29,6 @@ global society. Secondly I will examine the post-modern reformulations
 of the modern political categories of state, subject and sovereignty.
 The third and final section of this paper is devoted to considering what
 hope there is for politics in the age of Empire.
-
-#### 
 
 Michael Hardt and Antonio Negri’s post-modern narrative erects a
 theoretical scaffold capable of connecting with contemporary global
@@ -56,8 +50,6 @@ consensuses that support its own power.”[^3] The key, global, concensus
 is that of global capital, for it is in capital that global networked
 relations are made and sustained.
 
-#### 
-
 With the description of the contemporary character of capitalism as
 informational, leading to immaterial production[^4] I am in agreement
 with the authors. ‘Communicative capitalism’[^5] and its perceived
@@ -77,8 +69,6 @@ imaginary and the symbolic within the biopolitical fabric, not merely
 putting them at the service of power but actually integrating them into
 its very functioning.”[^7]
 
-#### 
-
 How are we to understand ‘the imaginary’? The role of images, the
 imagined, the imaginary in our contemporary global society, as described
 by Appadurai, is helpful here. For him ‘the imaginary’ is understood as
@@ -92,8 +82,6 @@ imagination has become an organized field of social practices, a form of
 work (in the sense of both labour and culturally organized practice),
 and a form of negotiation between sites of agency (individuals) and
 globally defined fields of possibility.”[^9]
-
-#### 
 
 Descriptions of production under capitalism have frequently used
 biological metaphors. In the imperial age both colonial plantation
@@ -113,8 +101,6 @@ manipulation of human emotional states, now comes to the forground. This
 dimension is crucial as it is within the realm of affective labour that
 “social networks, forms of community”[^10] are produced and reproduced.
 
-#### 
-
 Three types of immaterial labour are distinguished by Hardt & Negri. The
 emergence and growth of each are demonstrative of the passage to a
 post-modern global economy. These are the reshaped instances of
@@ -127,8 +113,6 @@ Common across each of these labour types are social-interactions
 conditioned by cooperation rather than by competition, making
 cooperation “*completely immanent to the laboring activity
 itself*.”[^12]
-
-#### 
 
 The post-workerist approach of Hardt & Negri forgrounds immaterial
 labour, yet clearly we are not living in an immaterial world.[^13]
@@ -143,8 +127,6 @@ labour reunites knowledge and affective workers with the material,
 manual and industrial labourers of the world presenting the chance of an
 end to inter-class antagonism.
 
-#### 
-
 These changes at the level of the economy demand a new political theory
 of value formulated to reflect the networked production of wealth and
 social surpluses. These changes demand a new subjectivity, an ontology
@@ -157,8 +139,6 @@ account the communicative nature of (re)production in a post-modern
 global economy.[^15] I now turn to the question of how the modern
 political categories of state, subject and sovereignty are transformed
 in the passage into Empire.
-
-#### 
 
 Browning, in his critique of *Empire*, notes that for Marx, human beings
 “are constituted by their social relations and capital capitalizes on
@@ -187,8 +167,6 @@ the point of departure for Hardt & Negri: the central “problematic of
 Empire is determined in the first place by one simple fact: that there
 is world order.”[^17]
 
-#### 
-
 In *Empire* the “standard genealogies of modern sovereignty”[^18] are
 rewritten, addressing three specific problems with the ‘sovereignty
 narrative’. Firstly, agency is no longer state-centric, it is now
@@ -198,8 +176,6 @@ modern European conceptions of sovereignty is foregrounded, “challenging
 the militant Eurocentrism of the sovereignty narrative.”[^20] Thirdly,
 in rehabilitating the concept of ‘empire’ Hardt & Negri have debilitated
 the normalising tendency of the modern sovereignty narrative.
-
-#### 
 
 However, as Laffey & Weldes argue, Hardt & Nergi’s symptoms of the
 passage from modern sovereignty to the imperial sovereignty of Empire
@@ -221,8 +197,6 @@ for Laffey & Weldes, a contradictory and unsatisfactory conclusion,
 however precarious and temporary the position of hegemon in this new
 paradigm of sovereignty.
 
-#### 
-
 According to Hardt & Negri, in “the passage from modern to postmodern
 and from imperialism to Empire there is progressively less distinction
 between inside and outside.”[^25] Laffey & Weldes respond with the
@@ -237,8 +211,6 @@ transformation of imperialism to Empire, is that the “modern dialectic
 of inside and outside has been *replaced* by a play of degrees and
 intensities, of hybridity and artificiality.”[^27]
 
-#### 
-
 This debate between our authors and Laffey & Weldes essentially comes
 down to two differences. The first is in their different methodological
 approaches to theorising both the state and sovereignty. *Empire* is a
@@ -248,8 +220,6 @@ demonstrated in the authors different theoretical responses to
 globalisation. Laffey & Weldes strengthen the state through
 ‘internationalization’ as a response to globalisation. Hardt & Negri, in
 contrast, diminish the state to refrains of the *Internationale*.
-
-#### 
 
 At this point we should go back a little in order to understand the
 trajectory of the *Two Europes, Two Modernities*[^28] Hardt & Negri
@@ -276,8 +246,6 @@ continue…
 > dominate and expropriate the force of the emerging movements and
 > dynamics”[^31]
 
-#### 
-
 The revolution of the multitude declares immanence the new paradigm of
 world and life. The counterrevolutionary modernity, serving the
 interests of the bourgeois “poses a transcendent constituted power
@@ -298,8 +266,6 @@ expressed this sentiment long before Hardt & Negri:
 > is the final struggle, Let us stand together, and tomorrow; The
 > Internationale, Will be the human race*[^34]
 
-#### 
-
 The workerist hymn of the global proletariat becomes the post-workerist
 hymn of the global multitude through our authors’ conceptualisation and
 reconciliation of immaterial labour with material labour, uniting all
@@ -317,16 +283,12 @@ The deterritorialization of modernity’s structures of exploitation and
 control is a positive benefit for the multitude, creating the conditions
 for further - final? - liberation.
 
-#### 
-
 Hardt and Negri’s hope for emancipation is found in the immanent power
 of the multitude, the agent with “*the will to be against Empire*.”[^36]
 The figure of the multitude displaces the Marxist subject of liberation,
 the proletariat, in the age of Empire through the connection of
 immaterial labour with material labour, thus uniting all biopolitical
 producers.
-
-#### 
 
 Browning is critical of Hardt & Negri’s figure of the multitude.[^37]He
 argues that the “emancipatory potential of the multitude, like that of
@@ -343,8 +305,6 @@ struggle, resistance - each require objectives as a basis for action.
 However, against the totality of Empire, as described by the authors,
 these objectives are made parochial, any strategy self-ghettoising. Is
 *Empire* anti-political as Laclau charges?[^40]
-
-#### 
 
 Schmitt’s expression of a modern conception of ‘the political’ is one of
 the purest.[^41] His friend / enemy distinction mirrors the inside /
@@ -364,8 +324,6 @@ place*.”[^43] Remember, the “modern dialectic of inside and outside has
 been *replaced* by a play of degrees and intensities, of hybridity and
 artificiality.”[^44]
 
-#### 
-
 For Laclau this is presents serious gaps in our authors’ argument.
 Firstly, the hybridity and artificiality of the multitude presents a
 “proliferation of a plurality of identities and points of rupture
@@ -383,8 +341,6 @@ demands of the multitude, the multitude becoming a political subject,
 each raise questions that Hardt & Negri do not adequately address in the
 book: the task of the multitude remains rather abstract.[^47]
 
-#### 
-
 Returning to the question of Hardt and Negri’s contention that we now
 live in the age of Empire. My position is that of a qualified agreement
 with the authors. With their description of a tendency towards the
@@ -400,9 +356,7 @@ multitude and Empire, and the possibility of the multitude’s liberation
 appears at the same time both overdetermined and undertheorised by Hardt
 & Negri.
 
-#### 
-
-Words : 3143
+## Bibliography
 
 Appadurai, Arjun. 1996. *Modernity at Large: Cultural Dimensions of
 Globalization*. University of Minnesota Press.
@@ -449,6 +403,8 @@ Wright, Steve. 2005. “Reality Check: Are We Living in an Immaterial
 World?” In *Underneath the Knowledge Commons*, edited by Josephine Berry
 Slater. Vol. 2. London: Mute Publishing.
 <http://www.metamute.org/en/Reality-check-Are-We-Living-In-An-Immaterial-World>.
+
+## Footnotes
 
 [^1]: (Hardt and Negri 2001)
 

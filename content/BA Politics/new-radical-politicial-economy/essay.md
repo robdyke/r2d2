@@ -13,8 +13,6 @@ tags:
 > “What matters in the world is money, machines and people, in that
 > order. Our political task is to reverse the order.” Keith Hart[^1]
 
-#### 
-
 The long established savings and loan institutions are criticised at
 every point, from the financial models that they operate down to their
 de-personalised, off-shore call-centres. My argument in this paper is
@@ -23,8 +21,6 @@ private. These traditional banking services are, I contend, inherently
 undemocratic, even anti-democratic at the extremes. However,
 contemporary challenges to these established models are emerging,
 presenting the possibility of a more sociable, democratic alternative.
-
-#### 
 
 I have spilt my paper into three sections. To commence I will sketch an
 outline anthropology of money. By using this perspective on the
@@ -35,16 +31,12 @@ institutions and mechanisms that manipulate money that have distorted
 its purpose, de-coupling money from the social circuit it was once
 attached to.
 
-#### 
-
 What do I mean by social, peer-to-peer and participatory models? How do
 these approaches differ from the dominant mode of providing financial
 services? To answer these questions, in the second section I will draw
 on case studies of Zopa, Kiva and Open Capital to demonstrate these
 newly emergent business models, comparing and contrasting these models
 with their traditional correlate.
-
-#### 
 
 My first case is Zopa, a peer-to-peer virtualised financial marketplace.
 My second example is Kiva, a peer-to-peer international microcredit for
@@ -55,8 +47,6 @@ interviews with key individuals in these organisations, in the case of
 Zopa and Open Capital. For all three case studies materials have been
 sourced from the public web presences of the organisations as well as
 from secondary sources.
-
-#### 
 
 I will contrast the relationships configured by these new models with
 those of traditional banks. In so doing I will expose and criticise the
@@ -69,8 +59,6 @@ fading models, some long since capitalised and now floated on
 stock-markets, will also be contrasted to contemporary peer-to-peer
 models.
 
-#### 
-
 For each case I have considered the following three aspects:
 sociability, scalability and sustainability. In terms of sociability, I
 am interested in how ‘social’ these models are and to what extent they
@@ -81,8 +69,6 @@ With regard to the sustainability of these models I have been examining
 the long-term profitability of these models, where appropriate, and have
 assessed the ability of these models to withstand fluctuations in the
 global financial network of which they are an inseparable part.
-
-#### 
 
 Drawing on my case studies, in the third section I will consider to what
 extent capital can be democratic. As will become clear in my
@@ -96,8 +82,6 @@ Money: Global, Social and Virtual
 > “Most of the confusion existing in monetary theory \[is\] due to the
 > separation of politics and economics, this outstanding characteristic
 > of market society”[^2]
-
-#### 
 
 Money, according to anthropologist Keith Hart, is global, social and
 virtual.[^3] His ethnography of money describes it as a ‘memory bank’,
@@ -117,8 +101,6 @@ distinction but it is a necessary one to make in order to de-couple
 money, a *medium* of exchange, from capital and capitalism, a *system*
 of exchange.
 
-#### 
-
 Money is a social construction. The classical liberal economic narrative
 has it that it was brought in to being in order to resolve a specific
 need, the need to exchange commodities between producers and users
@@ -129,8 +111,6 @@ distance and over extended periods of time than would be possible by
 direct exchange. The classic economics texts of liberal John Locke and
 communist Karl Marx both contain this analysis of the social utility of
 money.
-
-#### 
 
 To say that money is virtual in our contemporary society would be no
 exaggeration; there is insufficient currency in circulation to back the
@@ -149,8 +129,6 @@ labour and land.[^6] Each of these fictitious commodities has a
 fictitious price attached to it. For money this is interest; with
 labour, wages; for land, rent.
 
-#### 
-
 Technology has increased the scale and scope of virtual money.
 Information processing and communications technologies have allowed
 money to travel further and faster through ever more complex circuits
@@ -165,8 +143,6 @@ services. This last point is crucial to my argument that the
 re-socialisation and democratisation of money and financial institutions
 is possible, a point to which I will return.
 
-#### 
-
 Stocks of money, that is to say capital, are considered a raw material
 for the capitalist market system as much as minerals mined from the land
 and the productive capacity of labour. Money is made from money in a
@@ -176,8 +152,6 @@ consumed as a raw material to make goods or to create services which can
 be sold for a profit. Profit replaces the raw capital and adds to its
 stock.
 
-#### 
-
 In all this talk of virtual money, goods and services and raw capital
 I’ve masked the social world, the people and their activities that these
 transactions describe: people, businesses, communities, institutions
@@ -185,8 +159,6 @@ making decisions based on their aspirations, expectations, calculations.
 Paying for education, starting a business and building infrastructure
 often involve significant amounts of money. Borrowing money is one way
 of financing these transactions.
-
-#### 
 
 The second method of making money with money is the deceptively simple
 process described by the economist J. K. Galbraith. It is to this
@@ -203,8 +175,6 @@ Institutions
 
 > Les billets de banque sont protégés par le droit pénal.[^8]
 
-#### 
-
 Contemporary business models of the banking industry are criticised for
 a lack of transparency, impersonal relationships, heavy systematisation
 and structural exclusion from services. These criticisms of banking
@@ -212,8 +182,6 @@ institutions and debt money are magnified at the international level.
 Against these institutions new models arise: is it possible that we are
 witnessing a re-socialisation of banking along the lines of a
 post-modern Baily Savings and Loan[^9] or a new modality of capital?
-
-#### 
 
 Banking institutions have created the vast majority of money in our
 societies from simple promises to pay them money. These promises, which
@@ -233,8 +201,6 @@ interest (that paid on deposits and charged on credit facilities) when
 understood as the money that it represents, rather than interest
 percentages is the profit made by the bank.
 
-#### 
-
 As I have outlined, profit for institutional lenders is made by charging
 interest on credit services minus the interest paid to depositors. Yet,
 this is not the whole story; the business models of traditional banks
@@ -245,8 +211,6 @@ taking on sub-prime debt - debt with a greater probability of default
 than repayment. With promises to pay money “protected by the penal code”
 the true nature of interest-bearing business models is exposed: this is
 not a service but state-protected avarice.
-
-#### 
 
 Banks are hierarchical in so far as they maintain a vertical structure
 in terms of tiered service provision for their customers (‘basic’,
@@ -265,8 +229,6 @@ likely to result in the exclusion of an individual from banking
 services, even from the most basic of bank accounts. There are no
 personal, that is to say *social*, relationships between the individual
 and his or her banking institution.
-
-#### 
 
 A few further words on credit scoring are necessary before continuing.
 Credit ratings agencies operate on a number of different levels - from
@@ -291,8 +253,6 @@ financial models I will examine is this: is there more or less use of
 these mechanisms by social lending business models? How is the ‘worth’
 of an individual calculated by these models?
 
-#### 
-
 Credit institutions have not always been anti-social, hierarchical,
 intensely private and motivated by profit. The Savings and Loan
 institutions in America and the Co-Operatives Mutual, Friendly and
@@ -302,8 +262,6 @@ the tide of global capitalism. However the themes of mutual aid,
 community and philanthropy central to these models are not lost, they
 are to be found in transmission, in new credit models, the social,
 peer-to-peer and participatory models that I will go on to examine.
-
-#### 
 
 Against the hierarchical and secret nature of mainstream banking models
 there emerge new modes and practices emphasising horizontal and open
@@ -337,8 +295,6 @@ Case Study: Zopa
 > no bank in the middle, everyone get better rates and money becomes
 > human again.”[^14]
 
-#### 
-
 Use of the internet has been the deciding factor in the success of
 challenges to traditional business models in a number of sectors.
 Internet-based businesses are lean, a low-cost competition to
@@ -355,8 +311,6 @@ banking sector - it refuses the label of bank! - as Zopa holds no
 deposits for its customers and it does not loan directly from its own
 (ficitious) capital base to would be debtors.
 
-#### 
-
 Zopa provides two peer-2-peer lending marketplaces. The first is a
 managed lending service where Zopa does all the work and the lender
 simply collects on the returns.[^15] The second marketplace is much more
@@ -369,8 +323,6 @@ really making money human again? This model of a money market is
 certainly virtual; to what extent is this money market social? How
 democratic is this model? I met with Giles Andrews, Zopa’s Chief
 Financial Officer, to discover more about the Zopa model.
-
-#### 
 
 Zopa understands sociability in three key ways. Firstly Zopa emphasises
 that their business is about people helping people. While this
@@ -385,8 +337,6 @@ debts. Furthermore the Zopa marketplace is a secure electronic system
 regulated by the financial watchdog of the country of operation,
 increasing the security and safety of person-to-person lending.
 
-#### 
-
 The third aspect of sociability for Zopa is community and trust. The
 business model connects multiple lender’s with multiple borrowers with
 each individual borrower borrowing from a number of lenders, thus
@@ -399,8 +349,6 @@ significantly lower than the industry average.[^17] Repayment is
 encouraged as borrowers feel a personal connection to the lender(s),
 that is simply absent in the comparable relationship between a borrower
 and a high-street bank.[^18]
-
-#### 
 
 The use of credit scoring is not diminished in this model as Andrews
 explained. Zopa make significant use of credit-scoring and ‘hand-check’
@@ -419,8 +367,6 @@ a borrower into the marketplace, the credit-score is only a single part
 of a more complex decision-making process with lender(s) and the
 borrower engaging in dialogue over a transaction.
 
-#### 
-
 This radical transparency, in contrast with the ‘computer says no’
 decision model of high-street lenders, does not end here. The crucial
 part of the sociability of the Zopa business model is precisely the
@@ -436,8 +382,6 @@ this sense Zopa is not masking the social world; the purpose of the loan
 and the readiness of the borrower to talk about themselves and the
 instrumentality the money will give them makes ‘money human again’…if
 only partially.
-
-#### 
 
 How scalable is the Zopa model? Andrews explained to me that Zopa’s
 target market is that of the unsecured personal loan, which is short in
@@ -460,8 +404,6 @@ Zopa’s scalability is then limited to the what new business it can
 capture within a specific country’s market and what it can poach from
 other lenders.
 
-#### 
-
 How sustainable is Zopa? If Zopa continues to grow its business at
 present rates it will gain a critical mass and become a serious
 challenge to the long-term viability of traditional high-street lenders.
@@ -481,8 +423,6 @@ Case Study: Kiva
 > “You lend to a specific entrepreneur in the developing world -
 > empowering them to lift themselves out of poverty.”[^20]
 
-#### 
-
 The Weberian ‘spirit of capitalism’, that is to say that the
 accumulation of wealth as an end in itself which is demonstrative of
 virtue, commitment, skill and stability on the part of the individual,
@@ -500,8 +440,6 @@ philanthropy. By choosing to loan on Kiva, someone is “sponsoring a
 business” to help the world’s working poor towards economic
 independence.
 
-#### 
-
 The Kiva marketplace lists the profiles and business plans of groups and
 individuals in the developing world in search of capital. Business plans
 are produced and reviewed by local activists and existing micro-credit
@@ -509,8 +447,6 @@ organisations - Kiva.org calls them ‘field partners’[^21] - who are the
 critical on the ground link to entrepreneurs. These field partners work
 in support of the new or growing business, report back to investors and
 manage repayments.
-
-#### 
 
 This model significantly challenges the dominant development models of
 large-scale interventions, the legacy of which, Highly Indebted Poor
@@ -525,8 +461,6 @@ principal loss. Kiva does not guarantee repayment nor do we offer a
 financial return on your loan.” That said, on $4,328,735 of loans with
 completed loan terms, the default rate is just 0.1%[^22]
 
-#### 
-
 Inspired by the work of Muhammad Yunus[^23] and Amartya Sen,[^24] Kiva
 has grown from an activist project to one of the world’s largest
 microfinance peer-to-peer marketplaces, connecting entrepreneurs in the
@@ -538,8 +472,6 @@ developing world. No banks, governments, agencies, nepotism nor
 corruption between lender and borrower. The amounts of money are small
 yet the positive effects on the lives of the world’s poor are great.
 
-#### 
-
 How scalable is the Kiva model? Globality and the inter-connectedness of
 our social existance are central to Kiva model. Kiva money is global in
 a way that Zopa is not - Kiva loans do not require ‘protection by the
@@ -549,8 +481,6 @@ circumstances of borrower, Kiva money is *micro*-finance and does not
 yet scale to major community infrastructure projects.
 
 ### On Philanthropy…
-
-#### 
 
 Why are these peer-finance models successful? What is the attraction?
 These emerging models are, perhaps, representative of a ‘New Social
@@ -572,8 +502,6 @@ Case Study: Open Capital
 > Corporate Partnership: this entity is capable of underpinning a truly
 > Co-operative Society.”[^27]
 
-#### 
-
 Chris Cook’s model of ‘Open Capital’ demonstrates that participatory
 economic models can scale beyond that of Kiva to capital projects of a
 significant size. His models, based on using the legal status of Limited
@@ -588,8 +516,6 @@ side’ – there is no ‘profit’ or ‘loss’ between the Members of a
 partnership, merely the creation, exchange and accumulation of economic
 value - in whatever form, be that resources ’to the value of’ money or
 indeed money, that members choose.
-
-#### 
 
 Open Capital attempts to solve a “paradox of the modern world: that
 humans have never been more inter-dependent in our needs, or more
@@ -617,8 +543,6 @@ others.
 > Occupiers and Investors to co-operate in order to create the maximum
 > flow of revenue over the period of the agreement.*[^29]
 
-#### 
-
 This Labour government’s flagship Public Private Partnerships (PPP) and
 Private Finance Initiatives (PFIs) have been criticised for enriching
 private interests at the expense of the tax-payer. These PPPs are based
@@ -630,8 +554,6 @@ with the logic of private capital. As Ruth Sunderland comments, the
 “bailout of Metronet, which maintained nine tube lines, exposes the
 utter fiction that Public Private Partnerships and PFI projects transfer
 risk and debt *away* from the public sector.”[^30]
-
-#### 
 
 In contrast to PPPs and PFIs, the Open Capital / Limited Liability
 Partnership model offers a possitive possibility for public capital
@@ -650,8 +572,6 @@ when issued. Second, the ‘public’ does not need to borrow to invest.
 Thirdly, a “National Equity” formed from the value of the assets can be
 valued, as well as a National Debt.
 
-#### 
-
 In terms of socialbility, Open Capital configures co-operative
 relationships around the economic activity. Indeed, the social purpose
 of the economic activity is central to the LLP model. As a LLP
@@ -665,15 +585,11 @@ website.[^32]
 To what extent can capital be democratised?
 ===========================================
 
-#### 
-
 I am considering two aspects of democracy when evaluating the
 democratising potential of these peer-2-peer and social models. I am
 thinking of decision-making, in terms of transparency, governance and
 accountability, on the one hand and in terms of access to capital and
 credit services on the other.
-
-#### 
 
 Thinking in terms of control of decisions, Zopa is certainly
 democratizing capital. In terms of governance and accountability, Zopa’s
@@ -693,14 +609,10 @@ However the Zopa model does not ‘open up’ credit to a greater number of
 people, rather, it is an innovative *alternative* to the mainstream
 models.
 
-#### 
-
 Kiva, in contrast, is radically opening up access to capital.
 Micro-finance projects target the problem of access to credit and Kiva,
 through its use of the internet, is a very effective agency in
 co-ordinating this altruistic philanthropy.
-
-#### 
 
 The most promising hope for democratising capital is found in Open
 Capital and the co-operative society that this flexible and scalable
@@ -711,8 +623,6 @@ world is rescued from being subsumed by the economic world because
 relationships between the owners and the users of capital, however so
 defined, are no longer conditioned by interest and competition, but by
 value and co-operation.
-
-#### 
 
 I began this paper with this challenge from Keith Hart…“What matters in
 the world is money, machines and people, in that order. Our political
@@ -725,9 +635,7 @@ marketplace to fund infrastructure projects using the emergent
 phenomenon of Open Capital presents us, perhaps, with a model with does
 prioritise people, machines and money, in that order.
 
-#### 
-
-Words : 5748
+## Bibliography
 
 Capra, Frank. 1947. “It’s a Wonderful Life.” Film.
 
@@ -774,6 +682,8 @@ Press.
 Sunderland, Ruth. 2008. “Business Comment - Northern Rock.” *Guardian*.
 Guardian newspaper.
 <http://www.guardian.co.uk/business/2008/feb/10/businesscomment.northernrock>.
+
+## Footnotes
 
 [^1]: (Hart 2005, 6)
 
