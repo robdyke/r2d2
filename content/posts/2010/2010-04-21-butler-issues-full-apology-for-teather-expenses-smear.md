@@ -14,6 +14,8 @@ tags:
 - Election 2010
 title: Butler issues full apology for Teather expenses smear
 url: /2010/04/21/butler-issues-full-apology-for-teather-expenses-smear/
+aliases:
+  - /bec/2010/04/21/butler-issues-full-apology-for-teather-expenses-smear
 ---
 [LibDem Voice](http://www.libdemvoice.org/dawn-butler-sarah-teather-apology-19014.html "libdemvoice") has some news on Brent Centrals dirty politics.
 
