@@ -339,51 +339,51 @@ Walzer, Michael. 1990. “The Communitarian Critique of Liberalism.”
 
 ## Footnotes
 
-[^1]: (Walzer 1990, 6)
+[^1]: Walzer (1990), 6
 
-[^2]: (Cohen 2000, 283)
+[^2]: Cohen (2000), 283
 
-[^3]: (MacIntyre 1981)
+[^3]: MacIntyre (1981)
 
-[^4]: (Mouffe 2005 Chapters 2, 3 & 4)
+[^4]: Mouffe (2005) Chapters 2, 3 & 4
 
 [^5]: For an introduction and bibliography of early communitarian
-    writing, see (Bell 1996, 1–20, esp fn 14)
+    writing, see Bell (1996), 1–20, esp fn 14
 
-[^6]: (Bell 1996 Scene 1) & (Walzer 1990, 8)
+[^6]: Bell (1996) Scene 1 & Walzer (1990), 8
 
-[^7]: See (Bellah 1985 Ch. 11)
+[^7]: See Bellah (1985) Ch. 11
 
-[^8]: (Walzer 1990, 7)
+[^8]: Walzer (1990), 7
 
-[^9]: (Walzer 1990, 11)
+[^9]: Walzer (1990), 11
 
-[^10]: (Eder 1993) and (Dalton and Kuechler 1990)
+[^10]: Eder (1993) and Dalton and Kuechler (1990)
 
-[^11]: (Rawls 1972)
+[^11]: Rawls (1972)
 
-[^12]: (Nozick 1974)
+[^12]: Nozick (1974)
 
 [^13]: See also *Justice as a Virtue: Changing Conceptions* in
-    (MacIntyre 1981, 244–55) for a criticism of the modern liberal
+    MacIntyre (1981), 244–55 for a criticism of the modern liberal
     paradigm of justice and rights.
 
-[^14]: (Sandel 1984, 82)
+[^14]: Sandel (1984), 82
 
 [^15]: *Ibid.*
 
 [^16]: As GK Chesterton said ‘To have a right to do a thing is not at
     all the same as to be right in doing it’
 
-[^17]: (Mouffe 2005, 65)
+[^17]: Mouffe (2005), 65
 
 [^18]: *Ibid*., p. 64
 
-[^19]: (MacIntyre 1981, 53, orig. emph.)
+[^19]: MacIntyre (1981), 53, orig. emph.
 
 [^20]: *Ibid*.
 
-[^21]: (MacIntyre 1981, 62)
+[^21]: MacIntyre (1981), 62
 
 [^22]: *Ibid*.
 
@@ -395,7 +395,7 @@ Walzer, Michael. 1990. “The Communitarian Critique of Liberalism.”
 
 [^26]: *Ibid*., p. 263
 
-[^27]: (Mouffe 2005, 65)
+[^27]: Mouffe 2005, 65
 
 [^28]: *Ibid*., p. 65, emphasis added to draw attention to her project
 

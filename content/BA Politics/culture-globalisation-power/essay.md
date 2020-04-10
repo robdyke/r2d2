@@ -266,57 +266,56 @@ David Held, 504–25. Oxford: Basil Blackwell.
 
 ## Footnotes
 
-[^1]: (Rosenberg 2000, 4)
+[^1]: Rosenberg (2000), 4
 
-[^2]: (Wallerstein 1979; Worsley 1990)
+[^2]: Wallerstein (1979); Worsley (1990)
 
-[^3]: (Frank 1975)
+[^3]: Frank (1975)
 
-[^4]: (Giddens 1990)
+[^4]: Giddens (1990)
 
-[^5]: (Castells 1996)
+[^5]: Castells (1996)
 
-[^6]: (Hoogvelt 2001, 120–21)
+[^6]: Hoogvelt (2001), 120–21
 
-[^7]: (Krohn-Hansen 2003, 81)
+[^7]: Krohn-Hansen (2003), 81
 
-[^8]: (Appadurai 1996)
+[^8]: Appadurai (1996)
 
-[^9]: (Appadurai 1996, 65)
+[^9]: Appadurai (1996), 65
 
-[^10]: (Appadurai 1996, 27)
+[^10]: Appadurai (1996), 27
 
-[^11]: (Barry 2001 Ch.2)
+[^11]: Barry (2001) Ch.2
 
-[^12]: (Appadurai 1996, 48)
+[^12]: Appadurai (1996), 48
 
-[^13]: (Appadurai 1996, 36)
+[^13]: Appadurai (1996), 36
 
-[^14]: (Nustat 2003, 126)
+[^14]: Nustat (2003), 126
 
-[^15]: (Nustat 2003, 126, emphasis added)
+[^15]: Nustat (2003), 126, emphasis added
 
 [^16]: 
 
-[^17]: (Appadurai 1996, 31)
+[^17]: Appadurai (1996), 31
 
-[^18]: (Nustat 2003, 122–37). (Eriksen 2003). I have found this title,
+[^18]: Nustat (2003), 122–37. Eriksen (2003). I have found this title,
     *Globalisation*, from the Studies in Anthropology series, to be
     invaluable in engaging with Appadurai’s work
 
 [^19]: For Virilio, the speed, scale and pervasiveness of modern media
     and technology detrimentally alter our perception, reducing our
-    depth of vision, dissolving horizon. (Virilio 2005; Virilio 2006
-    (1977))
+    depth of vision, dissolving horizon. Virilio (2005); Virilio (2006)
 
-[^20]: (Appadurai 1996, 31)
+[^20]: Appadurai (1996), 31
 
-[^21]: (Appadurai 1996 Ch .7)
+[^21]: Appadurai (1996) Ch .7
 
-[^22]: (Appadurai 1996, 53)
+[^22]: Appadurai (1996), 53
 
-[^23]: (Appadurai 1996, 53–55, emphasis added)
+[^23]: Appadurai (1996), 53–55, emphasis added
 
-[^24]: (Appadurai 1996, 46–47, original emphasis)
+[^24]: Appadurai (1996), 46–47, original emphasis
 
-[^25]: (Appadurai 1996, 47)
+[^25]: Appadurai (1996), 47

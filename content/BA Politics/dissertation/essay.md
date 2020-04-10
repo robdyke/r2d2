@@ -1397,65 +1397,65 @@ Slater. Vol. 2. London: Mute Publishing.
 Footnotes
 ------------
 
-[^1]: (Parsons 1995)
+[^1]: Parsons (1995)
 
-[^2]: (Latour 1998a)
+[^2]: Latour (1998a)
 
-[^3]: (Castells 1996)
+[^3]: Castells (1996)
 
-[^4]: (Appadurai 1996)
+[^4]: Appadurai (1996)
 
-[^5]: (Terranova 2004)
+[^5]: Terranova (2004)
 
-[^6]: (Barry 2001)
+[^6]: Barry (2001)
 
-[^7]: (Latour 1998a)
+[^7]: Latour (1998a)
 
 [^8]: Understood as “if you have technology ‘t,’ you should expect
-    social structure or relation ’s’ to emerge.” (Benkler 2006, 11–12)
+    social structure or relation ’s’ to emerge.” Benkler (2006), 11–12
 
 [^9]: *Ibid*., pp. 11-12
 
-[^10]: (Stallman 2002), (Raymond 1999) & (Lessig 2004)
+[^10]: Stallman 2002, Raymond 1999 & Lessig (2004)
 
 [^11]: Two excellent surveys of New Social Movement discourse are
-    (Dalton and Kuechler 1990b) and (Porta and Diani 2006)
+    Dalton and Kuechler 1990b and Porta and Diani (2006)
 
-[^12]: (Latour 1998a)
+[^12]: Latour (1998a)
 
 [^13]: Latour describes the network concept as “a change of metaphors to
-    describe essences: instead of surfaces one gets filaments (or
-    rhizomes in Deleuze’s parlance).” (Latour 1998a), citing Gilles
+    describe essences: instead of surfaces one gets filaments or
+    rhizomes in Deleuze’s parlance.” Latour 1998a, citing Gilles
     Deleuze et Félix Guattari, *Mille plateaux. Capitalisme et
     schizophrénie*, Minuit, Paris, (1980).
 
-[^14]: (Hardt and Negri 2001)
+[^14]: Hardt and Negri (2001)
 
-[^15]: After (Dean 2004), *The Networked Empire: Communicative
+[^15]: After Dean (2004), *The Networked Empire: Communicative
     Capitalism and the Hope for Politics*
 
-[^16]: After (Hardie 2005), *Change of the Century: Free Software and
+[^16]: After Hardie (2005), *Change of the Century: Free Software and
     the Positive Possibility*
 
-[^17]: (Mouffe 2000, 17)
+[^17]: Mouffe (2000), 17
 
-[^18]: (Moglen 2003)
+[^18]: Moglen (2003)
 
 [^19]: *Ibid*.
 
-[^20]: (Dahl 1961)
+[^20]: Dahl (1961)
 
-[^21]: (Barry 2001)
+[^21]: Barry (2001)
 
-[^22]: (Giddens 1990)
+[^22]: Giddens (1990)
 
-[^23]: (Castells 1996)
+[^23]: Castells (1996)
 
-[^24]: (Barry 2001, 85)
+[^24]: Barry (2001), 85
 
-[^25]: (Parsons 1995, 185)
+[^25]: Parsons (1995), 185
 
-[^26]: The illustration used by Nustad ((2003, 127)) is that of a rail
+[^26]: The illustration used by Nustad 2003, 127 is that of a rail
     network. The physical points, rails, sleepers &tc are local to the
     viewer at the point observed yet are a part of a complex system,
     global by association to the rest of the network and to other
@@ -1467,9 +1467,9 @@ Footnotes
 [^28]: *Ibid.,* p.126, emphasis added
 
 [^29]: Such as the centre-periphery models associated with Wallerstein
-    ((1979)) (see also (Worsley 1990)) and Gunder Frank ((1975))
+    (1979) see also Worsley (1990) and Gunder Frank (1975)
 
-[^30]: (Virilio 2005, 10)
+[^30]: Virilio (2005), 10
 
 [^31]: *Ibid.*, original emphasis
 
@@ -1477,61 +1477,61 @@ Footnotes
 
 [^33]: *Ibid.*
 
-[^34]: (Hardt and Negri 2001)
+[^34]: Hardt and Negri (2001)
 
 [^35]: *Ibid*., pp. 8-9
 
 [^36]: *Ibid*., p. 13
 
-[^37]: e.g. (Waltz 1979)
+[^37]: e.g. Waltz (1979)
 
-[^38]: See (Dalton and Kuechler 1990a) and (Eder 1993). A more recent
+[^38]: See Dalton and Kuechler (1990a) and Eder (1993). A more recent
     introduction to New Social Movements, including aspects of hacker
-    culture which relates to the following chapters, is (Porta and Diani
-    2006)
+    culture which relates to the following chapters, is Porta and Diani
+    2006
 
-[^39]: See (Hardt 2002) for picture of Porto Algre WSF meetings as
+[^39]: See Hardt (2002) for picture of Porto Algre WSF meetings as
     *Today’s Bandung*.
 
-[^40]: (Hardt and Negri 2001, 275)
+[^40]: Hardt and Negri (2001), 275
 
 [^41]: *Ibid*., p. 275
 
-[^42]: (Appadurai 1996, 31, original emphasis removed)
+[^42]: Appadurai (1996), 31, original emphasis removed
 
 [^43]: *Ibid*.
 
-[^44]: (Hardt and Negri 2001, 13–14)
+[^44]: Hardt and Negri (2001), 13–14
 
 [^45]: For discussion of the Environmental movement as a network see
-    (Rosenblatt 2004).
+    Rosenblatt (2004).
 
-[^46]: (Hardt 2002, 117)
+[^46]: Hardt (2002), 117
 
-[^47]: (Hardt 2002, 117)
+[^47]: Hardt (2002), 117
 
-[^48]: (Castells 2007, 258)
+[^48]: Castells (2007), 258
 
 [^49]: I will use f/los when referring to both free/libre and
     open-source together in this paper. A more common acronym, FLOSS,
     demonstrates the genealogy of the term and its origins in computing.
 
-[^50]: (Himanen 2001, 48–53 and the prologue “Linus’s Law”)
+[^50]: Himanen (2001), 48–53 and the prologue “Linus’s Law”
 
-[^51]: (Wark 2004, 077) There are no page numbers in Wark’s *Manifesto*,
+[^51]: Wark (2004), 077 There are no page numbers in Wark’s *Manifesto*,
     simply numbered points/demands. These appear in the place of page
     numbers in my references.
 
-[^52]: (Wark 2004, 076). In *Empire* Hardt and Negri argue that capital
+[^52]: Wark (2004), 076. In *Empire* Hardt and Negri argue that capital
     has a similarly expansive character. Just as the hacker sees no
     boundary to what may be hacked, capital similarly has no boundaries,
     expanding into culture, science, sex.
 
-[^53]: (Himanen 2001, 12)
+[^53]: Himanen (2001), 12
 
-[^54]: (Wark 2004, 036, emphasis added.)
+[^54]: Wark (2004), 036, emphasis added.
 
-[^55]: (Moore 2002)
+[^55]: Moore (2002)
 
 [^56]: For Stallman, “The term “intellectual property” carries a hidden
     assumption - that the way to think about all these disparate issues
@@ -1539,73 +1539,73 @@ Footnotes
     physical objects, and our ideas of physical property.”
     <http://www.gnu.org/philosophy/words-to-avoid.html>
 
-[^57]: (Moore 2002, 9m55sec)
+[^57]: Moore (2002), 9m55sec
 
 [^58]: GNU is recursive acronym that stands for “GNU’s Not Unix”, it is,
-    says Stallman “a hack” (Moore 2002, 11m35sec)
+    says Stallman “a hack” Moore (2002), 11m35sec
 
 [^59]: See <http://www.gnu.org/philosophy/free-sw.html>
 
 [^60]: See <http://www.gnu.org/philosophy/free-sw.html>
 
-[^61]: (Stallman 2002). See (Williams 2007) for a critical engagement
-    with FSF philosophy and (Stallabrass 2002) for a review of
+[^61]: Stallman (2002). See Williams (2007) for a critical engagement
+    with FSF philosophy and Stallabrass (2002) for a review of
     Williams’s book.
 
-[^62]: (Williams 2007 Ch. 8)
+[^62]: Williams (2007) Ch. 8
 
-[^63]: (Moore 2002, 15m30sec)
+[^63]: Moore (2002), 15m30sec
 
 [^64]: *Ibid.,*17m32sec
 
 [^65]: *Ibid.,*15m30sec
 
-[^66]: (Coleman and Hill 2004)
+[^66]: Coleman and Hill (2004)
 
 [^67]: *Ibid.*
 
 [^68]: See Appendix 3, The Open Source Definition and
     <http://opensource.org/>
 
-[^69]: (Raymond 1999)
+[^69]: Raymond (1999)
 
-[^70]: (Anderson 1991)
+[^70]: Anderson (1991)
 
 [^71]: Quoted from IndyMedia.org homepage, accessed 24th April 2008,
-    <http://www.indymedia.org/en/index.shtml>. As mentioned by (Prug
-    2007), (Boomen and Schäfer 2005), (Coleman and Hill 2004)
+    <http://www.indymedia.org/en/index.shtml>. As mentioned by Prug
+    (2007), Boomen and Schäfer (2005), Coleman and Hill (2004)
 
-[^72]: (Rosenblatt 2005)
+[^72]: Rosenblatt (2005)
 
 [^73]: See mySociety.org, *What’s it all about then, eh? - mySociety
     Frequently Asked Questions.* <http://www.mysociety.org/faq>,
     accessed 24th April 2008.
 
-[^74]: (Terranova 2004)
+[^74]: Terranova (2004)
 
-[^75]: (Prug 2007 “Hackers and the Protestant ethics”) and (Hardt and
-    Negri 2005, 301 & pp. 339-40)
+[^75]: Prug (2007) “Hackers and the Protestant ethics” and Hardt and
+    Negri (2005), 301 & pp. 339-40
 
-[^76]: After (Dean 2004), *The Networked Empire: Communicative
+[^76]: After Dean (2004), *The Networked Empire: Communicative
     Capitalism and the Hope for Politics*
 
-[^77]: After (Hardie 2005), *Change of the Century: Free Software and
+[^77]: After Hardie (2005), *Change of the Century: Free Software and
     the Positive Possibility*
 
-[^78]: (Dean 2004, 272–73)
+[^78]: Dean (2004), 272–73
 
-[^79]: (Hardt and Negri 2001, 28)
+[^79]: Hardt and Negri (2001), 28
 
-[^80]: (Terranova 2004, 101)
+[^80]: Terranova (2004), 101
 
-[^81]: (Appadurai 1996, 34). See also (Barry 2001 Chapter 2,
-    *Technological Zones*) for a discussion of the ‘content’ of
+[^81]: Appadurai (1996), 34. See also Barry (2001) Chapter 2,
+    *Technological Zones* for a discussion of the ‘content’ of
     Appadurai’s technoscapes
 
-[^82]: (Dean 2004, 285)
+[^82]: Dean (2004), 285
 
-[^83]: See (Terranova 2004 Chapter 3 *Free Labour*) and also (Wright
-    2005)
+[^83]: See Terranova (2004) Chapter 3 *Free Labour* and also Wright
+    2005
 
 [^84]: The International Organization for Standardization is
     non-governmental transnational organisation that works to globally
@@ -1614,58 +1614,58 @@ Footnotes
 [^85]: WIPO website, *What Is Intellectual Property*,
     <http://www.wipo.int/about-ip/en/>, Accessed 26th April 2008.
 
-[^86]: (Stallman 2008)
+[^86]: Stallman (2008)
 
-[^87]: (Johnson 2004)
+[^87]: Johnson (2004)
 
-[^88]: (Moore 2002, 17m32sec)
+[^88]: Moore (2002), 17m32sec
 
 [^89]: See The GNU Project, *What is Copyleft?*,
     <http://www.gnu.org/copyleft/copyleft.html> and Creative Commons,
     *Frequently Asked Questions*, <http://wiki.creativecommons.org/FAQ>.
     Both accessed 27th April 2008
 
-[^90]: See (St Laurent 2004 Chapter 1, *Open Source Licensing, Contract,
-    and Copyright Law*)
+[^90]: See St Laurent (2004) Chapter 1, *Open Source Licensing, Contract,
+    and Copyright Law*
 
-[^91]: (Hardie 2005, 2)
+[^91]: Hardie (2005), 2
 
-[^92]: (Prug 2007)
+[^92]: Prug (2007)
 
 [^93]: See <http://www.opencapital.net/>
 
-[^94]: (Cook 2004, 17)
+[^94]: Cook (2004), 17
 
-[^95]: (Mouffe 2000, 17)
+[^95]: Mouffe (2000), 17
 
-[^96]: (Boomen and Schäfer 2005, 7)
+[^96]: Boomen and Schäfer (2005), 7
 
-[^97]: (Appadurai 1996, 31)
+[^97]: Appadurai (1996), 31
 
-[^98]: See (Himanen 2001 Ch. 1 & 2) for a full discussion on the hacker
-    ethic as contra the Protestant Work Ethic associated with (Weber
-    1958).
+[^98]: See Himanen (2001) Ch. 1 & 2 for a full discussion on the hacker
+    ethic as contra the Protestant Work Ethic associated with Weber
+    1958.
 
-[^99]: (Hardt and Negri 2005, 232–36)
+[^99]: Hardt and Negri (2005), 232–36
 
 [^100]: *Ibid.,* p. 236
 
-[^101]: (Hardt and Negri 2001, 275)
+[^101]: Hardt and Negri (2001), 275
 
-[^102]: See (Terranova 2004, 80)
+[^102]: See Terranova (2004), 80
 
-[^103]: (Hardt and Negri 2001, 274, original emphasis)
+[^103]: Hardt and Negri (2001), 274, original emphasis
 
-[^104]: (Žižek 2006)
+[^104]: Žižek (2006)
 
-[^105]: (Hardt and Negri 2005, 236)
+[^105]: Hardt and Negri (2005), 236
 
 [^106]: *Ibid.,* p. 236
 
-[^107]: (Žižek 2006), original emphasis
+[^107]: Žižek (2006), original emphasis
 
-[^108]: (Freeman 1970)
+[^108]: Freeman (1970)
 
-[^109]: (Hardt and Negri 2005, 339–40)
+[^109]: Hardt and Negri (2005), 339–40
 
-[^110]: (Graeber 2002)
+[^110]: Graeber (2002)

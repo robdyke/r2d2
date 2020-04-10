@@ -406,101 +406,101 @@ Slater. Vol. 2. London: Mute Publishing.
 
 ## Footnotes
 
-[^1]: (Hardt and Negri 2001)
+[^1]: Hardt and Negri (2001)
 
-[^2]: (Hardt and Negri 2001, 28)
+[^2]: Hardt and Negri (2001), 28
 
-[^3]: (Hardt and Negri 2001, 15)
+[^3]: Hardt and Negri (2001), 15
 
-[^4]: (Hardt and Negri 2001, 289–300)
+[^4]: Hardt and Negri (2001), 289–300
 
-[^5]: After (Dean 2004)
+[^5]: After Dean (2004)
 
-[^6]: (Panitch and Gindin 2003)
+[^6]: Panitch and Gindin (2003)
 
-[^7]: (Hardt and Negri 2001, 33)
+[^7]: Hardt and Negri (2001), 33
 
-[^8]: (Appadurai 1996, 31)
+[^8]: Appadurai (1996), 31
 
-[^9]: (Appadurai 1996, 31)
+[^9]: Appadurai (1996), 31
 
-[^10]: (Hardt and Negri 2001, 293)
+[^10]: Hardt and Negri (2001), 293
 
-[^11]: Adapted from (Wright 2005, 2) and from (Hardt and Negri 2001, 30
-    & p. 293)
+[^11]: Adapted from Wright (2005), 2 and from Hardt and Negri (2001), 30
+    & p. 293
 
-[^12]: (Hardt and Negri 2001, 294), original emphasis
+[^12]: Hardt and Negri (2001), 294, original emphasis
 
-[^13]: For critical ‘reality check’ on immaterial labour, see (Wright
-    2005)
+[^13]: For critical ‘reality check’ on immaterial labour, see Wright
+    (2005)
 
-[^14]: (Hardt and Negri 2001, 29 & p.294)
+[^14]: Hardt and Negri (2001), 29 & p.294
 
-[^15]: (Hardt and Negri 2001, 34)
+[^15]: Hardt and Negri (2001), 34
 
-[^16]: (Browning 2005, 196)
+[^16]: Browning (2005), 196
 
-[^17]: (Hardt and Negri 2001, 1)
+[^17]: Hardt and Negri (2001), 1
 
-[^18]: (Laffey and Weldes 2004, 128)
+[^18]: Laffey and Weldes (2004), 128
 
-[^19]: (Hardt and Negri 2001, 114)
+[^19]: Hardt and Negri (2001), 114
 
-[^20]: (Laffey and Weldes 2004, 128)
+[^20]: Laffey and Weldes (2004), 128
 
-[^21]: (Laffey and Weldes 2004, 128)
+[^21]: Laffey and Weldes (2004), 128
 
-[^22]: (Hardt and Negri 2001, 13)
+[^22]: Hardt and Negri (2001), 13
 
-[^23]: (Laffey and Weldes 2004, 130)
+[^23]: Laffey and Weldes (2004), 130
 
-[^24]: (Laffey and Weldes 2004, 131)
+[^24]: Laffey and Weldes (2004), 131
 
-[^25]: (Hardt and Negri 2001, 187)
+[^25]: Hardt and Negri (2001), 187
 
-[^26]: (Laffey and Weldes 2004, 132)
+[^26]: Laffey and Weldes (2004), 132
 
-[^27]: (Hardt and Negri 2001, 187–8, my emphasis.)
+[^27]: Hardt and Negri (2001), 187–8, my emphasis.
 
-[^28]: (Hardt and Negri 2001 Ch. 2.1 pp. 69-92)
+[^28]: Hardt and Negri (2001) Ch. 2.1 pp. 69-92
 
-[^29]: (Green 2002, 37)
+[^29]: Green (2002), 37
 
-[^30]: (Hardt and Negri 2001, 74)
+[^30]: Hardt and Negri (2001), 74
 
-[^31]: (Hardt and Negri 2001, 74)
+[^31]: Hardt and Negri (2001), 74
 
-[^32]: (Hardt and Negri 2001, 74)
+[^32]: Hardt and Negri (2001), 74
 
-[^33]: (Hardt and Negri 2001, 44, original emphasis)
+[^33]: Hardt and Negri (2001), 44, original emphasis
 
 [^34]: This is the literal English translation of the second stanza,
     sourced from Wikipedia. Accessed Apr 17th 2008
 
-[^35]: (Hardt and Negri 2001, 51)
+[^35]: Hardt and Negri (2001), 51
 
-[^36]: (Hardt and Negri 2001, 210, emphasis in original)
+[^36]: Hardt and Negri (2001), 210, emphasis in original
 
 [^37]: 
 
-[^38]: (Browning 2005, 195)
+[^38]: Browning (2005), 195
 
-[^39]: (Browning 2005, 198), emphasis added
+[^39]: Browning (2005), 198, emphasis added
 
-[^40]: (Laclau 2004)
+[^40]: Laclau (2004)
 
-[^41]: (Schmitt 2007)
+[^41]: Schmitt (2007)
 
-[^42]: (Hardt and Negri 2001, 209)
+[^42]: Hardt and Negri (2001), 209
 
-[^43]: (Hardt and Negri 2001, 209)
+[^43]: Hardt and Negri (2001), 209
 
-[^44]: (Hardt and Negri 2001, 187–8, my emphasis.)
+[^44]: Hardt and Negri (2001), 187–8, my emphasis.
 
-[^45]: (Laclau 2004, 7)
+[^45]: Laclau (2004), 7
 
-[^46]: (Laclau 2004, 9), emphasis added
+[^46]: Laclau (2004), 9, emphasis added
 
 [^47]: The task of the multitude became the point of departure for their
-    follow-up publication, *Multitude* ((Hardt and Negri 2005)). See
-    also (Brown and Szeman 2005), *What Is The Multitude?*
+    follow-up publication, *Multitude* Hardt and Negri (2005). See
+    also Brown and Szeman (2005), *What Is The Multitude?*

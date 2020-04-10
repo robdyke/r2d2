@@ -257,8 +257,8 @@ I will now turn to Schmitt’s engagement with liberal philosophy as it
 relates to his conception of the political. Schmitt’s interpretation of
 liberal thought distinguished between its ethical and economic strands:
 
-> “…liberal concepts typically move between ethics (intellectuality) and
-> economics (trade). From this polarity they attempt to annihilate the
+> “…liberal concepts typically move between ethics intellectuality and
+> economics trade. From this polarity they attempt to annihilate the
 > political as a domain of conquering power and repression. The concept
 > of private law serves as a lever and the notion of private property
 > forms the centre of the globle, whose poles - ethics and economics -
@@ -358,7 +358,7 @@ contestable. That ‘the political’ in its essence is not bound by any
 other concepts.
 
 Schmitt’s contemporary relevance is in demonstrating that we must always
-remain open to group (re)definition and that this definition is a
+remain open to group redefinition and that this definition is a
 political one, not racial, social, economic, moral &tc. There can be no
 political community and therefore no order without first defining
 outsiders. There can be no politics without this basic antagonism.
@@ -371,8 +371,8 @@ democracy lacks debate over common values, its only common value being
 that it values all values equally and apolitically. However the
 continued empirical fact of incommensurable differences between peoples
 which creates conflict runs contrary to the liberal democratic narrative
-and the presuppositions in its twin claims of a) securing rational unity
-and b) that there can be no politics without consensus. Schmitt shows
+and the presuppositions in its twin claims of a securing rational unity
+and b that there can be no politics without consensus. Schmitt shows
 that consensus is irrational. Consensus stifles argument and negates
 rational unity, the very goal of liberals throughout the Enlightenment.
 Schmitt is also used to defend the value of argument and by
@@ -428,7 +428,7 @@ Cristi, Renato. 1993. “Carl Schmitt on Liberalism, Democracy and
 Catholicism.” *History of Political Thought* XIV: 281–300.
 
 Frye, Charles E. 1996. “Carl Schmitt’s Concept of the Political.” *The
-Journal of Politics* 28 (4): 818–30.
+Journal of Politics* 28 4: 818–30.
 
 Mouffe, Chantal. 1999. “Carl Schmitt and the Paradox of Liberal
 Democracy.” In *The Challenge of Carl Schmitt*, edited by Chantal
@@ -460,66 +460,66 @@ Political.” In *The Concept of the Political*, edited by Carl Schmitt,
 
 ## Footnotes
 
-[^1]: (Schmitt 2007, 26)
+[^1]: Schmitt (2007), 26
 
-[^2]: (Schmitt 2007, 29, emphasis added)
+[^2]: Schmitt (2007), 29, emphasis added
 
-[^3]: (Schmitt 2007, 31)
+[^3]: Schmitt (2007), 31
 
-[^4]: (Schmitt 2007, 31 fn.12)
+[^4]: Schmitt (2007), 31 fn.12
 
-[^5]: (Schmitt 2007, 29–30)
+[^5]: Schmitt (2007), 29–30
 
-[^6]: (Schmitt 2007, 33)
+[^6]: Schmitt (2007), 33
 
-[^7]: (Schmitt 2007, 34, emphasis added)
+[^7]: Schmitt (2007), 34, emphasis added
 
-[^8]: (Frye 1996, 820)
+[^8]: Frye (1996), 820
 
-[^9]: (Schmitt 2007, 1)
+[^9]: Schmitt (2007), 1
 
-[^10]: (Schmitt 1985)
+[^10]: Schmitt (1985)
 
-[^11]: (Schmitt 2005)
+[^11]: Schmitt (2005)
 
 [^12]: In the sense of a frontier between friend and enemy, rather than
     in the sense of borders of states. I note this as the borders of
     state do not necessarily correspond to the borders of political
     communities in a post-modern transnational world.
 
-[^13]: (Schmitt 1985)
+[^13]: Schmitt (1985)
 
-[^14]: (Cristi 1993, 285)
+[^14]: Cristi (1993), 285
 
-[^15]: (Cristi 1993, 283–4)
+[^15]: Cristi (1993), 283–4
 
-[^16]: (Preuss 1999, 156)
+[^16]: Preuss (1999), 156
 
-[^17]: (Preuss 1999, 157)
+[^17]: Preuss (1999), 157
 
-[^18]: (Chantel Mouffe 1999; Mouffe 2000)
+[^18]: Chantel Mouffe (1999); Mouffe (2000)
 
-[^19]: (Chantal Mouffe 1999)
+[^19]: Chantal Mouffe (1999)
 
-[^20]: (Mouffe 2000, 41)
+[^20]: Mouffe (2000), 41
 
-[^21]: (Schmitt 1996, 71)
+[^21]: Schmitt (1996), 71
 
-[^22]: (Schmitt 2007, 71)
+[^22]: Schmitt (2007), 71
 
-[^23]: (Strauss 2007 Note 3)
+[^23]: Strauss (2007) Note 3
 
-[^24]: (Frye 1996 esp. p.824-6)
+[^24]: Frye (1996) esp. p.824-6
 
-[^25]: (Cristi 1993, 296, orig. emph.)
+[^25]: Cristi (1993), 296, orig. emph.
 
-[^26]: (Chantel Mouffe 1999)
+[^26]: Chantel Mouffe (1999)
 
 [^27]: George Bush’s ‘Axis of Evil’ speech clearly defined the enemy of
     the American state.
 
-[^28]: (Bobbio 2005, 81)
+[^28]: Bobbio (2005), 81
 
-[^29]: (Strauss 2007 Notes 5 & 6)
+[^29]: Strauss (2007) Notes 5 & 6
 
-[^30]: (Mouffe 2000 esp Ch.2 & 4)
+[^30]: Mouffe (2000) esp Ch.2 & 4

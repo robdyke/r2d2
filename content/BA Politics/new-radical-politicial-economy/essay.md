@@ -681,44 +681,44 @@ Guardian newspaper.
 
 ## Footnotes
 
-[^1]: (Hart 2005, 6)
+[^1]: Hart (2005), 6
 
-[^2]: (Polanyi 1957, 195)
+[^2]: Polanyi (1957), 195
 
-[^3]: (Hart 2007 Weblog entry, 9th October 2007)
+[^3]: Hart 2007 Weblog entry, 9th October (2007)
 
 [^4]: See report from the Bank of England’s Monetary and Financial
     Statistics Division & Monetary Assessment and Strategy Division on
     narrow money data.
 
-[^5]: RFID-enabled smart cards such as the Transport for London (TfL)
+[^5]: RFID-enabled smart cards such as the Transport for London TfL
     Oyster system are facilitating the development of a cashless
     society. The partnership between Barclays Bank and TfL to converge
     micro-payment facilities, credit cards and Oyster information on the
     same physical piece of plastic demonstrates, perhaps, the direction
     in which virtual financial services are heading.
 
-[^6]: (Polanyi 1957 Ch. 6)
+[^6]: Polanyi (1957) Ch. 6
 
-[^7]: (Galbraith 1975, 29)
+[^7]: Galbraith (1975), 29
 
 [^8]: “Banknotes are protected by the penal code.” Printed on every
     Swiss banknote. Translation thanks to Elizabeth Trott.
 
 [^9]: The Baily Savings and Loan is the social lending institution in
-    *It’s a Wonderful Life* ((Capra 1947))
+    *It’s a Wonderful Life* Capra (1947)
 
-[^10]: (Polanyi 1957, 69)
+[^10]: Polanyi (1957), 69
 
-[^11]: (Grignon 2006)
+[^11]: Grignon (2006)
 
 [^12]: The choice of precious minerals for the names of tiers of service
     is an insight to the history of banks as simply safe places to store
     these valuable commodities
 
 [^13]: For an insightful vignette on the affect on the individual of
-    credit scoring see “Speculating on Student Debt”, The (Committee for
-    Radical Diplomacy 2007)
+    credit scoring see “Speculating on Student Debt”, The Committee for
+    Radical Diplomacy (2007)
 
 [^14]: Zopa website
 
@@ -729,11 +729,11 @@ Guardian newspaper.
 [^16]: Zopa listings: <http://uk.zopa.com/ZopaWeb/Listings/>
 
 [^17]: ZOPA runs a low level of bad debt at just 0.05%. against an
-    industry average of 0/5%. Sources: (Hawkes 2007) and (Cattermole
-    2004)
+    industry average of 0/5%. Sources: Hawkes 2007 and Cattermole
+    2004
 
 [^18]: Notes from interview with Giles Andrews and quantative analysis
-    in (Hulme and Wright 2006)
+    in Hulme and Wright (2006)
 
 [^19]: See ’Zopa - How we make our money’
     <http://uk.zopa.com/zopaweb/public/about-zopa/how-does-zopa-make-money.html>
@@ -748,27 +748,27 @@ Guardian newspaper.
     promotes access to credit as fundamental human right.
     <http://www.grameen-info.org/>
 
-[^24]: (Sen 1999)
+[^24]: Sen (1999)
 
-[^25]: For a recent review of New Social Movements see (Porta and Diani
-    2006).
+[^25]: For a recent review of New Social Movements see Porta and Diani
+    (2006).
 
 [^26]: For an extended discussion of Strategic and Altruistic
-    Philanthropy as it relates to social lending see (Hulme and Wright
-    2006).
+    Philanthropy as it relates to social lending see Hulme and Wright
+    (2006).
 
-[^27]: (Cook 2004, 2)
+[^27]: Cook (2004), 2
 
-[^28]: (Cook 2004, 6)
+[^28]: Cook (2004), 6
 
-[^29]: (Cook 2004, 10). My emphasis.
+[^29]: Cook (2004), 10. My emphasis.
 
-[^30]: (Sunderland 2008)
+[^30]: Sunderland (2008)
 
-[^31]: (Cook 2004, 17)
+[^31]: Cook (2004), 17
 
 [^32]: <http://www.opencapital.net/co-ownership.htm>
 
-[^33]: (Hulme and Wright 2006)
+[^33]: Hulme and Wright (2006)
 
-[^34]: (Hart 2005, 6)
+[^34]: Hart (2005), 6
