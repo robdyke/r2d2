@@ -9,6 +9,10 @@ tags:
 title: “There is no such thing as a ‘communitarian’ critique of liberalism for such ‘critiques’ are in reality only expressions of liberal dissatisfaction with the excesses of liberal individualism”
 toc: true
 ---
+
+I wrote this essay in my third-year of my BA Politics, back in 2008. The module was _Liberalism and its Critics_, taught by Prof Sanjay Seth
+
+---
 After an eleven year absence, the manifestation of all that was 1990s
 Girl Power, the Spice Girls, reformed recently for a world tour. Once
 again the emancipatory message of ‘girl power’ and the undefinable yet

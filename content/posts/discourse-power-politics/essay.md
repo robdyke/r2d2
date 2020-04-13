@@ -10,6 +10,11 @@ title: Do you agree with Hardt and Negri’s contention that we now live in the
   age of Empire?
 toc: true
 ---
+
+I wrote this essay in my third-year of my BA Politics, back in 2008. The module was _Discourse, Power, Politics_, taught by Dr Saul Newman
+
+---
+
 My reading of Hardt and Negri’s *Empire*[^1] has taken me on a personal
 political journey. The text has provoked a critical examination of my
 own politics, bringing about a new consciousness of subject and

@@ -9,6 +9,11 @@ tags:
 title: Critically discuss Appadurai’s theory of globalisation with reference to his idea of scapes.
 toc: true
 ---
+
+I wrote this essay in my third-year of my BA Politics, back in 2008. The module was _Culture, Globalisation and Power_, taught by Adrian Sledmere
+
+---
+
 Appadurai’s theory of globalisation stands out from the myriad of
 theories in a number of ways. First and foremost his theory of
 globalisation emphasises identity and perspective over institutions and

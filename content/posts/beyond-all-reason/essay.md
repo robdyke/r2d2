@@ -7,10 +7,12 @@ categories:
 tags:
     - Third Year
     - Beyond All Reason
-bibliography: /home/robd/projects/robdyke/goldsmiths/bibliography/globalbib.bib
-meta-json: {"bibliography":["/home/robd/projects/robdyke/goldsmiths/bibliography/globalbib.bib"],"date":"Autumn Term 2007-08","author":["Student Registration No. 22164733"],"title":"Evaluate the contemporary relevance of Schmitt’s conception of ‘the\npolitical’."}
 title: Evaluate the contemporary relevance of Schmitt’s conception of ‘the political’.
 toc: true
+---
+
+I wrote this essay in my third-year of my BA Politics, back in 2008. The module was _Beyond All Reason_, taught by Dr James Martin
+
 ---
 Schmitt’s stark conception of ‘the political’ serves to remind us of two
 significant yet often neglected aspects of political philosophy.

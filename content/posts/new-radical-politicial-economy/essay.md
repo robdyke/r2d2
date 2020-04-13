@@ -9,6 +9,10 @@ tags:
     - New Radical Political Economy
 toc: true
 ---
+I wrote this essay in my third-year of my BA Politics, back in 2008. The module was _New Radical Political Economy_, taught by Dr Derek Wall.
+
+---
+
 > “What matters in the world is money, machines and people, in that
 > order. Our political task is to reverse the order.” Keith Hart[^1]
 
