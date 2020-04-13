@@ -1193,8 +1193,9 @@ License Must Be Technology-Neutral
 Creative Commons License
 ------------------------
 
-Attribution-Noncommercial-Share Alike 3.0
-Unported<http://creativecommons.org/licenses/by-nc-sa/3.0/>
+[Attribution-Noncommercial-Share Alike 3.0 Unported](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+
+<http://creativecommons.org/licenses/by-nc-sa/3.0/>
 
 ##### You are free:
 
