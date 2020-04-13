@@ -2,6 +2,6 @@
 title: "No Overall Control"
 menu:
     sidebar: 
-        parent: About
+        parent: Posts
         weight: 50
 ---
