@@ -1,7 +1,7 @@
 ---
-title: "No Overall Control"
+title: "BA Politics"
 menu:
     sidebar: 
         parent: Posts
-        weight: 50
+        weight: 5
 ---

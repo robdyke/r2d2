@@ -6,4 +6,3 @@ menu:
   - sidebar
 weight: -270
 ---
-This is the online presence of Rob Dyke.
