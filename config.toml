@@ -126,10 +126,12 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 degree = "/:section/:title/"
+
 [[menu.sidebar]]
 name = "Career"
 url = "https://robdyke.github.io/career-profile/"
 weight = "80"
+
 # [[menu.sidebar]]
 # name = "Tags"
 # url = "/tags"
@@ -144,3 +146,9 @@ hrefTargetBlank = true
 lang = "en"
 languageName = "English"
 weight = 1
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 1
