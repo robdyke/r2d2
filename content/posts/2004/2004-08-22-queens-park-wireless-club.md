@@ -18,4 +18,4 @@ Membership of the Queen’s Park Wireless Club shall be governed by agreement to
 
 We'll be at the Queen's Park Open Day on the 12th of September with comwifinet Limited, the not-for-profit social enterprise company supporting this project.
 
-![](http://www.theglobalvoyage.com/robdyke/comwifinet_lo.jpg)
+<!-- ![](http://www.theglobalvoyage.com/robdyke/comwifinet_lo.jpg) -->
