@@ -2,5 +2,9 @@
 
 /* add override for .container max-width */
 .container {
-    max-width: 900px;
-  }
+  max-width: 800px;
+}
+
+.sidebar {
+  width: 300px;
+}
