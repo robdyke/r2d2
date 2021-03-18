@@ -6,6 +6,7 @@ host = "gmail.com"
 
 [name]
 display = "Rob Dyke"
+lang = "en"
 
 [social]
 twitter = "robdykedotcom"

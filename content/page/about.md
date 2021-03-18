@@ -3,9 +3,9 @@ title: About
 menu: sidebar
 weight: -210
 ---
-Here are the all the posts I’ve written since I started blogging in 2004:
+The domain robdyke.com was registered on the 19th August 2000.  Here are the all the posts I’ve written since I started blogging in 2004:
 
-- an amalgamation of the blogs [Sarah Teather Is My MP](/tags/sarah-teather), [Brent East Campaigning](/categories/brent-east-campaigning/) and [No Overall Control](categories/no-overall-control/)
+- an amalgamation of the blogs [Sarah Teather Is My MP](/tags/sarah-teather), [Brent East Campaigning](/categories/brent-east-campaigning/) and [No Overall Control](/categories/no-overall-control/)
 - studying at Goldsmiths
 - NHSbuntu / NHoS and open source in the NHS
 

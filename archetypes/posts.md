@@ -1,6 +1,6 @@
 ---
 date: "{{ .Date }}"
-title: "{{ replace .TranslationBaseName '-' ' ' | title }}"
+title: "{{ replace .Name "-" " " | title }}"
 authors: [robdyke]
 categories:
   - replace-me
