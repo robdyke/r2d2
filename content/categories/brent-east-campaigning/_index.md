@@ -1,5 +1,5 @@
 ---
-title: "Brent East Campaigning"
+title: "Brent East"
 menu:
     sidebar: 
         parent: Posts
