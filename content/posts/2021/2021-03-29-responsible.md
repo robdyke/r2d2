@@ -2,9 +2,9 @@
 authors:
     - robdyke
 date: 2021-03-30T07:54:30.500Z
-title: Responsible Disclosure
+title: Responsible Disclosure - Part 1
 url: /2021/03/30/responsible-disclosure
-description: "TL;DR. I found secret info on github, notified the owner, and found out the hard way that UK cyber law is broken."
+description: "TL;DR. I found secret info on github, notified the owner, and found out the hard way that UK cyber law is broken. Part 1 of ...?"
 slug: responsible-disclosure-1
 categories:
   - Disclosure
@@ -44,7 +44,7 @@ Repos were taken down. The portal was taken offline.
 
 All good.
 
+## How it's going?
 
-
-
+See part two...
 
