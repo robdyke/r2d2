@@ -5,10 +5,11 @@ copyright = ""
 
 theme = "minimo"
 
-disqusShortname = "r2d2"
+#disqusShortname = "r2d2"
 googleAnalytics = ""
 
-Paginate = 10
+Paginate = 15
+
 preserveTaxonomyNames = true
 
 enableRobotsTXT = true # generate robots.txt
@@ -41,7 +42,7 @@ suffix = ""
 # date & time format: https://golang.org/pkg/time/
 dateFormat = "02 Jan 2006"
 listDateFormat = "02 Jan 2006"
-archiveDateFormat = "02 Jan"
+archiveDateFormat = "02 Jan 2006"
 hideEntryNavigation = ["page"] # boolean / array of sections
 hideEntryMeta = ["page"] # boolean / array of sections
 showReadingTime = true
