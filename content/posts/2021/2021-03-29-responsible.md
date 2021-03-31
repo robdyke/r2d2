@@ -5,7 +5,7 @@ date: 2021-03-30T07:54:30.500Z
 title: Responsible Disclosure
 url: /2021/03/30/responsible-disclosure
 description: "TL;DR. I found secret info on github, notified the owner, and found out the hard way that UK cyber law is broken."
-slug: responsible-rob
+slug: responsible-disclosure-1
 categories:
   - Disclosure
 ---
@@ -26,7 +26,7 @@ NHS England created [Apperta](https://apperta.org/) back in 2015 and gave it £5
 
 I don't think this was what was he in mind.
 
-I know Apperta well. As Apperta made a grant to [NHSbuntu/NHoS](http://localhost:9081/2017/05/19/apperta-supports-nhsbuntu/) of £30k grant back in 2017, I figured I'd assist them by providing as much information as possible about what looked to be a security breach / data leak. I wrote up the discovery providing screenshots, URLs, and some notes about published vulnerabilities in the version of Laravel used. It looked something like this (Here's the [gist](https://gist.github.com/robdyke/97bf14d00c3d01115fb6de4c8d185ce3), and a [PDF](/responsible/disclosure.pdf).)
+I know Apperta well. As Apperta made a grant to [NHSbuntu/NHoS](http://localhost:9081/2017/05/19/apperta-supports-nhsbuntu/) of £30k grant back in 2017, I figured I'd assist them by providing as much information as possible about what looked to be a security breach / data leak. I wrote up the discovery providing screenshots, URLs, and some notes about published vulnerabilities in the version of Laravel used. It looked something like this:
 
 {{< center >}}
 
@@ -34,7 +34,15 @@ I know Apperta well. As Apperta made a grant to [NHSbuntu/NHoS](http://localhost
 
 {{< /center >}}
 
-I sent the disclosure on 1st March at 12:12hrs. I received a reply with thanks at 12:46hrs. Repos were taken down. The portal was taken offline. All good.
+Here's the [gist](https://gist.github.com/robdyke/97bf14d00c3d01115fb6de4c8d185ce3) and a [PDF](/responsible/disclosure.pdf).
+
+## Done
+
+I sent the disclosure on 1st March at 12:12hrs. I received a reply with thanks at 12:46hrs.
+
+Repos were taken down. The portal was taken offline.
+
+All good.
 
 
 
