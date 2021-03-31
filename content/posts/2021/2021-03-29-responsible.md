@@ -6,6 +6,8 @@ title: Responsible Disclosure
 url: /2021/03/30/responsible-disclosure
 description: "TL;DR. I found secret info on github, notified the owner, and found out the hard way that UK cyber law is broken."
 slug: responsible-rob
+categories:
+  - Disclosure
 ---
 ## How it started
 
