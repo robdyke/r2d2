@@ -7,6 +7,7 @@ categories:
 tags:
   - Open Source
   - NHSbuntu
+cover: /images/banner/nhos_banner_blue.png
 ---
 
 Look. It’s time we talked about something. NHSland has a problem. A debt problem. A technical debt problem of immense proportions. We’re friends. We can talk about this. Openly. We want to help.

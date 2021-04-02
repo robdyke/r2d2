@@ -7,6 +7,7 @@ categories:
 tags:
   - Open Source
   - NHSbuntu
+cover: /images/banner/nhos_banner_blue.png
 ---
 
 [Jon Hoeksma](https://www.digitalhealth.net/author/jon-hoeksma/) interviewed us about NHSbuntu for Digital Health.

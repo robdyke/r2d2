@@ -7,6 +7,7 @@ categories:
 tags:
   - Open Source
   - NHSbuntu
+cover: /images/banner/nhos_banner_blue.png
 ---
 
 We're very excited to be able to announce that the [Apperta Foundation](http://www.apperta.org/), (which was formerly the NHS England Open Source Programme) has agreed to provide NHSbuntu with initial support funding of £40k, in order to facilitate the initial few work packages required for NHSbuntu's next few steps.

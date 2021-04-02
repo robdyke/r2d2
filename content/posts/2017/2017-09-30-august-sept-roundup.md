@@ -7,15 +7,17 @@ categories:
 tags:
   - Open Source
   - NHSbuntu
+cover: /images/banner/nhos_banner_blue.png
 ---
 
 Marcus and I had a busy summer, what with holidays, hospitals, hacks (days/weeks/camps) and house moves. I'd like you to accept this post with our apologies for being relatively quiet recently. Now, without further ado, here’s an update on all things NHSbuntu. 
 
-- [A winning hack](#a_winning_hack)
-- [In the news](#in_the_news)
-- [A spot of bother](#a_spot_of_bother)
-- [Working with us](#working_with_us)
-- [What’s coming up](#whats_coming_up)
+- [A winning hack.](#a-winning-hack)
+- [In the news.](#in-the-news)
+- [A spot of bother.](#a-spot-of-bother)
+- [Working with us.](#working-with-us)
+- [What’s coming up.](#whats-coming-up)
+- [Thanks](#thanks)
 
 <a id="a_winning_hack"></a>
 ### A winning hack.

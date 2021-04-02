@@ -7,6 +7,7 @@ categories:
 tags:
   - Open Source
   - NHSbuntu
+cover: /images/banner/nhos_banner_blue.png
 ---
 
 NHSbuntu is built for the NHS from the Ubuntu open source operating system. To create our distribution we use tools from the Ubuntu ecosystem to package our customisations and build the download images. In this post I'll describe the techniques and tools we use for this.

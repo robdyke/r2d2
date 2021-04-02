@@ -7,6 +7,7 @@ categories:
 tags:
   - Open Source
   - NHSbuntu
+cover: /images/banner/nhos_banner_blue.png
 ---
 
 Sorry (and of course thanks) to anyone who's helped out with the **NHSbuntu** Linux project and it's revamped version **NHoS** but I think we've finally reached a point where we've had enough.
