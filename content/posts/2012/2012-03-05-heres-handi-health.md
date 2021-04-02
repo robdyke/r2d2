@@ -1,8 +1,6 @@
 ---
 authors: ["robdyke"]
 date: "2012-03-05T16:18:43Z"
-guid: http://www.tactix4.com/?p=577
-id: 577
 tags:
 - HANDI Health
 title: Here's HANDI Health

@@ -1,12 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2010-05-05T14:00:13Z"
-dsq_thread_id:
-- 3851493642
-guid: http://www.robdyke.com/bec/?p=327
 categories:
   - Brent East Campaigning
-id: 327
 tags:
 - Stonebridge
 - Labour

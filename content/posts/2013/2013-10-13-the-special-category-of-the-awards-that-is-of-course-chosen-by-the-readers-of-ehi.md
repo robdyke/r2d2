@@ -1,10 +1,6 @@
 ---
 authors: ["robdyke"]
 date: "2013-10-13T22:16:32Z"
-dsq_thread_id:
-- 4390536040
-guid: http://robdyke.com/rdb/?p=1094
-id: 1094
 title: the special category of the awards that is, of course, chosen by the readers
   of EHI
 url: /2013/10/13/the-special-category-of-the-awards-that-is-of-course-chosen-by-the-readers-of-ehi/

@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2010-05-06T15:41:46Z"
-guid: http://www.robdyke.com/bec/?p=357
 categories:
   - Brent East Campaigning
-id: 357
 tags:
 - Leaflets
 - Election 2010

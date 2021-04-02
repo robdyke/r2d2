@@ -1,10 +1,6 @@
 ---
 authors: ["robdyke"]
 date: "2012-12-31T10:17:35Z"
-dsq_thread_id:
-- 1076147620
-guid: http://robdyke.com/rdb/?p=975
-id: 975
 tags:
 - HANDI Health
 - Open Source

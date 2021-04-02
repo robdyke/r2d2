@@ -1,10 +1,6 @@
 ---
 authors: ["robdyke"]
 date: "2013-02-07T14:32:42Z"
-dsq_thread_id:
-- 1075982845
-guid: http://robdyke.com/rdb/?p=1047
-id: 1047
 title: on re-platforming....
 url: /2013/02/07/on-re-platforming/
 ---

@@ -1,10 +1,6 @@
 ---
 authors: ["robdyke"]
 date: "2014-07-14T12:00:52Z"
-dsq_thread_id:
-- 3890003754
-guid: http://robdyke.com/rdb/?p=1180
-id: 1180
 title: Neova Health acquire Tactix4
 url: /2014/07/14/neova-health-acquire-tactix4/
 tags:

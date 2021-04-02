@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2010-05-04T12:20:52Z"
-guid: http://www.robdyke.com/bec/?p=276
 categories:
   - Brent East Campaigning
-id: 276
 tags:
 - Brentfield
 - Leaflets

@@ -1,8 +1,6 @@
 ---
 authors: ["robdyke"]
 date: "2012-12-16T18:07:52Z"
-guid: http://www.tactix4.com/?p=645
-id: 837
 tags:
 - Tactix4
 title: Tactix4 win ITK ISCF award with Kings College Hospital

@@ -1,10 +1,6 @@
 ---
 authors: ["robdyke"]
 date: "2013-11-12T11:59:20Z"
-dsq_thread_id:
-- 4390534510
-guid: http://robdyke.com/rdb/?p=1134
-id: 1134
 tags:
 - HSCIC
 - NHS England

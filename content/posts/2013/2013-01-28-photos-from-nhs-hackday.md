@@ -1,10 +1,6 @@
 ---
 authors: ["robdyke"]
 date: "2013-01-28T18:06:03Z"
-dsq_thread_id:
-- 3963231339
-guid: http://robdyke.com/rdb/?p=1038
-id: 1038
 title: photos from NHS Hackday
 url: /2013/01/28/photos-from-nhs-hackday/
 tags:

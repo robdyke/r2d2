@@ -1,12 +1,10 @@
 ---
 authors: ["robdyke"]
 date: "2010-12-06T17:43:45Z"
-guid: http://www.robdyke.com/noc/?p=425
 categories:
   - No Overall Control
 tags:
 - Gladstone Park
-id: 425
 title: GPCC 'Wordles'
 url: /2010/12/06/gpcc-wordles/
 ---

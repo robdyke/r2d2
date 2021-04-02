@@ -1,10 +1,6 @@
 ---
 authors: ["robdyke"]
 date: "2013-11-14T13:09:32Z"
-dsq_thread_id:
-- 4390534410
-guid: http://robdyke.com/rdb/?p=1145
-id: 1145
 tags:
 - CIC
 - HSCIC

@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2010-05-08T18:56:53Z"
-guid: http://www.robdyke.com/bec/?p=405
 categories:
   - Brent East Campaigning
-id: 405
 tags:
 - Barry Gardiner
 - Brent North

@@ -1,14 +1,6 @@
 ---
 authors: ["robdyke"]
 date: "2012-03-23T10:06:49Z"
-dsq_thread_id:
-- 3851495062
-email_notification:
-- 1332497210
-guid: http://handihealth.wordpress.com/?p=163
-id: 857
-jabber_published:
-- 1332497209
 tags:
 - HANDI Health
 - Apps

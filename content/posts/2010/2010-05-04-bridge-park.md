@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2010-05-04T10:01:30Z"
-guid: http://www.robdyke.com/bec/?p=265
 categories:
   - Brent East Campaigning
-id: 265
 tags:
 - Brent Central
 title: Bridge Park

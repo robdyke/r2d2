@@ -1,10 +1,6 @@
 ---
 authors: ["robdyke"]
 date: "2013-11-05T17:49:50Z"
-dsq_thread_id:
-- 4390534143
-guid: http://robdyke.com/rdb/?p=1100
-id: 1100
 tags:
 - HSCIC
 - Policy

@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2010-07-12T11:48:38Z"
-guid: http://www.robdyke.com/noc/?p=413
 categories:
   - No Overall Control
-id: 823
 title: 'HowNotTo: Use digital display boards in public places'
 url: /2010/07/12/hownotto-use-digital-display-boards-in-public-places/
 ---

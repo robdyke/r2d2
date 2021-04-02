@@ -1,14 +1,6 @@
 ---
 authors: ["robdyke"]
 date: "2012-03-19T10:36:32Z"
-dsq_thread_id:
-- 3851494998
-email_notification:
-- 1332153398
-guid: http://handihealth.wordpress.com/?p=152
-id: 856
-jabber_published:
-- 1332153395
 tags:
 - NHS
 - Apps

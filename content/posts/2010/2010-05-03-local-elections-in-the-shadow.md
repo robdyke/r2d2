@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2010-05-03T10:58:14Z"
-guid: http://www.robdyke.com/bec/?p=240
 categories:
   - Brent East Campaigning
-id: 240
 tags:
 - Brent Council
 title: Local elections in the shadow?

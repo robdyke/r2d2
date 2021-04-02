@@ -1,10 +1,6 @@
 ---
 authors: ["robdyke"]
 date: "2013-11-14T14:18:00Z"
-dsq_thread_id:
-- 3890004581
-guid: http://robdyke.com/rdb/?p=1154
-id: 1154
 title: 'Se7ev meets #digidoc13'
 url: /2013/11/14/se7ev-meets-digidoc13/
 ---

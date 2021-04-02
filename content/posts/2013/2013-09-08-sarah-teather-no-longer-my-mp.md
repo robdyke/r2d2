@@ -1,10 +1,6 @@
 ---
 authors: ["robdyke"]
 date: "2013-09-08T10:17:08Z"
-dsq_thread_id:
-- 1853679977
-guid: http://robdyke.com/rdb/?p=1096
-id: 1096
 tags:
 - Sarah Teather
 title: Sarah Teather no longer my MP?

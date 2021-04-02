@@ -1,10 +1,6 @@
 ---
 authors: ["robdyke"]
 date: "2013-06-27T13:40:56Z"
-dsq_thread_id:
-- 1455242484
-guid: http://robdyke.com/rdb/?p=1082
-id: 1082
 title: EHI Healthcare IT Champion 2013
 url: /2013/06/27/ehi-healthcare-it-champion-2013/
 tags:

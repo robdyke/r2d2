@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2010-06-17T18:46:37Z"
-guid: http://www.robdyke.com/noc/2010/06/17/out-with-the-old-in-with-new/
 categories:
   - No Overall Control
-id: 404
 tags:
 - Brent Council
 - Libraries

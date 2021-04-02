@@ -1,15 +1,11 @@
 ---
 authors: ["robdyke"]
 date: "2011-04-24T15:55:24Z"
-dsq_thread_id:
-- 3878425641
 excerpt: After much fruitless searching for helpful documentation to assist me in
   setting up the VPN services on a Cisco RV 120W to work with the open source client
   from Shrew Soft, I thought I'd better make a post here to help others.
-guid: http://www.robdyke.com/noc/?p=456
 categories:
   - No Overall Control
-id: 456
 tags:
 - Tech
 title: Using Shrew Soft VPN client with a Cisco RV 120W

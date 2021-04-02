@@ -1,10 +1,6 @@
 ---
 authors: ["robdyke"]
 date: "2013-11-09T15:49:14Z"
-dsq_thread_id:
-- 4390534765
-guid: http://robdyke.com/rdb/?p=1103
-id: 1103
 tags:
 - EHIlive 2013
 - HANDI Health

@@ -1,8 +1,6 @@
 ---
 authors: ["robdyke"]
 date: "2012-06-05T13:56:37Z"
-guid: http://www.tactix4.com/?p=594
-id: 594
 tags:
 - NHS Hackday
 - Open Source

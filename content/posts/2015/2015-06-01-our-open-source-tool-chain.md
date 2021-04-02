@@ -1,10 +1,6 @@
 ---
 authors: ["robdyke"]
 date: "2015-06-01T20:15:14Z"
-dsq_thread_id:
-- 3857207403
-guid: http://robdyke.com/rdb/?p=1184
-id: 1184
 tags:
 - Neova Health
 - Open Source

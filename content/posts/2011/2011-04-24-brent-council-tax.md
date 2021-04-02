@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2011-04-24T17:03:52Z"
-guid: http://www.robdyke.com/noc/?p=484
 categories:
   - No Overall Control
-id: 484
 tags:
 - Brent Council
 - Council Tax
