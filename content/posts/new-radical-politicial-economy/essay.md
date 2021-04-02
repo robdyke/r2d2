@@ -1,6 +1,6 @@
 ---
 date: "2020-03-29T00:00:00Z"
-title: "To what extent do social, p2p or participatory financial models democratise capital?"
+title: "Democratic capital"
 authors: [robdyke]
 categories:
   - BA Politics
@@ -8,11 +8,8 @@ tags:
     - Third Year
     - New Radical Political Economy
 toc: true
+description: I wrote this essay in my third-year of my BA Politics, back in 2008. The module was 'New Radical Political Economy', taught by Dr Derek Wall.
 ---
-I wrote this essay in my third-year of my BA Politics, back in 2008. The module was _New Radical Political Economy_, taught by Dr Derek Wall.
-
----
-
 > “What matters in the world is money, machines and people, in that
 > order. Our political task is to reverse the order.” Keith Hart[^1]
 

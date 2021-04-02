@@ -6,11 +6,13 @@ categories:
 tags:
     - Third Year
     - Liberalism and its Critics
-title: “There is no such thing as a ‘communitarian’ critique of liberalism for such ‘critiques’ are in reality only expressions of liberal dissatisfaction with the excesses of liberal individualism”
+title: Liberalism and its Critics
+slug: Liberalism and its Critics
+description: I wrote this essay in my third-year of my BA Politics, back in 2008. The module was 'Liberalism and its Critics', taught by Prof Sanjay Seth
 toc: true
 ---
 
-I wrote this essay in my third-year of my BA Politics, back in 2008. The module was _Liberalism and its Critics_, taught by Prof Sanjay Seth
+> There is no such thing as a ‘communitarian’ critique of liberalism for such ‘critiques’ are in reality only expressions of liberal dissatisfaction with the excesses of liberal individualism.
 
 ---
 After an eleven year absence, the manifestation of all that was 1990s

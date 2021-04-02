@@ -7,13 +7,11 @@ categories:
 tags:
     - Third Year
     - Beyond All Reason
-title: Evaluate the contemporary relevance of Schmitt’s conception of ‘the political’.
+title: Schmitt’s and ‘the political’.
 toc: true
+description: I wrote this essay in my third-year of my BA Politics, back in 2008. The module was 'Beyond All Reason', taught by Dr James Martin
 ---
 
-I wrote this essay in my third-year of my BA Politics, back in 2008. The module was _Beyond All Reason_, taught by Dr James Martin
-
----
 Schmitt’s stark conception of ‘the political’ serves to remind us of two
 significant yet often neglected aspects of political philosophy.
 Firstly, Schmitt’s conception of the political draws our attention to

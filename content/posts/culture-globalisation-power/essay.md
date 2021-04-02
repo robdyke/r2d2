@@ -6,12 +6,9 @@ categories:
 tags:
     - Third Year
     - Culture, Globalisation and Power
-title: Critically discuss Appadurai’s theory of globalisation with reference to his idea of scapes.
+title: Appadurai’s global scapes.
 toc: true
----
-
-I wrote this essay in my third-year of my BA Politics, back in 2008. The module was _Culture, Globalisation and Power_, taught by Adrian Sledmere
-
+description: I wrote this essay in my third-year of my BA Politics, back in 2008. The module was 'Culture, Globalisation and Power', taught by Adrian Sledmere
 ---
 
 Appadurai’s theory of globalisation stands out from the myriad of

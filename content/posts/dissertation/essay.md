@@ -7,11 +7,8 @@ tags:
     - Third Year
     - Dissertation
 title: Hacking the Networked Society.
+description: This is my dissertation from my BA Politics back in 2008.
 toc: true
----
-
-This is my dissertation from my BA Politics back in 2008.
-
 ---
 
 Introduction.
