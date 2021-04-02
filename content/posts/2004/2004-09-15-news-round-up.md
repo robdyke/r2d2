@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-09-15T13:57:02Z"
-guid: http://www.robdyke.com/noc/?p=54
 categories:
   - No Overall Control
-id: 652
 title: News Round-up
 url: /2004/09/15/news-round-up/
 tags:

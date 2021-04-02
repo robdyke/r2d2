@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2005-03-09T03:09:00Z"
-guid: http://www.robdyke.com/noc/?p=26
 categories:
   - No Overall Control
-id: 682
 title: Busy day today.
 url: /2005/03/09/busy-day-today/
 tags:

@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-04-13T12:21:11Z"
-guid: http://www.robdyke.com/noc/?p=7
 categories:
   - No Overall Control
-id: 745
 tags:
 - Liberal Democrats
 title: QP Cllr Davies joins Lib Dems

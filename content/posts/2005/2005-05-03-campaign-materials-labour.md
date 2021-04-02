@@ -1,14 +1,12 @@
 ---
 authors: ["robdyke"]
 date: "2005-05-03T22:06:00Z"
-guid: http://www.robdyke.com/bec/?p=43
 categories:
   - Brent East Campaigning
 tags:
   - Election 2005
   - Leaflets
   - Labour
-id: 43
 title: Campaign Materials - Labour
 url: /2005/05/03/campaign-materials-labour/
 ---

@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-07-03T15:57:52Z"
-guid: http://www.robdyke.com/noc/?p=81
 categories:
   - No Overall Control
-id: 607
 title: making the spoken word more informing...
 url: /2004/07/03/making-the-spoken-word-more-informing/
 tags:

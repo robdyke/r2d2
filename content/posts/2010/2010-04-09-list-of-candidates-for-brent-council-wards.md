@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2010-04-09T06:30:08Z"
-guid: http://www.robdyke.com/bec/?p=152
 categories:
   - Brent East Campaigning
-id: 152
 tags:
 - Brent Council
 - Election 2010

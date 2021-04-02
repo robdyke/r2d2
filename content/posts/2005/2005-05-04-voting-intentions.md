@@ -1,12 +1,10 @@
 ---
 authors: ["robdyke"]
 date: "2005-05-04T22:35:00Z"
-guid: http://www.robdyke.com/bec/?p=47
 categories:
   - Brent East Campaigning
 tags:
   - Election 2005
-id: 47
 title: Voting intentions
 url: /2005/05/04/voting-intentions/
 ---

@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2005-03-03T01:32:00Z"
-guid: http://www.robdyke.com/noc/?p=27
 categories:
   - No Overall Control
-id: 681
 title: EDM for Parliament to approve military actions
 url: /2005/03/03/edm-for-parliament-to-approve-military-actions/
 tags:

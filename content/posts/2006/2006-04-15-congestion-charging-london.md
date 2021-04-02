@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-04-15T11:37:28Z"
-guid: http://www.robdyke.com/noc/?p=218
 categories:
   - No Overall Control
-id: 218
 tags:
 - London
 - Tech

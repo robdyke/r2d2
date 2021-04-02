@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2008-02-19T20:40:05Z"
-guid: http://www.robdyke.com/noc/?p=320
 categories:
   - No Overall Control
-id: 800
 tags:
 - Brent
 - Gladstone Park

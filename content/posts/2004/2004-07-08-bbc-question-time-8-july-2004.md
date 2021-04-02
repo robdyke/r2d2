@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-07-08T13:30:51Z"
-guid: http://www.robdyke.com/noc/?p=77
 categories:
   - No Overall Control
-id: 611
 title: BBC Question Time 8 July 2004
 url: /2004/07/08/bbc-question-time-8-july-2004/
 tags:

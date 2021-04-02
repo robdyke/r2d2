@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-10-14T16:00:56Z"
-guid: http://www.robdyke.com/noc/?p=41
 categories:
   - No Overall Control
-id: 666
 title: Happy anniversary Sarah!
 url: /2004/10/14/happy-anniversary-sarah/
 tags:

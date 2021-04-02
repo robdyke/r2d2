@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-08-07T10:19:08Z"
-guid: http://www.robdyke.com/bec/?p=140
 categories:
   - Brent East Campaigning
-id: 140
 title: helping more community interest groups
 url: /2006/08/07/helping-more-community-interest-groups/
 ---

@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-08-12T10:31:28Z"
-guid: http://www.robdyke.com/noc/?p=256
 categories:
   - No Overall Control
-id: 632
 title: I had to get this checked. Twice.
 url: /2004/08/12/i-had-to-get-this-checked-twice/
 tags:

@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-08-15T14:00:03Z"
-guid: http://www.robdyke.com/noc/?p=254
 categories:
   - No Overall Control
-id: 635
 title: Where did they get the idea for this from?
 url: /2004/08/15/where-did-they-get-the-idea-for-this-from/
 tags:

@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-05-21T03:02:04Z"
-guid: http://www.robdyke.com/bec/?p=135
 categories:
   - Brent East Campaigning
-id: 135
 title: The Popular Girl
 url: /2006/05/21/the-popular-girl/
 ---

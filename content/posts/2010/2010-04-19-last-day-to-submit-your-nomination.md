@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2010-04-19T05:37:44Z"
-guid: http://www.robdyke.com/bec/?p=151
 categories:
   - Brent East Campaigning
-id: 151
 tags:
 - Election 2010
 title: Last day to submit your nomination.

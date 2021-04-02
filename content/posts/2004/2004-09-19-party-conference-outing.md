@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-09-19T17:40:41Z"
-guid: http://www.robdyke.com/noc/?p=51
 categories:
   - No Overall Control
-id: 655
 title: Party Conference Outing
 url: /2004/09/19/party-conference-outing/
 tags:

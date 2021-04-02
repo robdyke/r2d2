@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-10-30T17:20:16Z"
-guid: http://www.robdyke.com/noc/?p=37
 categories:
   - No Overall Control
-id: 670
 title: also from the Kilburn Times...
 url: /2004/10/30/also-from-the-kilburn-times/
 tags:

@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2009-02-24T14:05:49Z"
-guid: http://www.robdyke.com/noc/2009/02/24/zero-comments-and-zero-friends-or-how-social-media-is-missused-and-abused-by-government/
 categories:
   - No Overall Control
-id: 372
 tags:
 - Politics
 title: Zero Comments and Zero Friends or how 'social media' is missused and abused

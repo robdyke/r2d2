@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2008-11-10T09:59:25Z"
-guid: http://www.robdyke.com/noc/2008/11/10/dollis-hill-house-renewal-project-in-jeopardy/
 categories:
   - No Overall Control
-id: 355
 tags:
 - Brent Council
 - Gladstone Park

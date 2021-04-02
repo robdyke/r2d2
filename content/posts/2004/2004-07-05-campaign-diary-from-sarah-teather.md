@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-07-05T20:56:08Z"
-guid: http://www.robdyke.com/noc/?p=78
 categories:
   - No Overall Control
-id: 610
 title: Campaign ‘Diary’ from Sarah Teather
 url: /2004/07/05/campaign-diary-from-sarah-teather/
 tags:

@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-04-09T04:11:29Z"
-guid: http://www.robdyke.com/bec/?p=64
 categories:
   - Brent East Campaigning
-id: 64
 tags:
 - Leaflets
 - Labour

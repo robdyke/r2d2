@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-08-04T17:00:12Z"
-guid: http://www.robdyke.com/noc/?p=70
 categories:
   - No Overall Control
-id: 624
 title: What to do with ‘grot spots’ in Brent
 url: /2004/08/04/what-to-do-with-grot-spots-in-brent/
 tags:

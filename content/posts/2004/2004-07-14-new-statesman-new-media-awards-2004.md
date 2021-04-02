@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-07-14T16:10:54Z"
-guid: http://www.robdyke.com/noc/?p=75
 categories:
   - No Overall Control
-id: 613
 title: New Statesman New Media Awards 2004
 url: /2004/07/14/new-statesman-new-media-awards-2004/
 ---

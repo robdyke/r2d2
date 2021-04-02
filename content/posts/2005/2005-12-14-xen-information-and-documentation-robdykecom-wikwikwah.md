@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2005-12-14T01:07:21Z"
-guid: http://www.robdyke.com/noc/?p=229
 categories:
   - No Overall Control
-id: 229
 tags:
 - linux
 title: XEN information and documentation - Robdyke.com wikwikwah

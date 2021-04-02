@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-05-04T07:27:29Z"
-guid: http://www.robdyke.com/bec/?p=115
 categories:
   - Brent East Campaigning
-id: 115
 tags:
 - Elections
 title: Brent, are you voting?

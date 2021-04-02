@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-07-09T16:29:15Z"
-guid: http://www.robdyke.com/noc/?p=76
 categories:
   - No Overall Control
-id: 612
 title: Question Time Last Night
 url: /2004/07/09/question-time-last-night/
 tags:

@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-07-26T00:30:50Z"
-guid: http://www.robdyke.com/noc/?p=72
 categories:
   - No Overall Control
-id: 616
 title: Give me your grot spots!
 url: /2004/07/26/give-me-your-grot-spots/
 tags:

@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2007-12-05T00:59:59Z"
-guid: http://www.robdyke.com/noc/?p=305
 categories:
   - No Overall Control
-id: 305
 tags:
 - Goldsmiths
 title: '@smiths... the student staff forum.'

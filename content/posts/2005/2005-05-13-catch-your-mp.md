@@ -1,13 +1,11 @@
 ---
 authors: ["robdyke"]
 date: "2005-05-13T10:20:00Z"
-guid: http://www.robdyke.com/bec/?p=60
 categories:
   - Brent East Campaigning
 tags:
   - Stop the War
   - Election 2005
-id: 60
 title: Catch your MP...
 url: /2005/05/13/catch-your-mp/
 ---

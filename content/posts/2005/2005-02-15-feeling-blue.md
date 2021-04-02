@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2005-02-15T03:34:00Z"
-guid: http://www.robdyke.com/noc/?p=30
 categories:
   - No Overall Control
-id: 678
 title: Feeling blue?
 url: /2005/02/15/feeling-blue/
 tags:

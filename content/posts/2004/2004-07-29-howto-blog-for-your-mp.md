@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-07-29T22:22:32Z"
-guid: http://www.robdyke.com/noc/?p=267
 categories:
   - No Overall Control
-id: 267
 title: 'HOWTO: blog for your MP'
 url: /2004/07/29/howto-blog-for-your-mp/
 tags:

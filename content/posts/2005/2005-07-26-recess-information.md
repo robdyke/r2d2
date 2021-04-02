@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2005-07-26T01:39:00Z"
-guid: http://www.robdyke.com/noc/?p=11
 categories:
   - No Overall Control
-id: 725
 title: Recess Information
 url: /2005/07/26/recess-information/
 ---

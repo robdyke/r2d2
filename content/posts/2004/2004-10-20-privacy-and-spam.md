@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-10-20T15:58:10Z"
-guid: http://www.robdyke.com/noc/?p=40
 categories:
   - No Overall Control
-id: 667
 title: Privacy and SPAM
 url: /2004/10/20/privacy-and-spam/
 tags:

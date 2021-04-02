@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-06-16T15:29:32Z"
-guid: http://www.robdyke.com/noc/?p=90
 categories:
   - No Overall Control
-id: 598
 title: blogging for my MP
 url: /2004/06/16/blogging-for-my-mp/
 tags:

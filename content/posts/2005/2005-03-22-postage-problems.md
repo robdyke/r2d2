@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2005-03-22T21:24:00Z"
-guid: http://www.robdyke.com/noc/?p=25
 categories:
   - No Overall Control
-id: 683
 title: Postage problems.
 url: /2005/03/22/postage-problems/
 tags:

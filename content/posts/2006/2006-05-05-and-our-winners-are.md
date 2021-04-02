@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-05-05T05:05:29Z"
-guid: http://www.robdyke.com/bec/?p=121
 categories:
   - Brent East Campaigning
-id: 121
 tags:
 - Elections
 - Mapesbury

@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2007-09-05T08:38:27Z"
-guid: http://www.robdyke.com/noc/?p=293
 categories:
   - No Overall Control
-id: 791
 tags:
 - Sarah Teather
 title: Remarkable.

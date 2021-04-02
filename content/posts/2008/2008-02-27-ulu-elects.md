@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2008-02-27T11:25:26Z"
-guid: http://www.robdyke.com/noc/?p=325
 categories:
   - No Overall Control
-id: 325
 tags:
 - Elections
 - Goldsmiths

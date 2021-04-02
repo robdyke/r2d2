@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-04-12T07:48:48Z"
-guid: http://www.robdyke.com/bec/?p=84
 categories:
   - Brent East Campaigning
-id: 84
 tags:
 - Labour
 - Liberal Democrats

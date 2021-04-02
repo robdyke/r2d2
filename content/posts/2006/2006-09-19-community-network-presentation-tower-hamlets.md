@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-09-19T08:20:40Z"
-guid: http://www.robdyke.com/noc/?p=206
 categories:
   - No Overall Control
-id: 784
 tags:
 - Community Network
 - Comwifinet

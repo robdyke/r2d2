@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2005-04-08T10:11:00Z"
-guid: http://www.robdyke.com/bec/?p=5
 categories:
   - Brent East Campaigning
-id: 5
 tags:
 - Election 2005
 title: Fear and Loathing on the Brent East Campaign Trail

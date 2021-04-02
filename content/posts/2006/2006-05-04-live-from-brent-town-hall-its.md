@@ -1,12 +1,10 @@
 ---
 authors: ["robdyke"]
 date: "2006-05-04T18:59:00Z"
-guid: http://www.robdyke.com/bec/?p=119
 categories:
   - Brent East Campaigning
 tags:
   - Elections
-id: 119
 title: Live! from Brent Town Hall it'...............?
 url: /2006/05/04/live-from-brent-town-hall-its/
 ---

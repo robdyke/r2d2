@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-05-03T22:04:04Z"
-guid: http://www.robdyke.com/noc/?p=6
 categories:
   - No Overall Control
-id: 760
 tags:
 - Brent East
 title: Local elections - Look for the BIRD!

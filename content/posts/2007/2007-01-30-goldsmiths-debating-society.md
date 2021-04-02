@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2007-01-30T12:13:41Z"
-guid: http://www.robdyke.com/noc/?p=283
 categories:
   - No Overall Control
-id: 283
 tags:
 - Goldsmiths
 title: Goldsmiths Debating Society

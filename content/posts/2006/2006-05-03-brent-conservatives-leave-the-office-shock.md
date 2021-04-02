@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-05-03T16:40:41Z"
-guid: http://www.robdyke.com/bec/?p=106
 categories:
   - Brent East Campaigning
-id: 106
 tags:
 - Leaflets
 - Conservatives

@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2007-01-30T12:04:06Z"
-guid: http://www.robdyke.com/noc/?p=282
 categories:
   - No Overall Control
-id: 282
 tags:
 - Goldsmiths
 title: political firsts...

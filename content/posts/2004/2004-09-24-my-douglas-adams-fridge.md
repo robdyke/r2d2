@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-09-24T14:23:43Z"
-guid: http://www.robdyke.com/noc/?p=48
 categories:
   - No Overall Control
-id: 659
 title: My Douglas Adams Fridge
 url: /2004/09/24/my-douglas-adams-fridge/
 tags:

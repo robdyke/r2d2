@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-08-27T01:47:25Z"
-guid: http://www.robdyke.com/noc/?p=58
 categories:
   - No Overall Control
-id: 646
 title: PRAI, FOCI, BELD, ST, BLOG!
 url: /2004/08/27/prai-foci-beld-st-blog/
 tags:

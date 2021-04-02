@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-08-04T13:01:40Z"
-guid: http://www.robdyke.com/noc/?p=211
 categories:
   - No Overall Control
-id: 211
 tags:
 - Brent Council
 title: cat robdyke | grep ‘recent activity’

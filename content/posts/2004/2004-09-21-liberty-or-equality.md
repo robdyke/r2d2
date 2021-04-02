@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-09-21T13:05:13Z"
-guid: http://www.robdyke.com/noc/?p=50
 categories:
   - No Overall Control
-id: 657
 title: Liberty or Equality?
 url: /2004/09/21/liberty-or-equality/
 tags:

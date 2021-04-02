@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2009-02-24T09:09:50Z"
-guid: http://www.robdyke.com/noc/2009/02/24/the-online-campaign-an-event-by-hansard/
 categories:
   - No Overall Control
-id: 370
 tags:
 - Hansard
 - Politics

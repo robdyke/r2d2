@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2008-02-04T09:33:17Z"
-guid: http://www.robdyke.com/noc/?p=318
 categories:
   - No Overall Control
-id: 798
 title: nettime - content-free writing in narrow standardized inter-bred vernacular
 url: /2008/02/04/nettime-content-free-writing-in-narrow-standardized-inter-bred-vernacular/
 ---

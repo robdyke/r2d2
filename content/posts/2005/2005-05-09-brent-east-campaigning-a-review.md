@@ -1,12 +1,10 @@
 ---
 authors: ["robdyke"]
 date: "2005-05-09T10:54:00Z"
-guid: http://www.robdyke.com/bec/?p=57
 categories:
   - Brent East Campaigning
 tags:
   - Election 2005
-id: 57
 title: Brent East Campaigning - A review
 url: /2005/05/09/brent-east-campaigning-a-review/
 ---

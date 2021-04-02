@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2007-10-23T23:00:06Z"
-guid: http://www.robdyke.com/noc/?p=298
 categories:
   - No Overall Control
-id: 298
 tags:
 - Open Source
 - Goldsmiths

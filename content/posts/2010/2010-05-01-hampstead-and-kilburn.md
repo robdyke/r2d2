@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2010-05-01T21:36:16Z"
-guid: http://www.robdyke.com/bec/?p=228
 categories:
   - Brent East Campaigning
-id: 228
 tags:
 tags:
 - Labour

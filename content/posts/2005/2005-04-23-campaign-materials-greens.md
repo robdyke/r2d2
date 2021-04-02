@@ -1,13 +1,11 @@
 ---
 authors: ["robdyke"]
 date: "2005-04-23T10:35:00Z"
-guid: http://www.robdyke.com/bec/?p=22
 categories:
   - Brent East Campaigning
 tags:
   - Election 2005
   - Green Party
-id: 22
 title: Campaign Materials - Green Party
 url: /2005/04/23/campaign-materials-greens/
 ---

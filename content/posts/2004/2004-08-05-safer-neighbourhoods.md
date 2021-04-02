@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-08-05T11:48:54Z"
-guid: http://www.robdyke.com/noc/?p=69
 categories:
   - No Overall Control
-id: 69
 title: Safer Neighbourhoods
 url: /2004/08/05/safer-neighbourhoods/
 tags:

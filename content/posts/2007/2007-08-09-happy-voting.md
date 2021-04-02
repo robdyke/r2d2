@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2007-08-09T08:57:31Z"
-guid: http://www.robdyke.com/noc/?p=288
 categories:
   - No Overall Control
-id: 789
 tags:
 - Brent Council
 - Elections

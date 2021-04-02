@@ -1,12 +1,10 @@
 ---
 authors: ["robdyke"]
 date: "2005-04-20T08:53:00Z"
-guid: http://www.robdyke.com/bec/?p=18
 categories:
   - Brent East Campaigning
 tags:
   - Election 2005
-id: 18
 title: Candidate List Announced
 url: /2005/04/20/candidate-list-announced/
 ---

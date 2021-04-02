@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2005-04-08T09:07:00Z"
-guid: http://www.robdyke.com/noc/?p=238
 categories:
   - No Overall Control
-id: 238
 title: Brent East Campaign Trail
 url: /2005/04/08/brent-east-campaign-trail/
 tags:

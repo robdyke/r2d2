@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2010-04-12T08:33:47Z"
-guid: http://www.robdyke.com/bec/?p=153
 categories:
   - Brent East Campaigning
-id: 153
 tags:
 - Election 2010
 - MAPRA

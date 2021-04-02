@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-06-15T21:55:56Z"
-guid: http://www.robdyke.com/noc/?p=91
 categories:
 - No Overall Control
-id: 597
 title: Sarah Teather is my MP
 url: /2004/06/15/sarah-teather-is-my-mp/
 tags:

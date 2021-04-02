@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-05-08T16:40:43Z"
-guid: http://www.robdyke.com/bec/?p=124
 categories:
   - Brent East Campaigning
-id: 124
 title: wither bec?
 url: /2006/05/08/wither-bec/
 ---

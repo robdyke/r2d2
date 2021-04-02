@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2007-12-14T00:43:21Z"
-guid: http://www.robdyke.com/noc/?p=308
 categories:
   - No Overall Control
-id: 308
 tags:
 - Goldsmiths
 title: Beyond All Reason

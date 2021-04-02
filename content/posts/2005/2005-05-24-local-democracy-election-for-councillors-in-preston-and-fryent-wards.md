@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2005-05-24T15:52:00Z"
-guid: http://www.robdyke.com/bec/?p=61
 categories:
   - Brent East Campaigning
-id: 61
 tags:
 - Elections
 title: 'Local Democracy: Election for Councillors in Preston and Fryent wards.'

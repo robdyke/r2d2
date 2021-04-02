@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2010-04-27T11:04:08Z"
-guid: http://www.robdyke.com/bec/?p=187
 categories:
   - Brent East Campaigning
-id: 187
 tags:
 - Brent Central
 - Election 2010

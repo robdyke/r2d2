@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-09-25T18:39:36Z"
-guid: http://www.robdyke.com/noc/?p=47
 categories:
   - No Overall Control
-id: 660
 title: Fridge Update
 url: /2004/09/25/fridge-update-2/
 tags:

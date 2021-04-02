@@ -1,12 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2008-06-06T08:55:38Z"
-dsq_thread_id:
-- 3851495152
-guid: http://www.robdyke.com/noc/2008/06/10/neighbourhood-walkabout-with-nw2/
 categories:
   - No Overall Control
-id: 810
 tags:
 - Mapesbury
 - NW2

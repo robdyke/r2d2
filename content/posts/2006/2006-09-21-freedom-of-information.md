@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-09-21T05:59:45Z"
-guid: http://www.robdyke.com/bec/?p=148
 categories:
   - Brent East Campaigning
-id: 148
 tags:
 - Brent Council
 - Freedom of Information

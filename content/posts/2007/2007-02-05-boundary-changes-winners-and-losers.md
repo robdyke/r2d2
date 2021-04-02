@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2007-02-05T15:50:04Z"
-guid: http://www.robdyke.com/noc/?p=284
 categories:
   - No Overall Control
-id: 284
 tags:
 - Brent East
 title: 'Boundary changes: Winners and losers'

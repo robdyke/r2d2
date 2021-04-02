@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2010-04-06T12:47:15Z"
-guid: http://www.robdyke.com/bec/?p=150
 categories:
   - Brent East Campaigning
-id: 150
 tags:
 - Election 2010
 title: No Brent East, Just Campaigning

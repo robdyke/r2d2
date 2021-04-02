@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-08-08T07:35:56Z"
-guid: http://www.robdyke.com/bec/?p=143
 categories:
   - Brent East Campaigning
-id: 143
 tags:
 - Brent Council
 - Leaflets

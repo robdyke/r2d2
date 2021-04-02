@@ -1,12 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2005-05-06T13:17:00Z"
-dsq_thread_id:
-- 3851493880
-guid: http://www.robdyke.com/bec/?p=54
 categories:
   - Brent East Campaigning
-id: 54
 tags:
 - Election 2005
 - Sarah Teather

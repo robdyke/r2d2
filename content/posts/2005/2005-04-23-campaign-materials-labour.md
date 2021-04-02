@@ -1,14 +1,12 @@
 ---
 authors: ["robdyke"]
 date: "2005-04-23T11:08:00Z"
-guid: http://www.robdyke.com/bec/?p=23
 categories:
   - Brent East Campaigning
 tags:
   - Election 2005
   - Labour
   - MAPRA
-id: 23
 title: Campaign Materials - Labour
 url: /2005/04/23/campaign-materials-labour/
 ---

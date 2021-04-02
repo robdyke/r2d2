@@ -1,14 +1,10 @@
 ---
 authors: ["robdyke"]
 date: "2005-04-24T18:41:00Z"
-dsq_thread_id:
-- 3851493450
-guid: http://www.robdyke.com/bec/?p=28
 categories:
   - Brent East Campaigning
 tags:
   - Election 2005
-id: 28
 title: Campaign Materials -  Where do they all come from?
 url: /2005/04/24/campaign-materials-where-do-they-all-come-from/
 ---

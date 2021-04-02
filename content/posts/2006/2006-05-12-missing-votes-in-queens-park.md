@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-05-12T18:05:02Z"
-guid: http://www.robdyke.com/bec/?p=125
 categories:
   - Brent East Campaigning
-id: 125
 tags:
 - Elections
 - Queens Park

@@ -1,13 +1,11 @@
 ---
 authors: ["robdyke"]
 date: "2005-05-04T02:59:00Z"
-guid: http://www.robdyke.com/noc/?p=18
 categories:
   - Brent East Campaigning
 tags:
   - Election 2005
   - Liberal Democrats
-id: 706
 title: Campaign Materials -  Liberal Democrats
 url: /2005/05/04/campaign-materials-liberal-democrats/
 ---

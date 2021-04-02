@@ -1,12 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2010-04-24T00:02:17Z"
-dsq_thread_id:
-- 3851494135
-guid: http://www.robdyke.com/bec/?p=179
 categories:
   - Brent East Campaigning
-id: 179
 tags:
 - Brent North
 - Leaflets

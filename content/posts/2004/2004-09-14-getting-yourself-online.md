@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-09-14T10:00:09Z"
-guid: http://www.robdyke.com/noc/?p=246
 categories:
   - Community Wifi
-id: 246
 title: Getting yourself online
 url: /2004/09/14/getting-yourself-online/
 tags:

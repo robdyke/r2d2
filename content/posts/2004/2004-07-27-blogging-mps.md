@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-07-27T23:18:12Z"
-guid: http://www.robdyke.com/noc/?p=71
 categories:
   - No Overall Control
-id: 617
 title: Blogging MPs
 url: /2004/07/27/blogging-mps/
 tags:

@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-05-31T07:31:46Z"
-guid: http://www.robdyke.com/bec/?p=137
 categories:
   - Brent East Campaigning
-id: 137
 tags:
 - Elections
 - Recount

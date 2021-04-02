@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-06-17T21:43:07Z"
-guid: http://www.robdyke.com/noc/?p=88
 categories:
   - No Overall Control
-id: 600
 title: things sarah feels strongly about
 url: /2004/06/17/things-sarah-feels-strongly-about/
 tags:

@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2008-06-11T16:36:56Z"
-guid: http://www.robdyke.com/noc/2008/06/11/mapra-network-local-open-gardens/
 categories:
   - No Overall Control
-id: 354
 tags:
 - MAPRA
 - Mapesbury

@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-07-03T16:20:37Z"
-guid: http://www.robdyke.com/noc/?p=80
 categories:
   - No Overall Control
-id: 608
 title: The missing speeches...
 url: /2004/07/03/the-missing-speeches/
 tags:

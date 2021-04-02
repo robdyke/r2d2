@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-01-16T18:57:09Z"
-guid: http://www.robdyke.com/noc/?p=222
 categories:
   - No Overall Control
-id: 727
 tags:
 - Open Source
 title: drupal for IP Community commission

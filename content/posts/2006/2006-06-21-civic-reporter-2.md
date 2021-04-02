@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-06-21T21:19:27Z"
-guid: http://www.robdyke.com/noc/?p=214
 categories:
   - No Overall Control
-id: 778
 tags:
 - Brent Council
 - Comwifinet

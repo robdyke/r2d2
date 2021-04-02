@@ -1,12 +1,10 @@
 ---
 authors: ["robdyke"]
 date: "2005-04-17T12:30:00Z"
-guid: http://www.robdyke.com/bec/?p=11
 categories:
   - Brent East Campaigning
 tags:
   - Election 2005
-id: 11
 title: Calling all candidates
 url: /2005/04/17/calling-all-candidates/
 ---

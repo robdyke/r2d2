@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-07-15T12:50:57Z"
-guid: http://www.robdyke.com/noc/?p=74
 categories:
   - No Overall Control
-id: 614
 title: Where is my MP?
 url: /2004/07/15/where-is-my-mp/
 tags:

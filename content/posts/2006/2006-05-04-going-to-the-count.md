@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-05-04T15:59:45Z"
-guid: http://www.robdyke.com/bec/?p=118
 categories:
   - Brent East Campaigning
-id: 118
 tags:
 - Elections
 title: Going to the count...

@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-05-04T22:24:09Z"
-guid: http://www.robdyke.com/bec/?p=120
 categories:
   - Brent East Campaigning
-id: 120
 title: still counting...
 url: /2006/05/04/still-counting/
 ---

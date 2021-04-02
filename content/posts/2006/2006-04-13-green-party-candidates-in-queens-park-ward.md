@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-04-13T06:43:07Z"
-guid: http://www.robdyke.com/bec/?p=90
 categories:
   - Brent East Campaigning
-id: 90
 tags:
 - Leaflets
 - Green Party

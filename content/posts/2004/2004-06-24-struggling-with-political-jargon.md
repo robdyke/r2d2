@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-06-24T00:48:32Z"
-guid: http://www.robdyke.com/noc/?p=84
 categories:
   - No Overall Control
-id: 604
 title: Struggling with political jargon?
 url: /2004/06/24/struggling-with-political-jargon/
 tags:

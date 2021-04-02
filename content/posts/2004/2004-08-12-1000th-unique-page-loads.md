@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-08-12T07:18:19Z"
-guid: http://www.robdyke.com/noc/?p=257
 categories:
   - No Overall Control
-id: 631
 title: 1000th unique page loads
 url: /2004/08/12/1000th-unique-page-loads/
 tags:

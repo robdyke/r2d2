@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-09-18T07:39:42Z"
-guid: http://www.robdyke.com/noc/?p=208
 categories:
   - No Overall Control
-id: 208
 tags:
 - Brent Council
 - Community Network

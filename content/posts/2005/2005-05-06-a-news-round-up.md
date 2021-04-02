@@ -1,13 +1,11 @@
 ---
 authors: ["robdyke"]
 date: "2005-05-06T19:15:00Z"
-guid: http://www.robdyke.com/bec/?p=55
 categories:
   - Brent East Campaigning
 tags:
   - Election 2005
   - Sarah Teather
-id: 55
 title: A news round-up
 url: /2005/05/06/a-news-round-up/
 ---

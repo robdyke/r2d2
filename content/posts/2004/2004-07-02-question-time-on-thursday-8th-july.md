@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-07-02T15:09:46Z"
-guid: http://www.robdyke.com/noc/?p=83
 categories:
   - No Overall Control
-id: 605
 title: Question Time on Thursday 8th July
 url: /2004/07/02/question-time-on-thursday-8th-july/
 tags:

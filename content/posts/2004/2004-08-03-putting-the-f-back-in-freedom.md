@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-08-03T12:21:29Z"
-guid: http://www.robdyke.com/noc/?p=262
 categories:
   - No Overall Control
-id: 621
 title: Putting the ‘F’ back in Freedom
 url: /2004/08/03/putting-the-f-back-in-freedom/
 ---

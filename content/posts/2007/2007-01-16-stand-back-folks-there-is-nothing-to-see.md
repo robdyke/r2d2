@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2007-01-16T19:22:13Z"
-guid: http://www.robdyke.com/bec/?p=145
 categories:
   - Brent East Campaigning
-id: 145
 title: stand back folks, there is nothing to see
 url: /2007/01/16/stand-back-folks-there-is-nothing-to-see/
 ---

@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2006-04-13T06:38:56Z"
-guid: http://www.robdyke.com/bec/?p=88
 categories:
   - Brent East Campaigning
-id: 88
 tags:
 - Labour
 - Tower block

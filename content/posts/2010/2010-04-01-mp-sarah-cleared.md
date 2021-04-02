@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2010-04-01T18:29:37Z"
-guid: http://www.robdyke.com/bec/?p=159
 categories:
   - Brent East Campaigning
-id: 159
 tags:
 - Expenses
 - Labour
@@ -33,12 +31,10 @@ A follow up letter from the complainant included a returning address that was al
 
 The commissioner also said he discontinued the inquiry because he had no grounds for believing that claims Ms Teather made from parliamentary funds for her office provided support to the cost of the Lib Dem party.
 
-A letter to Ms Teather from the commissioner said: "I have been in contact with the person who purportedly made the complaint. I have satisfied myself as to his identity. He has stated that he did not make a complaint against you."
 
 As the complaint was made, Ms Teather, who was famed for not claiming a penny during the expenses scandal, strenuously denied the allegations.
 
 Brent Liberal Democrats said the party contributed over and above its usage of the office, as approved by the Commons, calculated by a surveyor and agreed with a solicitor.
 
-Chris Leaman, Brent councillor and the Lib Dem London campaign manager, said: "Its seems a strange coincidence that the first letter was written by someone who now says they have never made a complaint about Sarah Teather and did not write the original letter. Many people will be wondering why the second letter is written from an address that does not exist, while a similar address with an identical post code has one person registered at it and that person works for Dawn Butler.
 
 "Dawn Butler must take immediate action and reveal the full facts if any person employed by her has been involved in this smear campaign against Sarah.

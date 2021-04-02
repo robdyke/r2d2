@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2010-04-23T23:41:22Z"
-guid: http://www.robdyke.com/bec/?p=176
 categories:
   - Brent East Campaigning
-id: 176
 tags:
 - Expenses
 - Labour

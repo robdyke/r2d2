@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2008-02-24T20:33:24Z"
-guid: http://www.robdyke.com/noc/?p=322
 categories:
   - No Overall Control
-id: 802
 tags:
 - Elections
 - Green Party

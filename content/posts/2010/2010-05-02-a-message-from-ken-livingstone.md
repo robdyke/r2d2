@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2010-05-02T14:18:29Z"
-guid: http://www.robdyke.com/bec/?p=288
 categories:
   - Brent East Campaigning
-id: 288
 tags:
 - Brent Central
 - Ken Livingstone

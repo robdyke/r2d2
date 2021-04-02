@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2008-02-25T12:11:43Z"
-guid: http://www.robdyke.com/noc/?p=323
 categories:
   - No Overall Control
-id: 803
 tags:
 - Dissertation
 - Goldsmiths

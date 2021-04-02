@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-08-04T08:44:43Z"
-guid: http://www.robdyke.com/noc/?p=260
 categories:
   - No Overall Control
-id: 623
 title: Humiliated, Angry, Ashamed, Brown.
 url: /2004/08/04/humiliated-angry-ashamed-brown/
 ---

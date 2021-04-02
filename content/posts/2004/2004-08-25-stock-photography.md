@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-08-25T14:10:25Z"
-guid: http://www.robdyke.com/noc/?p=61
 categories:
   - No Overall Control
-id: 642
 title: Stock photography
 url: /2004/08/25/stock-photography/
 tags:

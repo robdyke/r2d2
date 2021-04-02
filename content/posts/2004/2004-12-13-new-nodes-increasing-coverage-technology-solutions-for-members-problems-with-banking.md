@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-12-13T09:29:24Z"
-guid: http://www.robdyke.com/noc/?p=239
 categories:
   - Community Wifi
-id: 239
 title: New nodes increasing coverage... technology solutions for members... problems
   with banking...
 url: /2004/12/13/new-nodes-increasing-coverage-technology-solutions-for-members-problems-with-banking/

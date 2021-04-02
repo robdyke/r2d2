@@ -1,13 +1,11 @@
 ---
 authors: ["robdyke"]
 date: "2005-05-12T07:52:00Z"
-guid: http://www.robdyke.com/bec/?p=59
 categories:
   - Brent East Campaigning
 tags:
   - Election 2005
   - Stop the War
-id: 59
 title: I wish I'd seen this earlier...
 url: /2005/05/12/i-wish-id-seen-this-earlier/
 ---

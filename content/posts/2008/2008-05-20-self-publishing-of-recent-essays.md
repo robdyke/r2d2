@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2008-05-20T16:01:07Z"
-guid: http://www.robdyke.com/noc/2008/05/20/self-publishing-of-recent-essays/
 categories:
   - No Overall Control
-id: 338
 tags:
 - Goldsmiths
 title: self-publishing of recent essays

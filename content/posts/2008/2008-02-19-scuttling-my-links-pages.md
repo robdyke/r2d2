@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2008-02-19T09:50:03Z"
-guid: http://www.robdyke.com/noc/?p=319
 categories:
   - No Overall Control
-id: 799
 title: scuttling my links pages....
 url: /2008/02/19/scuttling-my-links-pages/
 ---

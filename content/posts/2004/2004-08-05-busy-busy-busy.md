@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-08-05T16:18:01Z"
-guid: http://www.robdyke.com/noc/?p=66
 categories:
   - No Overall Control
-id: 628
 title: Busy busy busy!
 url: /2004/08/05/busy-busy-busy/
 tags:

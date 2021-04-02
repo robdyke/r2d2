@@ -1,10 +1,8 @@
 ---
 authors: ["robdyke"]
 date: "2004-08-18T13:30:26Z"
-guid: http://www.robdyke.com/noc/?p=63
 categories:
   - No Overall Control
-id: 639
 title: Meeting with Sarah Teather
 url: /2004/08/18/meeting-with-sarah-teather/
 tags:
