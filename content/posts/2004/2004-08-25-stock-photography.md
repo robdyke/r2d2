@@ -4,7 +4,6 @@ date: "2004-08-25T14:10:25Z"
 categories:
   - No Overall Control
 title: Stock photography
-url: /2004/08/25/stock-photography/
 tags:
 - Sarah Teather
 ---

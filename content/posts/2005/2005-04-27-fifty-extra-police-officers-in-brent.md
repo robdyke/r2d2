@@ -8,7 +8,6 @@ tags:
   - Labour
   - Leaflets
 title: Fifty extra police officers in Brent
-url: /2005/04/27/fifty-extra-police-officers-in-brent/
 ---
 I picked up a copy of Brent East News published by Yasmin and the BE Labour Party when in Queen's Park on Monday. Under the headline 'Delivering for You' there is a photo of three police officers with a caption 'Brent now has more than fifty extra police officers'.
 

@@ -8,7 +8,6 @@ tags:
 - Goldsmiths
 - Dissertation
 title: dissertation project - submitted and now online
-url: /2008/05/21/dissertation-project-submitted-and-now-online/
 ---
 **Hacking the Networked Society.**
 

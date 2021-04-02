@@ -12,7 +12,6 @@ tags:
 - Dawn Butler
 - Election 2010
 title: Labour pay legal costs to Brent Lib Dems
-url: /2010/05/01/labour-pay-legal-costs-to-brent-lib-dems/
 ---
 Brent councillor James Powney [laments the threat and use of legal writ to silence debate](http://jamespowney.blogspot.com/2010/04/sarah-teathers-legal-threat.html), tending towards an environment where 'legitimate freedom of speech could be restricted by self censorship.'
 

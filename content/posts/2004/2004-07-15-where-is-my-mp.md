@@ -4,7 +4,6 @@ date: "2004-07-15T12:50:57Z"
 categories:
   - No Overall Control
 title: Where is my MP?
-url: /2004/07/15/where-is-my-mp/
 tags:
 - Sarah Teather
 ---

@@ -6,7 +6,6 @@ categories:
 tags:
 - Brent Council
 title: Local elections in the shadow?
-url: /2010/05/03/local-elections-in-the-shadow/
 ---
 ﻿﻿"The local elections are in the shadow of the general election," said Andrew Stunell, chair of the Liberal Democrats' local election campaign team, [reports the Beeb](http://news.bbc.co.uk/1/hi/uk_politics/election_2010/england/8651335.stm "The Beeb"). Locally, the Labour team are focused the parliamentary campaign. What little local material they have published and distributed has been discredited and retracted. The Lib Dems are emphasizing the local campaign, highlighting the work of Lib Dem councillors in the wards.
 

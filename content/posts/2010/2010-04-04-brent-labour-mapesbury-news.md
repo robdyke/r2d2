@@ -8,7 +8,6 @@ tags:
 - Leaflets
 - Labour
 title: Brent Labour - Mapesbury News
-url: /2010/04/04/brent-labour-mapesbury-news/
 ---
 From your local Labour Action Team.
 

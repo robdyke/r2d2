@@ -4,7 +4,6 @@ date: "2006-05-21T03:02:04Z"
 categories:
   - Brent East Campaigning
 title: The Popular Girl
-url: /2006/05/21/the-popular-girl/
 ---
 I've been reading more F Scott Fitzgerald recently as I've just discovered a collection of his short stories published by Hesperus. "[The Popular Girl](http://www.amazon.co.uk/exec/obidos/ASIN/1843914034/qid=1148197034/sr=8-1/ref=sr_8_xs_ap_i1_xgl/026-2632728-9014812)" collects together 5 short stories, each a gem, each of which, with dazzling brilliance and sparkling wit, disects Fitzgerald's favourite topic: the American society-life. This came to mind this morning while I was digging in my visitor statistics for stats that stood out. The number one [incomming search term](http://my7.statcounter.com/project/standard/camefrom.php?project_id=618994&#038;PHPSESSID=ceeedc5a902152cf91ee36f95351fff3) (the query entered at a search engine that led someone to read this website) is Hayley Matthews. Popular Girl indeed.
 

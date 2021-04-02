@@ -4,7 +4,6 @@ date: "2004-07-29T16:19:27Z"
 categories:
   - No Overall Control
 title: Blogging by/for MPs
-url: /2004/07/29/blogging-byfor-mps/
 tags:
 - Sarah Teather
 - Politics

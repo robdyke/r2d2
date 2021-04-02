@@ -4,7 +4,6 @@ date: "2004-08-16T17:10:50Z"
 categories:
   - Community Wifi
 title: What’s Happening?
-url: /2004/08/16/whats-happening/
 tags:
 - Queens Park Wifi Club
 ---

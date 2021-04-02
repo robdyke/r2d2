@@ -7,7 +7,6 @@ tags:
 - Brent Council
 - Comwifinet
 title: civic reporter
-url: /2006/06/21/civic-reporter-2/
 ---
 hush! here's a sneek on something I've been working on at [comwifinet](http://www.comwifinet.com "comwifinet.com - my employers") recently...
 

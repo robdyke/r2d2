@@ -4,7 +4,6 @@ date: "2004-08-27T14:43:42Z"
 categories:
   - No Overall Control
 title: Will Sarah vote to impeach Blair?
-url: /2004/08/27/will-sarah-vote-to-impeach-blair/
 tags:
 - Sarah Teather
 ---

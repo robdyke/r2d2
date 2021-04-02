@@ -8,7 +8,6 @@ tags:
 - Green Party
 - Elections
 title: Brent Council - Labour Gain from NOC
-url: /2010/05/10/brent-council-labour-gain-from-noc/
 ---
 Over on the Brent Greens Blog, Shahrar Ali has posted a write up the [results for the candidates at the Local Elections](http://brentgreens.blogspot.com/2010/05/brent-greens-parliamentary-and-council.html). The Greens stood the maximum number of candiates in each of the  20 wards in Brent and many of the candidates clocked up, several hundred votes, even reaching 840 votes in Kilburn.
 

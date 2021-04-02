@@ -8,6 +8,5 @@ tags:
   - Shahrar Ali
   - Green Party
 title: Meeting Shahrar Ali
-url: /2005/04/13/meeting-shahrar-ali/
 ---
 ... coming soon...

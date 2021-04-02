@@ -6,7 +6,6 @@ categories:
 tags:
 - Liberal Democrats
 title: You can take your time...
-url: /2005/05/17/you-can-take-your-time/
 ---
 ...picking a shadow cabinet when you don't have all eyes watching, waiting for you to make clear exactly what your intentions are with regard to the party. If your leadership hasn't been subjected to intense probing by spectators and participants alike you are not under the same pressures and scrutiny and can take stock, deliberate before revealing your hand.
 

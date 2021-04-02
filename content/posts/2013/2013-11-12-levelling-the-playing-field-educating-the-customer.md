@@ -7,7 +7,6 @@ tags:
 - Open Source
 - Policy
 title: Levelling the playing field and educating the customer
-url: /2013/11/12/levelling-the-playing-field-educating-the-customer/
 ---
 There have been several announcements from NHS England / HSCIC in support of open source solutions for NHS organisations. These announcements have spawned much discussion and debate - on EHI/HSJ/NHSHackday sites and at EHILive - which ranges in style and content from Chicken Licken to Richard Stallman.
 

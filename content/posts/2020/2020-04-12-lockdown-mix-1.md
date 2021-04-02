@@ -2,7 +2,6 @@
 date: "2020-04-12T20:53:03+01:00"
 title: "Lockdown Mix 1"
 authors: [robdyke]
-url: /2020/04/12/lockdown-mix-1
 categories:
   - evilrob
 draft: false

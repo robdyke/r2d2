@@ -8,7 +8,6 @@ tags:
 - Mapesbury
 - Street Care
 title: Mapesbury is All Action!
-url: /2006/04/25/mapesbury-is-all-action/
 ---
 Noticed more people in yellow safety jackets walking around the streets recently? On Friday last week I saw a member of the Brent Council Street Care team out ward walking in Mapesbury. He was monitoring the recycling collection from both the kerb side boxes and the green wheelie bins - check we residents were using the service and using it correctly? checking up on the contractors? don't know - either way his purpose was to be highly visible in the ward. Suit, yellow jacket, Brent Council Street Care printed on the back in big letters? A visibility exercise in the ward prior to the ward hustings tomorrow and the Mapesbury Residents Associations (MAPRA) Annual General Meeting?That's probably just the skeptic in me... ...but then this afternoon....
 

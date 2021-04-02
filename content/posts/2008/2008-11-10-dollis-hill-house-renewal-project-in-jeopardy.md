@@ -7,7 +7,6 @@ tags:
 - Brent Council
 - Gladstone Park
 title: Dollis Hill House renewal project in jeopardy
-url: /2008/11/10/dollis-hill-house-renewal-project-in-jeopardy/
 ---
 News earlier this year was that the Heritage Lottery Fund announced stage 1 funding towards a grant of £1.2 million to help restore [Dollis Hill House](http://www.dollishillhouse.org.uk/). This would have enabled Dollis Hill House Trust (DHHT) to work with [Training For Life](http://www.trainingforlife-city.org/) and Brent Council to annex a section of a public park for pseudo-social-enterprise, or, in the words of the DHH, to bring about the "commercial exploitation of the house’s prime and dramatic location, balanced with a positive vision of the house’s future as a cohesive focus for the growing and increasingly diverse population of the surrounding area."
 

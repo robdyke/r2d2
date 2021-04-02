@@ -4,7 +4,6 @@ date: "2004-10-29T01:00:44Z"
 categories:
   - No Overall Control
 title: MP’s expenses
-url: /2004/10/29/mps-expenses/
 tags:
 - Sarah Teather
 - Brent

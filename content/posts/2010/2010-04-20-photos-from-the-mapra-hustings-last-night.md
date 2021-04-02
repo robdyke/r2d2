@@ -7,7 +7,6 @@ tags:
 - Election 2010
 - MAPRA
 title: photos from the MapRA hustings last night.
-url: /2010/04/20/photos-from-the-mapra-hustings-last-night/
 ---
 Bums on seats....
   

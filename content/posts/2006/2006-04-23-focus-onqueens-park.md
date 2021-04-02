@@ -8,7 +8,6 @@ tags:
 - Tower block
 - Queens Park
 title: Focus on...Queen's Park
-url: /2006/04/23/focus-onqueens-park/
 ---
 A recent Focus On...Queen's Park from the Liberal Democrats with the candidates for Councillors showing their opposition to the Queen's Park tower development.
 

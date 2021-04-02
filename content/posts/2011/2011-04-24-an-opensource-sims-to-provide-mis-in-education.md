@@ -7,7 +7,6 @@ tags:
 - Crapita
 - Open Source
 title: An opensource SIMS to provide MIS in education?
-url: /2011/04/24/an-opensource-sims-to-provide-mis-in-education/
 ---
 After the [twitter feed of UK Gov ICT](https://twitter.com/#!/ukgovcontracts) contracts emerged from the recent [LinkedGov hackday](http://linkedgov.org/?p=280) I've been subscribed to searches for _open source_ and _linux_.
 

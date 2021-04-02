@@ -7,7 +7,6 @@ tags:
   - Election 2005
   - Sarah Teather
 title: A news round-up
-url: /2005/05/06/a-news-round-up/
 ---
 Not awake at 415am? Shame as you missed Sarah's victory speech! If you want to watch it you can [thanks to the BBC.](http://newssearch.bbc.co.uk/cgi-bin/search/results.pl?x=83&#038;y=19&#038;q=sarah+teather&#038;scope=newsifs_av&#038;tab=news_av)
 

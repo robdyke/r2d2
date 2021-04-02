@@ -7,7 +7,6 @@ tags:
   - Election 2005
   - George 'Rainbow' Weiss
 title: Linkup for George 'Rainbow' Weiss
-url: /2005/04/21/linkup-for-george-rainbow-weiss/
 ---
 Thanks to a reader, here are some links for the Vote For Yourself Dream Ticket Party and George 'Rainbox' Weiss.
 

@@ -8,7 +8,6 @@ tags:
 - Council Tax
 - Crapita
 title: 'Brent Council Tax : £15m to increase collection rates'
-url: /2011/04/24/brent-council-tax/
 ---
 Brent Council [recently signed a deal](http://www.capita.co.uk/media/Pages/LondonBoroughofBrentsigns%C2%A315millioncontractwithCapitatoadministerrevenuesservice.aspx) with Crapita Business Services for council tax and business rates administration and IT support systems. [Reported](http://www.guardian.co.uk/government-computing-network/2011/apr/05/brent-capita-revenue-collection-contract?&#038;) to be worth £15m over 5 years, the function of the contract is to increase the council tax collection rate, with Crapita giving a guaranteed a collection rate for council tax and an anticipated £4.6 million in savings for the Council over the initial term of the contract.
 

@@ -4,7 +4,6 @@ date: "2004-07-03T14:02:39Z"
 categories:
   - No Overall Control
 title: when news isn’t news
-url: /2004/07/03/when-news-isnt-news/
 tags:
 - Sarah Teather
 ---

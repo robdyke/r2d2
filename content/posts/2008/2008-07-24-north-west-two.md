@@ -8,7 +8,6 @@ tags:
 - Mapesbury
 - Cricklewood
 title: North West Two
-url: /2008/07/24/north-west-two/
 ---
 The website of my neighbourhood's residents association, North West Two, is now up and running. Do drop by and visit them at [www.northwesttwo.co.uk](http://www.northwesttwo.co.uk "NW2 RA Website")
 

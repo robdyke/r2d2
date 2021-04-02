@@ -6,6 +6,5 @@ categories:
 tags:
 - Liberal Democrats
 title: FlockTogether
-url: /2007/08/09/flocktogether/
 ---
 Here's a link to the [LibDem FlockTogether](http://www.flocktogether.org.uk/showMeetingPage.php?Meeting=2210 "LibDem FlockTogether page about stonebridge") page on the Stonebridge local council by-election.

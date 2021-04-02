@@ -8,7 +8,6 @@ tags:
 - Libraries
 - Mapesbury
 title: Cricklewood Library - NOT under threat!
-url: /2007/09/05/cricklewood-library-not-under-threat/
 ---
 Cllr Chris Leaman writes
 

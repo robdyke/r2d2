@@ -8,7 +8,6 @@ tags:
 - Elections
 - Stonebridge
 title: Stonebridge candidates
-url: /2007/08/23/stonebridge-candidates/
 ---
 With the [candidates nominated for the Stonebridge by-election](http://www.brent.gov.uk/elections.nsf/2f123bcc3c5e238c80256ad20034644f/e28efd34755ac8628025733000414880!OpenDocument "Brent Council Stonebridge byelection page"), here's a little summary of them for you:
 

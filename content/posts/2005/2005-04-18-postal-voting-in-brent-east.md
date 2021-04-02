@@ -6,7 +6,6 @@ categories:
 tags:
   - Election 2005
 title: Postal voting in Brent East
-url: /2005/04/18/postal-voting-in-brent-east/
 ---
 Applications for postal voting in Brent East are up 511% on the 2001 General Election. Around 2500 votes in Brent East will be made by post this year.
 

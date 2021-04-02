@@ -6,7 +6,6 @@ categories:
 tags:
 - Election 2010
 title: Last day to submit your nomination.
-url: /2010/04/19/last-day-to-submit-your-nomination/
 ---
 Completed nomination papers accompanied by the deposit of £500 must be delivered to the Acting Returning Officer at the offices of the London Borough of Brent not later than 4pm on Tuesday, 20th April 2010.
 

@@ -4,7 +4,6 @@ date: "2004-08-02T10:27:35Z"
 categories:
   - No Overall Control
 title: WiaB from Labour
-url: /2004/08/02/wiab-from-labour/
 tags:
 - Politics
 ---

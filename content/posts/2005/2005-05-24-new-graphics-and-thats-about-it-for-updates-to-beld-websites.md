@@ -4,7 +4,6 @@ date: "2005-05-24T14:07:00Z"
 categories:
   - No Overall Control
 title: New graphics... And that’s about it for updates to BELD websites...
-url: /2005/05/24/new-graphics-and-thats-about-it-for-updates-to-beld-websites/
 ---
 Sarah and the BELD team must be on holiday. It took a while for the 'message from Sarah Teather MP' to appear on [Sarah's](http://www.sarahteather.org.uk/) [websites](http://brentlibdems.org.uk/)...No proclamation from the count, no pictures...
 

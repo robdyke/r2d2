@@ -4,7 +4,6 @@ date: "2004-09-19T17:08:41Z"
 categories:
   - No Overall Control
 title: 'Update: Impeaching Tony Blair'
-url: /2004/09/19/update-impeaching-tony-blair/
 tags:
 - Sarah Teather
 ---

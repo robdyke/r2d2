@@ -11,7 +11,6 @@ tags:
 - Dawn Butler
 - Election 2010
 title: Butler issues full apology for Teather expenses smear
-url: /2010/04/21/butler-issues-full-apology-for-teather-expenses-smear/
 aliases:
   - /bec/2010/04/21/butler-issues-full-apology-for-teather-expenses-smear
 ---

@@ -4,7 +4,6 @@ date: "2006-04-11T17:02:59Z"
 categories:
   - No Overall Control
 title: community campaigning tools
-url: /2006/04/11/community-campaigning-tools/
 ---
 what's happening with the stop the tower campaign? I've not received any emails from Barney nor have I picked up other campaign materials in the QP area these last weeks. i have seen that the Liberal Democrats are making a local election issue out of the QP tower plan - and with Cllr Davies being against, Cllr Nerva chairing a panel and Cllr Sayer making the decision, political representation from Team Red is lacking a bit too. As for Team Blue and Green I don't know where they stand - but there is the opportunity to have an impact of these candidates over the coming weeks with some campaigning.
 

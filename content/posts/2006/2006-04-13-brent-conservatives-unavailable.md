@@ -7,7 +7,6 @@ tags:
 - Leaflets
 - Conservatives
 title: Brent Conservatives Unavailable?
-url: /2006/04/13/brent-conservatives-unavailable/
 ---
 I've been trying to contact the websites of the [Brent East Conservatives](http://www.brenteastconservatives.com/) and [Kwasi Kwarteng](http://www.kwasikwarteng.com/). I know they were available during the General Election last year but now they are uncontactable...
 

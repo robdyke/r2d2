@@ -4,7 +4,6 @@ date: "2004-08-25T14:28:01Z"
 categories:
   - No Overall Control
 title: Information Request
-url: /2004/08/25/information-request/
 tags:
 - Sarah Teather
 ---

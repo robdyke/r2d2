@@ -8,7 +8,6 @@ tags:
   - Liberal Democrats
   - Charles Kennedy
 title: Charles Kennedy in Brent East
-url: /2005/05/03/charles-kennedy-in-brent-east/
 ---
 If you received a copy of Brent People from the Liberal Democrats over the weekend you'll have seen this pic already.
 

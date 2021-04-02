@@ -7,7 +7,6 @@ tags:
 - London
 - Tech
 title: Congestion Charging London
-url: /2006/04/15/congestion-charging-london/
 ---
 What's going on in this picture?
 

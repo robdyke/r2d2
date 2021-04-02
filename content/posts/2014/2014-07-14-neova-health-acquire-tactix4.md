@@ -2,7 +2,6 @@
 authors: ["robdyke"]
 date: "2014-07-14T12:00:52Z"
 title: Neova Health acquire Tactix4
-url: /2014/07/14/neova-health-acquire-tactix4/
 tags:
 - Neova Health
 ---

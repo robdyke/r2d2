@@ -2,7 +2,6 @@
 authors: ["robdyke"]
 date: "2017-09-30T00:00:00Z"
 title: A long overdue summer summary
-url: /2017/09/august-sept-roundup/
 categories:
   - NHoS
 tags:

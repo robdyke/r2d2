@@ -8,7 +8,6 @@ tags:
 - Cricklewood
 - Mapesbury
 title: More booze on the Broadway - respond now!
-url: /2008/11/04/more-booze-on-the-broadway-respond-now/
 ---
 The NW2 residents association is [alerting local residents to an application for a 24h license for the sale of alcohol](http://www.northwesttwo.co.uk/main/node/17) by a new business opening on the broadway. The former New Heights Furniture Shop in Cricklewood Broadway has been taken over by a supermarket called Way–2–Save. They have a branch in Neasden which has very good range of food, fresh fruit and veg and a halal butchers which would add to the choices for supermarket shopping in the area in a positive way.
 

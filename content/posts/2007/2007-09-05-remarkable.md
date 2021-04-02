@@ -6,7 +6,6 @@ categories:
 tags:
 - Sarah Teather
 title: Remarkable.
-url: /2007/09/05/293/
 ---
 Daniel Finkelstein [puts the boot into the Lib Dems and encourages leadership machinations](http://www.timesonline.co.uk/tol/comment/columnists/daniel_finkelstein/article2388172.ece "Comment article on Times website by daniel finkelstein") ahead of the party conference season, goading Ming into a long walk along a short pier.
 

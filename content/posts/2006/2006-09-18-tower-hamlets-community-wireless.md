@@ -7,6 +7,5 @@ tags:
 - Community Network
 - Comwifinet
 title: Tower Hamlets - community wireless
-url: /2006/09/18/tower-hamlets-community-wireless/
 ---
 Visiting Tower Hamlets today to talk about seeding a sustainable community enterprise while increasing participation and technology access using wireless technologies. More to post on this later.

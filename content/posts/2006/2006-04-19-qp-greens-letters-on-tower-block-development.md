@@ -9,7 +9,6 @@ tags:
 - Tower block
 - Queens Park
 title: QP Greens letters on tower block development
-url: /2006/04/19/qp-greens-letters-on-tower-block-development/
 ---
 I noticed these letters written by Dr Shahrar Ali, Green Party candidate for Queen's Park along with Rupert Degas, to Brent area newspapers recently.
 

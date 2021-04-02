@@ -9,7 +9,6 @@ tags:
   - Yasmin Qureshi
   - Leaflets
 title: Campaign Materials - Labour
-url: /2005/04/11/campaign-materials-labour/
 ---
 Here are some campaign materials from the Labour Party for their candidate Yasmin Qureshi. I won't display them all here, but you can click on the links to see full size scans of the unsolicited mail that has popped through my letter box in support of their candidate.
 

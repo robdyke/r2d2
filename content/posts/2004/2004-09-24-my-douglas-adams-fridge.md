@@ -4,7 +4,6 @@ date: "2004-09-24T14:23:43Z"
 categories:
   - No Overall Control
 title: My Douglas Adams Fridge
-url: /2004/09/24/my-douglas-adams-fridge/
 tags:
 - Sarah Teather
 - Brent

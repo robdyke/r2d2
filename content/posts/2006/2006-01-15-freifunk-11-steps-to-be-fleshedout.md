@@ -6,7 +6,6 @@ categories:
 tags:
 - freifunk
 title: freifunk 1.1 - steps to be fleshedout
-url: /2006/01/15/freifunk-11-steps-to-be-fleshedout/
 ---
   * Flash to 1.1
   * OLSR DHCP

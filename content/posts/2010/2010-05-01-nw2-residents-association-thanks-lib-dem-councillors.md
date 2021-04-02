@@ -8,7 +8,6 @@ tags:
 - MAPRA
 - NW2
 title: NW2 Residents Association Thanks Lib Dem Councillors
-url: /2010/05/01/nw2-residents-association-thanks-lib-dem-councillors/
 ---
 The [North West Two Residents Association](http://northwesttwo.co.uk/index.php?id=8 "NW2 RA") held its AGM on the 22nd April at the Windmill Pub on Cricklewood Broadway.
 

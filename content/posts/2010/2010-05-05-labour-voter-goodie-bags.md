@@ -8,7 +8,6 @@ tags:
 - Dawn Butler
 - Election 2010
 title: Labour voter goodie bags
-url: /2010/05/05/labour-voter-goodie-bags/
 ---
 As seen in Mapesbury, junction of Olive and Snyed Roads.
 

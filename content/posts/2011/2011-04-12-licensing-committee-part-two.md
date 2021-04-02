@@ -12,7 +12,6 @@ categories:
 tags:
 - Brent Council
 title: Licensing Committee - part two.
-url: /2011/04/12/licensing-committee-part-two/
 ---
 Brent Council must be expecting numbers as the hearing. The Licensing Committee has got the main chamber for tonight's session.
 

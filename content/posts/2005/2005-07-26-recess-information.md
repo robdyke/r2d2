@@ -4,7 +4,6 @@ date: "2005-07-26T01:39:00Z"
 categories:
   - No Overall Control
 title: Recess Information
-url: /2005/07/26/recess-information/
 ---
 [parliament.uk](http://www.parliament.uk) says "The House of Commons and the House of Lords will be on Summer recess between 22 July and 9 October. The Houses of Parliament will return on the 10 October 2005."
 

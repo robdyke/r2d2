@@ -4,7 +4,6 @@ date: "2010-07-12T11:48:38Z"
 categories:
   - No Overall Control
 title: 'HowNotTo: Use digital display boards in public places'
-url: /2010/07/12/hownotto-use-digital-display-boards-in-public-places/
 ---
 I collect pictures of crashed operating systems, dumped rubbish and digital information boards displaying incorrect information. The dumped rubbish photos are tagged with a location and uploaded to FixMyStreet for Brent Council (usually, for it is they) to resolve. Here are a couple of photos of information boards taken at St. Pancreas International (Domestic) station only last week.
 

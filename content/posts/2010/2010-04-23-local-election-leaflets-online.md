@@ -11,7 +11,6 @@ tags:
 - Hampstead and Kilburn
 - Election 2010
 title: Local election leaflets online
-url: /2010/04/23/local-election-leaflets-online/
 ---
 The Straight Choice election leaflet project is an archive of election leaflets distributed throughout the campaign. This is a helpful thing to be doing as .....
 

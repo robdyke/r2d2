@@ -4,7 +4,6 @@ date: "2004-08-11T16:17:54Z"
 categories:
   - No Overall Control
 title: Sarah wants to know your views
-url: /2004/08/11/sarah-wants-to-know-your-views/
 tags:
 - Sarah Teather
 - Brent

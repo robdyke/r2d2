@@ -7,7 +7,6 @@ tags:
 - MAPRA
 - Mapesbury
 title: MapRA Network - Local Open Gardens
-url: /2008/06/11/mapra-network-local-open-gardens/
 ---
 I received an email from the MapRA Network advising me of some local Open Gardens in the National Garden Scheme. In this scheme, private gardens of national interest are opened to the public, in aid of charity. Here is a map of the local open gardens.
 

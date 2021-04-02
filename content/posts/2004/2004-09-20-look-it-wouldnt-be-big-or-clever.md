@@ -4,7 +4,6 @@ date: "2004-09-20T08:33:02Z"
 categories:
   - No Overall Control
 title: Look, it wouldn’t be big OR clever...
-url: /2004/09/20/look-it-wouldnt-be-big-or-clever/
 tags:
 - Exploit
 ---

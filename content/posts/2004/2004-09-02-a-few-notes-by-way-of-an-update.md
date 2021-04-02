@@ -4,7 +4,6 @@ date: "2004-09-02T03:31:45Z"
 categories:
   - No Overall Control
 title: A few notes by way of an update.
-url: /2004/09/02/a-few-notes-by-way-of-an-update/
 tags:
 - Sarah Teather
 ---

@@ -4,7 +4,6 @@ date: "2004-09-22T18:08:24Z"
 categories:
   - No Overall Control
 title: Blogging the UK Poli-conf season
-url: /2004/09/22/blogging-the-uk-poli-conf-season/
 tags:
 - Politics
 ---

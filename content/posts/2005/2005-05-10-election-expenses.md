@@ -7,7 +7,6 @@ tags:
   - Election 2005
   - Expenses
 title: Election Expenses
-url: /2005/05/10/election-expenses/
 ---
 I've been digging around into the rules around election expenses. I'm trying to calculate the maximum permitted expenses a candidate or agent may incur in Brent East. Thankfully the Electoral Commission website is a wealth of information on electoral law and regulations.
 

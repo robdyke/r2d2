@@ -4,7 +4,6 @@ date: "2004-10-29T01:41:57Z"
 categories:
   - No Overall Control
 title: Compare and contrast
-url: /2004/10/29/compare-and-contrast/
 tags:
 - Sarah Teather
 - Brent

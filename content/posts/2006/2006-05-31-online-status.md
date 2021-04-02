@@ -4,7 +4,6 @@ date: "2006-05-31T11:12:33Z"
 categories:
   - No Overall Control
 title: online status
-url: /2006/05/31/online-status/
 ---
 I'm a big user of messaging applications. From my email addiction to my instant messaging accounts. I like IM's. I like online status messages. My current online status reads: 'that's not a pig - it's a shaved cat with its tail permed'. My friend Adoms' status messages are usually a gem. Currently it reads
 

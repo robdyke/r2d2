@@ -8,7 +8,6 @@ tags:
 - Labour
 - Mapesbury
 title: an evening with Rt Hon Charles Clarke
-url: /2006/04/10/an-evening-with-rt-hon-charles-clarke/
 ---
 receiving this letter was one of the prompts to get me back blogging again - an evening with Charles Clarke. The Home Secretary was to visit Brent East to meet and greet and have a Big Conversation with people about the Respect Agenda, law and order (as someone with some political education I shouldn't right law and order as I know that the concepts are fused when they should be kept seperate) and crime and policing.
 

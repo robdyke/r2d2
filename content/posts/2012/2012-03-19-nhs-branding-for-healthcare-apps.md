@@ -5,7 +5,6 @@ tags:
 - NHS
 - Apps
 title: NHS branding for healthcare apps
-url: /2012/03/19/nhs-branding-for-healthcare-apps/
 ---
 [<img class="size-full wp-image" src="http://www.handihealth.net/pubfiles/2012/03/nhslogo1.gif?w=408" alt="Image" />](http://www.handihealth.net/pubfiles/2012/03/nhslogo1.gif)
 

@@ -6,7 +6,6 @@ categories:
 tags:
   - Election 2005
 title: Campaign Materials -  Where do they all come from?
-url: /2005/04/24/campaign-materials-where-do-they-all-come-from/
 ---
 I've been reading up on the entitlement of a prospective parliamentary candidate to the use of Royal Mail delivery services.
 

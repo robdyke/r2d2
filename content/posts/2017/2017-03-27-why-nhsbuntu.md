@@ -2,7 +2,6 @@
 authors: ["robdyke"]
 date: "2017-03-27T00:00:00Z"
 title: Why NHSbuntu?
-url: /2017/03/27/why-nhsbuntu/
 categories:
   - NHoS
 tags:

@@ -8,7 +8,6 @@ tags:
 - Mapesbury
 - Queens Park
 title: Will Brent Vote Blue and Go Green?
-url: /2006/04/19/will-brent-vote-blue-and-go-green/
 ---
 Are you serious?
 

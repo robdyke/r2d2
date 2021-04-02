@@ -7,7 +7,6 @@ tags:
 - Election 2005
 - Sarah Teather
 title: Sarah Teather Is STILL My MP
-url: /2005/05/06/sarah-teather-is-still-my-mp/
 ---
 I've woken up and eaten - needed to do that before posting anything. NK and I left the count after Sarah Teather had been returned as the MP for Brent East, but not before posting to [sarah teather is my MP](http://stmp.robdyke.com/). I've still got the 'wild eyes' I had yesterday, although that's now from lack of sleep. This politics junkie had quite an Election Day.
 

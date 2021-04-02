@@ -11,7 +11,6 @@ tags:
 - Dawn Butler
 - Election 2010
 title: Dawn Butler hording advertising at Unisys, Brentfield.
-url: /2010/05/04/butler-advertising-at-unisys-brentfield/
 ---
 "Consider a building with a few broken windows. If the windows are not repaired, the tendency is for vandals to break a few more windows. Eventually, they may even break into the building, and if it's unoccupied, perhaps become squatters or light fires inside." [Wilson and Kelling, 1982](http://en.wikipedia.org/wiki/Fixing_Broken_Windows).
 

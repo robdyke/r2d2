@@ -4,7 +4,6 @@ date: "2005-02-15T03:56:00Z"
 categories:
   - No Overall Control
 title: Congratulations Brent East.
-url: /2005/02/15/congratulations-brent-east/
 tags:
 - Sarah Teather
 - Brent East

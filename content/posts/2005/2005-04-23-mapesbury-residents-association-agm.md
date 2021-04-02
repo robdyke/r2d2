@@ -7,7 +7,6 @@ tags:
   - Election 2005
   - MAPRA
 title: Mapesbury Residents Association AGM
-url: /2005/04/23/mapesbury-residents-association-agm/
 ---
 Those active in local civil society and engaged in their neighbourhood were out at St. Gabriel's Church on Walm Lane on Thursday night for the Mapesbury Residents Association Annual General Meeting. MapRA is a large and active group of neighbours all commited to woking for the benefit of the Mapesbury community. Attendance from the membership of MapRA is good and the nave of church was full.
 

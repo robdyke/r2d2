@@ -4,7 +4,6 @@ date: "2004-06-16T15:29:32Z"
 categories:
   - No Overall Control
 title: blogging for my MP
-url: /2004/06/16/blogging-for-my-mp/
 tags:
 - Sarah Teather
 ---

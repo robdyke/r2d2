@@ -4,7 +4,6 @@ date: "2004-08-04T17:00:12Z"
 categories:
   - No Overall Control
 title: What to do with ‘grot spots’ in Brent
-url: /2004/08/04/what-to-do-with-grot-spots-in-brent/
 tags:
 - Sarah Teather
 ---

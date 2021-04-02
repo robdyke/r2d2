@@ -4,7 +4,6 @@ date: "2004-09-19T17:40:41Z"
 categories:
   - No Overall Control
 title: Party Conference Outing
-url: /2004/09/19/party-conference-outing/
 tags:
 - Sarah Teather
 ---

@@ -4,7 +4,6 @@ date: "2004-10-30T17:20:16Z"
 categories:
   - No Overall Control
 title: also from the Kilburn Times...
-url: /2004/10/30/also-from-the-kilburn-times/
 tags:
 - Sarah Teather
 - Brent

@@ -6,6 +6,5 @@ categories:
 tags:
 - Goldsmiths
 title: Goldsmiths Debating Society
-url: /2007/01/30/goldsmiths-debating-society/
 ---
 There is talk about resurecting the ['Smiths Debating Society](http://homepages.gold.ac.uk/debatingsociety/)... check out the wiki and add yourself if you are interested in this.

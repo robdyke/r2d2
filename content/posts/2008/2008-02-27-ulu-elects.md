@@ -7,7 +7,6 @@ tags:
 - Elections
 - Goldsmiths
 title: ULU Elects!
-url: /2008/02/27/ulu-elects/
 ---
 I'm beginning to suffer election fatigue what with GCSU, America, shortly London and ULU as well. Well damm representative governance, that's what I say.
 

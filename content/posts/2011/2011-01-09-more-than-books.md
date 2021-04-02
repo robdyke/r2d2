@@ -6,7 +6,6 @@ categories:
 tags:
 - Libraries
 title: More Than Books
-url: /2011/01/09/more-than-books/
 ---
 With Brent Council is proposing to "change the way residents experience libraries in the borough" let's remember that libraries are [More Than Books](http://www.morethanbooks.co.uk/).
 

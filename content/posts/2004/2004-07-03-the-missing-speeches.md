@@ -4,7 +4,6 @@ date: "2004-07-03T16:20:37Z"
 categories:
   - No Overall Control
 title: The missing speeches...
-url: /2004/07/03/the-missing-speeches/
 tags:
 - Sarah Teather
 ---

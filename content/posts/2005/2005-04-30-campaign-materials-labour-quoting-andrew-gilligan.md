@@ -8,7 +8,6 @@ tags:
   - Leaflets
   - Labour
 title: Campaign Materials -  Labour - Quoting Andrew Gilligan!
-url: /2005/04/30/campaign-materials-labour-quoting-andrew-gilligan/
 ---
 The man who claimed that New Labour had 'sexed up' the dossier on the threat possed to the United Kingdom by Sadam Hussain's Iraq is being quoted by Yasmin Qureshi on her most recent campaign material.
 

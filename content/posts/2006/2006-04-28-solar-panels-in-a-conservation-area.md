@@ -7,7 +7,6 @@ tags:
 - Green Party
 - Queens Park
 title: Solar Panels in a conservation area
-url: /2006/04/28/solar-panels-in-a-conservation-area/
 ---
 You may have read a letter in the Kilburn Times from a residents in Queen's Park questioning the sanity of planning regulations that prevent people from moving towards renewable energy. I bumped into Rupet Degas from the Brent and Harrow Green Party in Queen's Park yesterday and he nearly split our sides laughing at the lack of joined up thinking. This morning he forwarded me a reply he wrote that has, as yet, not been published by the paper.
 

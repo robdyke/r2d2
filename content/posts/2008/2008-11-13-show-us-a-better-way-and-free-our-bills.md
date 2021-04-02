@@ -8,7 +8,6 @@ tags:
 - Politics
 - open data
 title: Show Us a Better Way and Free Our Bills
-url: /2008/11/13/show-us-a-better-way-and-free-our-bills/
 ---
 It's been a busy fortnight for open-information projects and campaigns. Widely [announced](http://www.guardian.co.uk/technology/2008/nov/06/free-our-data-government "Guardian news story") and [re-announced](http://www.bbc.co.uk/blogs/ipm/2008/11/show_us_a_better_way_winner_an.shtml "BBC PM story, blog post") were the [winners](http://www.showusabetterway.co.uk/call/2008/11/and-the-winners-are.html "SUABW winners, blog post") of the [Show Us A Better Way](http://www.showusabetterway.com/ "What would you build with public information?") (SUABW) competition, sponsored by the Government, which sought new solutions to perhaps unknown problems. SUABW asked people what web-based tools they would build from public data-sources that would  improve the way public information is shared and presented.
 

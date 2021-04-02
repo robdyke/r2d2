@@ -8,7 +8,6 @@ tags:
 - Tower block
 - Queens Park
 title: JONATHAN DAVIES BRENT COUNCILLOR QUEENS PARK WARD
-url: /2006/04/13/jonathan-davies-brent-councillor-queens-park-ward/
 ---
 JONATHAN DAVIES BRENT COUNCILLOR QUEENS PARK WARD
   

@@ -4,7 +4,6 @@ date: "2009-01-07T23:04:07Z"
 categories:
   - No Overall Control
 title: a peaceful picnic at Heathrow Terminal 1
-url: /2009/01/07/a-peaceful-picnic-at-heathrow-terminal/
 ---
 "[The Climate Rush is a group of gallant women and intrepid men who will act now to save the world](http://www.climaterush.co.uk/who.html)." This is [anarchism for the middle classes](http://www.guardian.co.uk/environment/2008/dec/10/4), or at least those that don't want too much risk when out protesting. This group came to popular attention last year with a take-over of Parliament Square celebrating the centenary of the Suffragette Rush and campaigning in support of three demands: No new coal power stations, an immediate stop to all airport expansion, and 80% reductions in carbon by 2050. With number three ticked off, this group are about to tackle number two with [a protest on Monday 12th January 2009](http://www.climaterush.co.uk/whatnext.html), the day that MPs return to parliament.
 

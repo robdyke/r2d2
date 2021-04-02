@@ -6,7 +6,6 @@ tags:
 - Tactix4
 - Policy
 title: Cough up the hairball and make NHS technology open
-url: /2011/08/05/573/
 ---
 Here is a piece co-authored by me published in the [Guardian Healthcare Network on open source in the NHS](http://www.guardian.co.uk/healthcare-network/2011/aug/11/hairball-nhs-technology-open).
 

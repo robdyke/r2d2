@@ -6,7 +6,6 @@ categories:
 tags:
 - Tech
 title: Central home directories on a linux server - robdyke.com wikwikwah
-url: /2006/08/29/central-home-directories-on-a-linux-server-robdykecom-wikwikwah/
 ---
 I have been working with [Jon](http://www.catburglary.net) solving some file and print puzzles for the network that he manages. The network has Windows XP and Apple OS X clients and provides services from a Suse server running OpenLDAP for authentication and Samba for file and print.
 

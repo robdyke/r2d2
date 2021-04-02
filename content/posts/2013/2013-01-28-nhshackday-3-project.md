@@ -2,7 +2,6 @@
 authors: ["robdyke"]
 date: "2013-01-28T15:51:38Z"
 title: NHSHackday 3 - Video consultations for healthcare
-url: /2013/01/28/nhshackday-3-project/
 tags:
 - NHS Hackday
 ---

@@ -8,7 +8,6 @@ tags:
 - Freedom of Information
 - Parking
 title: Freedom of Information
-url: /2006/09/21/freedom-of-information/
 ---
 After reading (and posting) Shahrar's email I got thinking about what other information about parking and PCNs issued I could request from Brent Council under FoI.
 

@@ -6,7 +6,6 @@ categories:
 tags:
   - Election 2005
 title: Candidate List Announced
-url: /2005/04/20/candidate-list-announced/
 ---
 The candidates in the Brent East constituency have been announced. They are:
 

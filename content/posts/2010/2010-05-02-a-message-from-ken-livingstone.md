@@ -9,7 +9,6 @@ tags:
 - Labour
 - Election 2010
 title: A message from Ken Livingstone
-url: /2010/05/02/a-message-from-ken-livingstone/
 ---
 Shoring up the core vote, Ken Livingstone writes to Labour party voters/members in Brent Central. "We can't afford to have the country run like Brent Council." Letter received in Mapesbury, 2nd May.
 

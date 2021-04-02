@@ -4,7 +4,6 @@ date: "2004-09-15T13:57:02Z"
 categories:
   - No Overall Control
 title: News Round-up
-url: /2004/09/15/news-round-up/
 tags:
 - Sarah Teather
 ---

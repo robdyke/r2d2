@@ -4,7 +4,6 @@ date: "2004-06-17T21:43:07Z"
 categories:
   - No Overall Control
 title: things sarah feels strongly about
-url: /2004/06/17/things-sarah-feels-strongly-about/
 tags:
 - Sarah Teather
 ---

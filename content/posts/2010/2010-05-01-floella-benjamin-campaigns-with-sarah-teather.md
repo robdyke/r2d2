@@ -8,7 +8,6 @@ tags:
 - Liberal Democrats
 - Sarah Teather
 title: Floella Benjamin campaigns with Sarah Teather
-url: /2010/05/01/floella-benjamin-campaigns-with-sarah-teather/
 ---
 WBTimes report that "[Floella Benjamin ditched the teddy bear props" when she joined Lib Dem candidate for Brent Central](http://www.wbtimes.co.uk/content/brent/willesdenchronicle/news/story.aspx?brand=WBCOnline&category=news&tBrand=northlondon24&tCategory=newswbc&itemid=WeED30%20Apr%202010%2015%3A57%3A25%3A473), Sarah Teather this week. [Floella joined Sarah on Harlesden High Street](http://www.brentlibdems.org.uk/news/000633/floella_benjamin_backs_sarah_teather.html) to collect signatures in Harlesden, to sign up residents to a petition urging the government to reform air passenger duty.
 

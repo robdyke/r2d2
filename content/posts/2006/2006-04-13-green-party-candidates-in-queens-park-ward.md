@@ -8,7 +8,6 @@ tags:
 - Green Party
 - Queens Park
 title: Green Party Candidates in Queen's Park ward.
-url: /2006/04/13/green-party-candidates-in-queens-park-ward/
 ---
 Everyone, meet Shahrar Ali and Rupert Degas.
 

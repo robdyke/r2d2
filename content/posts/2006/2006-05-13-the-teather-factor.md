@@ -7,7 +7,6 @@ tags:
 - Brent Council
 - Sarah Teather
 title: The Teather Factor
-url: /2006/05/13/the-teather-factor/
 ---
 Speaking on the ['carnage' following the local elections in Brent](http://www.kilburntimes.co.uk/content/camden/kilburntimes/news/story.aspx?brand=KLBTOnline&#38;category=news&#38;tBrand=northlondon24&#38;tCategory=newsklbt&#38;itemid=WeED12%20May%202006%2012%3A31%3A15%3A193), Labour Cllr Mary Arnold acknowledges that Team Yellow worked hard for the victories they knotched up:
 

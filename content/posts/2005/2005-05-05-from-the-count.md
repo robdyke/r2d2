@@ -6,7 +6,6 @@ categories:
 tags:
   - Election 2005
 title: From the count....
-url: /2005/05/05/from-the-count/
 ---
 Well, I didn't expect that I'd be at the count for the Brent constituencies General Election ballot. But strange things happen in blogsphere...
 

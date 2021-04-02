@@ -6,7 +6,6 @@ categories:
 tags:
 - Elections
 title: been busy - is this the last post?
-url: /2006/05/03/been-busy-is-this-the-last-post/
 ---
 well tomorrow is the day when Brent will select its councillors. I've heard many a rumour (and started a few) and seen many a bun thrown. Could I call Mapesbury, Queen's Park or Brondesbury now? And the others in Brent East? Could I tell you have the council will look by Friday?
 

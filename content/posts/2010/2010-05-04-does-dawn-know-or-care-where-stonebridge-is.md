@@ -10,7 +10,6 @@ tags:
 - Election 2010
 - Labour
 title: Does Dawn know (or care) where Stonebridge is?
-url: /2010/05/04/does-dawn-know-or-care-where-stonebridge-is/
 ---
 On this mornings [electoral communication from the Labour Party](http://www.thestraightchoice.org/leaflets/4980), Dawn Butler highlights housing, in particular the investment in Stonebridge and St. Raphael's Estate where monstrous concrete high rises are being destroyed, replaced with low-density and low-rise housing.
 

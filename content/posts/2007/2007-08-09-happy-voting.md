@@ -8,7 +8,6 @@ tags:
 - Elections
 - Stonebridge
 title: '"Happy voting" ???'
-url: /2007/08/09/happy-voting/
 ---
 Is "Happy voting!" really the proper way to close an email announcing a Council By-election? Anyway...
   

@@ -6,7 +6,6 @@ categories:
 tags:
   - Politics
 title: What are the policies of the three main parties?
-url: /2005/04/17/what-are-the-policies-of-the-three-main-parties/
 ---
 Found quite a useful page on the [Politics](http://www.politics.co.uk/) website this morning. They have [grouped the policies of each of the three main parties on specific areas together for your comparison](http://www.politics.co.uk/codestructurepage.aspx?code=430014488&menuindex=430014385). Nifty.
 

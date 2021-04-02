@@ -8,7 +8,6 @@ tags:
   - Labour
   - Leaflets
 title: Campaign Materials - Labour
-url: /2005/04/29/campaign-materials-labour/
 ---
 I commented that there would be more on the Labour Party Brent East News 'Delivering For You'.
 

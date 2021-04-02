@@ -5,7 +5,6 @@ tags:
 - Open Source
 - NHS Hackday
 title: Hackdays - Levelling the Playing Field
-url: /2012/11/30/hackdays-levelling-the-playing-field/
 ---
 In my job at Tactix4 I worked with others in the opensource and healthcare space to produce this briefing note for Cabinet Office on the use of hackdays to achieve a level playing field for Open Source in procurement and production.
 

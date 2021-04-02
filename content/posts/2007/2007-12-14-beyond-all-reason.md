@@ -6,7 +6,6 @@ categories:
 tags:
 - Goldsmiths
 title: Beyond All Reason
-url: /2007/12/14/beyond-all-reason/
 ---
 Well... today was last day of term for two @smiths courses: Beyond All Reason and Culture, Globalisation and Power.
 

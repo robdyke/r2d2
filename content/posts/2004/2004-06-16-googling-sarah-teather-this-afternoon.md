@@ -4,7 +4,6 @@ date: "2004-06-16T19:40:07Z"
 categories:
   - No Overall Control
 title: googling “sarah teather” this afternoon
-url: /2004/06/16/googling-sarah-teather-this-afternoon/
 tags:
 - Sarah Teather
 ---

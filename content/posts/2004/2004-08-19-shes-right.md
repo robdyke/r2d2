@@ -4,7 +4,6 @@ date: "2004-08-19T13:56:39Z"
 categories:
   - No Overall Control
 title: She’s right....
-url: /2004/08/19/shes-right/
 tags:
 - Sarah Teather
 ---

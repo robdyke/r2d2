@@ -6,6 +6,5 @@ categories:
 tags:
   - Elections
 title: Live! from Brent Town Hall it'...............?
-url: /2006/05/04/live-from-brent-town-hall-its/
 ---
 Well what a difference a year makes. Last year there was smoking in the Town Hall and a late (unlicensed?) bar. This year after two major pieces of legislation (smoking ban and 24h licensing) the Town Hall is not the den it was. Shame about the bar... Now, where would I find out if the Council was licensed for the late bar last year....... 😉

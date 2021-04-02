@@ -7,7 +7,6 @@ tags:
   - Election 2005
   - BRAT
 title: Brondesbury Residents &amp; Tennants Association Meeting
-url: /2005/04/26/brondesbury-residents-tennants-association-meeting/
 ---
 Chris, a reader of this blog, writes:
 

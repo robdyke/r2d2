@@ -2,7 +2,6 @@
 authors: ["robdyke"]
 date: "2013-02-07T14:32:42Z"
 title: on re-platforming....
-url: /2013/02/07/on-re-platforming/
 ---
 This week I went to a supplier engagement event led by people from the Government Digital Services on behalf of the NHS Commissioning Board. Under discussion was the re-platforming of a major component of services provided to patients.
 

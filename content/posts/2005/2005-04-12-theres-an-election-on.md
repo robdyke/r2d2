@@ -4,7 +4,6 @@ date: "2005-04-12T02:53:00Z"
 categories:
   - No Overall Control
 title: There’s an election on...
-url: /2005/04/12/theres-an-election-on/
 tags:
 - Brent East
 - Election 2005

@@ -7,7 +7,6 @@ tags:
 - Politics
 title: Knowing who is governed is as important as knowing that those people govern
   themselves.
-url: /2009/02/09/knowing-who-is-governed-is-as-important-as-knowing-that-those-people-govern-themselves/
 ---
 When [Dave Briggs](http://davepress.net/2009/02/09/how-close-is-local/) asks 'how close is local?' on the [Local Democracy blog](http://blog.localdemocracy.org.uk/2009/02/09/how-close-is-local), he asks a very important question about democracy. If democracy is to be the rule of the the people, asking 'how close is local?' is asking the perennial question of democracy: which people? Knowing who is governed is as important as knowing that those people govern themselves.
 

@@ -5,7 +5,6 @@ tags:
 - NHS Hackday
 - Open Source
 title: AsKiT collaboration comes second at Liverpool NHS Hackday
-url: /2012/09/28/askit-collaboration-comes-second-at-liverpool-nhs-hackday/
 ---
 With the rest of Tactix4 I headed to Liverpool in September for the second NHS Hackday. We worked on a project called [AsKiT](http://wiki.nhshackday.com/wiki/AsKit) which came second. It was great to collaborate with others from NHS organisations to create problem solving code.
 

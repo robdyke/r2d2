@@ -2,7 +2,6 @@
 authors: ["robdyke"]
 date: "2013-06-27T13:40:56Z"
 title: EHI Healthcare IT Champion 2013
-url: /2013/06/27/ehi-healthcare-it-champion-2013/
 tags:
 - Open Source
 - EHI

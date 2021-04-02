@@ -7,7 +7,6 @@ tags:
   - Election 2005
   - Labour
 title: Lack of campaign materials - Labour
-url: /2005/04/23/lack-of-campaign-materials-labour/
 ---
 On the back of the Mapesbury Labour News distributed by Yasmin at the MapRA Annual General Meeting there is a list of ways to contact Yasmin: By phone: 020 8969 4550, By email: info@yasminqureshi.co.uk, By writting to: 102 Liddell Gardens, Kensal Rise, NW10 3QE.
 

@@ -7,7 +7,6 @@ tags:
   - Stop the War
   - Election 2005
 title: Catch your MP...
-url: /2005/05/13/catch-your-mp/
 ---
 The film of the Brent East STW hustings is one of a number of films documenting the views of Prospective Parliamentary Candidates on the aggressive action taken against Iraq. The [Catch Your MP](http://www.filmmakersagainstwar.org/Catch%20Your%20MP.htm) project aims to hold to account the 412 Members of the 2001-2005 Parliament that voted in support of military action.
 

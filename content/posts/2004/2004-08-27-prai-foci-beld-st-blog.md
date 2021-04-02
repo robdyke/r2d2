@@ -4,7 +4,6 @@ date: "2004-08-27T01:47:25Z"
 categories:
   - No Overall Control
 title: PRAI, FOCI, BELD, ST, BLOG!
-url: /2004/08/27/prai-foci-beld-st-blog/
 tags:
 - Sarah Teather
 ---

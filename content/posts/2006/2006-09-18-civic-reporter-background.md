@@ -8,7 +8,6 @@ tags:
 - Community Network
 - Comwifinet
 title: civic reporter - background
-url: /2006/09/18/civic-reporter-background/
 ---
 The background to all this. Comwifinet had prototyped the Civic Reporter framework which is inspired by other innovative mobile technology projects, such as that implemented by Lewisham and the mySociety 'Broken Civic Infrastructure' idea. These similar initiatives all start from the question 'Would putting pictures of abandoned cars on a map on the internet help people to think again about their role in maintaining a tidy Borough?
   

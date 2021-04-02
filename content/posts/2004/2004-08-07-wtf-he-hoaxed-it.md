@@ -4,7 +4,6 @@ date: "2004-08-07T17:09:11Z"
 categories:
   - No Overall Control
 title: WTF! He hoaxed it!
-url: /2004/08/07/wtf-he-hoaxed-it/
 ---
 > "It is unfortunate that it had to be the type of video that was offensive and shocking, but it was necessary to see how quickly this kind of thing would spread," - [Reuters](http://www.reuters.co.uk/newsPackageArticle.jhtml?type=topNews&storyID=561077&section=news)
 

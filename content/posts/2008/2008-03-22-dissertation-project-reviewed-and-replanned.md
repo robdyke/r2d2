@@ -8,7 +8,6 @@ tags:
 - Dissertation
 - Open Source
 title: dissertation project - reviewed and replanned
-url: /2008/03/22/dissertation-project-reviewed-and-replanned/
 ---
 I've been busy reviewing and replanning my dissertation project - only five weeks to go until hand-in! I've cut a lot out since my proposal last year, tightening my focus and shortening my reading lists. My four papers now look something like this...
 

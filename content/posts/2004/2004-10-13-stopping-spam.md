@@ -4,7 +4,6 @@ date: "2004-10-13T14:37:06Z"
 categories:
   - No Overall Control
 title: Stopping Spam!
-url: /2004/10/13/stopping-spam/
 tags:
 - Sarah Teather
 - SPAM

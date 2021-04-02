@@ -7,7 +7,6 @@ tags:
 - Leaflets
 - Conservatives
 title: meeting Jack Sayers
-url: /2006/04/26/meeting-jack-sayers/
 ---
 I was sitting out my step, enjoying a smoke in the evening air, when Jack Sayers walks up the drive out on the campaign trail delivering leafets. Jack has been a Councillor since 1990 so he is looking to be returned for the fourth time by this ward. The leaflet introduces us to the other two Conservative candidates, Khalid dar and Jennifer Brown.
 

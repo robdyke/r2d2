@@ -6,7 +6,6 @@ categories:
 tags:
   - Election 2005
 title: Hustings this evening.
-url: /2005/04/19/hustings-this-evening/
 ---
 Sarah Teather - and others? who knows? - will be at a hustings event this evening at Willesden Library organised by BRAVA - Brent Association for Voluntary Action.
 

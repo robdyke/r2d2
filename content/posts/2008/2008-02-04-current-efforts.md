@@ -7,7 +7,6 @@ tags:
 - Dissertation
 - Goldsmiths
 title: current efforts
-url: /2008/02/04/current-efforts/
 ---
 Plenty of keyboard time coming up over the next few weeks...
 

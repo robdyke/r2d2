@@ -4,7 +4,6 @@ date: "2004-08-05T12:10:41Z"
 categories:
   - No Overall Control
 title: Fair Trade is still a long way off
-url: /2004/08/05/fair-trade-is-still-a-long-way-off/
 tags:
 - Sarah Teather
 ---

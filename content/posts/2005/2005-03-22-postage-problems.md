@@ -4,7 +4,6 @@ date: "2005-03-22T21:24:00Z"
 categories:
   - No Overall Control
 title: Postage problems.
-url: /2005/03/22/postage-problems/
 tags:
 - Sarah Teather
 ---

@@ -6,7 +6,6 @@ tags:
 - HANDI Health
 - Open Source
 title: My HANDI Health 'live coding' workshop.
-url: /2013/11/09/my-handi-health-live-coding-workshop/
 ---
 ## The Village
 

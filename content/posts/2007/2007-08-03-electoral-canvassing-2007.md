@@ -7,7 +7,6 @@ tags:
 - Brent Council
 - Elections
 title: Electoral Canvassing 2007
-url: /2007/08/03/electoral-canvassing-2007/
 ---
 The 2007 Electoral Canvass is about to start. Once again we must all <font size="2" face="Arial">update our details on the Electoral Register.</font> <font size="2" face="Arial">Failure to do so can lead to a fine of up to £1,000. Now that</font> is what I call an incentive!
 

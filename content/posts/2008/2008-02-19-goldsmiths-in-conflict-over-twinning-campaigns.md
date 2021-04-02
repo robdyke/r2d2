@@ -7,7 +7,6 @@ tags:
 - Goldsmiths
 - Stop the War
 title: goldsmiths in conflict over twinning campaigns
-url: /2008/02/19/goldsmiths-in-conflict-over-twinning-campaigns/
 ---
 How many twins can one university have? If Goldsmiths SU passes all of the resolutions before it on conjoining in solidarity with another university it'll have a hard time buying trousers.
 

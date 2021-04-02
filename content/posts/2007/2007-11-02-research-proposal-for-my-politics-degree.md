@@ -7,7 +7,6 @@ tags:
 - Dissertation
 - Open Source
 title: research proposal for my politics degree
-url: /2007/11/02/research-proposal-for-my-politics-degree/
 ---
 This year I get to write a dissertation for my degree course. I'm going to blog the development of my focus of study and my argument here and use my wiki and other tools to share resources I've found useful. I can't wiki my work though - it needs to be all my own effort! But I will be publishing here it after its been submitted - another 10,000 words to add to the global text pool that is the internet.
 

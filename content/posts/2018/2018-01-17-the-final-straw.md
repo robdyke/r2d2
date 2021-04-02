@@ -2,7 +2,6 @@
 authors: ["robdyke"]
 date: "2018-01-17T00:00:00Z"
 title: NHoS Closedown - the final straw
-url: /2018/01/17/the-final-straw
 categories:
   - NHoS
 tags:

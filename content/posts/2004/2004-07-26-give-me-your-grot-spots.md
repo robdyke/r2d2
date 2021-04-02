@@ -4,7 +4,6 @@ date: "2004-07-26T00:30:50Z"
 categories:
   - No Overall Control
 title: Give me your grot spots!
-url: /2004/07/26/give-me-your-grot-spots/
 tags:
 - Sarah Teather
 ---

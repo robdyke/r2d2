@@ -6,7 +6,6 @@ categories:
 tags:
 - South Kilburn
 title: SKNDC leaders face probe
-url: /2006/04/13/skndc-leaders-face-probe/
 ---
 from the website of the [Kilburn Times](http://www.kilburntimes.co.uk/content/camden/kilburntimes/news/story.aspx?brand=KLBTOnline&#38;category=news&#38;tBrand=northlondon24&#38;tCategory=newsklbt&#38;itemid=WeED05%20Apr%202006%2016%3A45%3A36%3A537) (as this saves me scanning the paper):
 

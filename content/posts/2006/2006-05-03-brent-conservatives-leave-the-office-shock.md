@@ -7,7 +7,6 @@ tags:
 - Leaflets
 - Conservatives
 title: Brent Conservatives leave the office - SHOCK!
-url: /2006/05/03/brent-conservatives-leave-the-office-shock/
 ---
 I was emailed a copy of the Queen's Park Conservative Action Team campaign materials yesterday. Arwh, they are so smiley! not meanleanbusinessy-looking like some of the candidates in their campaign materials. So friendly looking I almost misstook them for the Greens!
 

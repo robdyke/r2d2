@@ -6,7 +6,6 @@ categories:
 tags:
   - Election 2005
 title: Tally marks... .. .
-url: /2005/05/06/tally-marks/
 ---
 I'm reminded of the Banksy piece in Barcelona Zoo. Tally mark after tally mark after tally mark. From what I'm seeing as I tally out the ballots as they come out of the box for the collate before the count, it really is neck and neck.
 

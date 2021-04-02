@@ -4,7 +4,6 @@ date: "2004-10-08T21:08:37Z"
 categories:
   - No Overall Control
 title: Liberal Democrat Pre-Manifesto
-url: /2004/10/08/liberal-democrat-pre-manifesto/
 tags:
 - Liberal Democrats
 ---

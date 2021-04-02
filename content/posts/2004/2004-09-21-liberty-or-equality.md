@@ -4,7 +4,6 @@ date: "2004-09-21T13:05:13Z"
 categories:
   - No Overall Control
 title: Liberty or Equality?
-url: /2004/09/21/liberty-or-equality/
 tags:
 - Sarah Teather
 ---

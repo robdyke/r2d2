@@ -6,7 +6,6 @@ categories:
 tags:
 - Goldsmiths
 title: self-publishing of recent essays
-url: /2008/05/20/self-publishing-of-recent-essays/
 ---
 I've converted some of my recent papers into web pages for easy reading online. I hope that others find them of some use, if only for the bibliographies!
 

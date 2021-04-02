@@ -4,7 +4,6 @@ date: "2004-08-04T08:44:43Z"
 categories:
   - No Overall Control
 title: Humiliated, Angry, Ashamed, Brown.
-url: /2004/08/04/humiliated-angry-ashamed-brown/
 ---
 It can be difficult to tell the difference in a battlefield situation between a [camera and a shoulder mounted missile launcher](http://www.spartacus.ws/000695.html).
 

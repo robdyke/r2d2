@@ -7,7 +7,6 @@ tags:
   - Election 2005
   - Liberal Democrats
 title: Campaign Materials - Liberal Democrats
-url: /2005/04/23/campaign-materials-liberal-democrats/
 ---
 Many postings to this blog today. It's all I've done this morning!
 

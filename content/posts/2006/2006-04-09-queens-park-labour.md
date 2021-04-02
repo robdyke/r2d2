@@ -8,7 +8,6 @@ tags:
 - Labour
 - Queens Park
 title: Queen's Park Labour
-url: /2006/04/09/queens-park-labour/
 ---
 Ever wanted to know who your queen's park labour action team are? me too. I picked up this flyer in queen's park ward in early march. The snap shows Cllrs Neil Nerva, Helga Gladbaum and Reg Freeson campaigning for safer stations and more police in Queen's park.
 

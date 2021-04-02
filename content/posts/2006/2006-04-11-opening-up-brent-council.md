@@ -6,7 +6,6 @@ categories:
 tags:
 - Brent Council
 title: opening up brent council
-url: /2006/04/11/opening-up-brent-council/
 ---
 brent council collect and publish lots and lots of information. i'm not talking about informtion that is about a person, like say census or tax information. I'm interested in the information that Brent Council spend a lot of time and money on collecting and verifying and organisaing and publishing about local organisations and projects, events and activities. and I'd like to get at it !
 

@@ -5,7 +5,6 @@ tags:
 - Neova Health
 - Open Source
 title: Our open source tool chain
-url: /2015/06/01/our-open-source-tool-chain/
 ---
 Here is a sneek peek at a presentation I shared with the Neova dev team recently. I'll be posting this to the Neova site in the next few weeks.
 

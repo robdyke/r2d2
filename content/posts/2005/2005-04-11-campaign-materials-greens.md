@@ -8,7 +8,6 @@ tags:
   - Leaflets
   - Green Party
 title: Campaign Materials -  Greens
-url: /2005/04/11/campaign-materials-greens/
 tags:
 - Brent East
 - Election 2005

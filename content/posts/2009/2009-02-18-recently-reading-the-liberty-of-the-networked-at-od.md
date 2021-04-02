@@ -8,7 +8,6 @@ tags:
 - Politics
 - open data
 title: recently reading "The Liberty of the Networked" at oD
-url: /2009/02/18/recently-reading-the-liberty-of-the-networked-at-od/
 ---
 I've recently been following Tony Curzon-Price's essay [The Liberty of the Networked](http://www.opendemocracy.net/article/email/the-liberty-of-the-networked-part-1) (and [part 2](http://www.opendemocracy.net/article/email/the-liberty-of-the-networked-pt-2) and [part 3](http://www.opendemocracy.net/article/email/the-freedom-of-the-networked-pt-3)) published over at the excellent openDemocracy.net to coincide in with [The Convention on Modern Liberty](http://www.modernliberty.net/) to be held in London and across the UK on February 28th. Tony's paper considers the social role of technology with regards to political thought and activity, comparing the liberty of the Ancients with the liberty of the Moderns to discover the liberty of the Networked.
 

@@ -6,7 +6,6 @@ categories:
 tags:
 - Sarah Teather
 title: Poke Sarah!
-url: /2007/08/18/poke-sarah/
 ---
 [Sarah Teather and other Brent Liberal Democrates have joined facebook](http://www.brentlibdems.org.uk/news/000385.html "Link to related Lib Dem news page"). I've poked her, have you?
 

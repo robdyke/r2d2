@@ -2,7 +2,6 @@
 authors: ["robdyke"]
 date: "2013-01-28T18:06:03Z"
 title: photos from NHS Hackday
-url: /2013/01/28/photos-from-nhs-hackday/
 tags:
 - NHS Hackday
 ---

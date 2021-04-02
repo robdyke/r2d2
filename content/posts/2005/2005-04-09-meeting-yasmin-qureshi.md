@@ -4,7 +4,6 @@ date: "2005-04-09T17:19:00Z"
 categories:
   - Brent East Campaigning
 title: Meeting Yasmin Qureshi
-url: /2005/04/09/meeting-yasmin-qureshi/
 tags:
 - Brent East
 - Election 2005

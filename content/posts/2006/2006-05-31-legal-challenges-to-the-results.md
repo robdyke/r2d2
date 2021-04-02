@@ -7,7 +7,6 @@ tags:
 - Elections
 - Recount
 title: legal challenges to the results
-url: /2006/05/31/legal-challenges-to-the-results/
 ---
 Last weeks' (24th May) KTimes carried two stories about potential legal challenges to the results of the Brent Council elections. I don't know what is happening with the query about the election of Cllr Pawan Gupta in Dudden Hill but I do have some news on the challenge to the count in Queen's Park.
 

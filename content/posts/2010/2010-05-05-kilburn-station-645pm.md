@@ -9,7 +9,6 @@ tags:
 - Election 2010
 - Hampstead and Kilburn
 title: Kilburn Station, 6:45pm
-url: /2010/05/05/kilburn-station-645pm/
 ---
 Busy outside Kilburn Station this evening. Picked up a whole host of goodies and the Evening Standard.
 

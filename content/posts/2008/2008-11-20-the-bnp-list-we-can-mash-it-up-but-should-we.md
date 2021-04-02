@@ -6,7 +6,6 @@ categories:
 tags:
 - Freedom of Information
 title: The BNP list - we can mash it up, but should we?
-url: /2008/11/20/the-bnp-list-we-can-mash-it-up-but-should-we/
 ---
 So, some <a href="http://news.bbc.co.uk/1/hi/uk/7736405.stm" target="_blank">digital information</a> has <a href="http://www.guardian.co.uk/politics/2008/nov/19/bnp-list" target="_blank">leaked from its home</a>. Its been played with by an <a href="http://spreadsheets.google.com/pub?key=pJaEOkd_7K3ACcUn8fj4sLQ&gid=2" target="_blank">excel monkey</a> and <a href="http://www.bnpnearme.co.uk/" target="_blank">plotted</a> on <a href="http://www.guardian.co.uk/uk/interactive/2008/nov/19/bnp" target="_blank">maps</a>. It <a href="http://www.ico.gov.uk/ESDWebPages/DoSearch.asp" target="_blank">shouldn't have happened</a>, but it has. <a href="http://en.wikipedia.org/wiki/Homer_Simpson" target="_blank">Doh</a>! doesn't quite cover it when I think of the <a href="http://www.guardian.co.uk/uk/2000/aug/30/childprotection.society" target="_blank">stupidity of some people</a>.
 

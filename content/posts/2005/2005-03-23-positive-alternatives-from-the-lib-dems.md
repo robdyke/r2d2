@@ -4,7 +4,6 @@ date: "2005-03-23T22:40:00Z"
 categories:
   - No Overall Control
 title: Positive Alternatives from the Lib Dems
-url: /2005/03/23/positive-alternatives-from-the-lib-dems/
 tags:
 - Sarah Teather
 - Liberal Democrats

@@ -5,7 +5,6 @@ tags:
 - Tactix4
 - Wardware
 title: Tactix4 with ITK ISCF award with Luton and Dunstable NHS Trust
-url: /2012/12/16/tactix4-with-itk-iscf-award-with-luton-and-dunstable-nhs-trust/
 ---
 I'm pleased that my company [Tactix4](http://www.tactix4.com/) has won two awards from The [Information Sharing Challenge Fund](http://www.dh.gov.uk/health/2012/12/sharing-challenge-funding/), a Department of Health initiative funding ideas that change the way information is used and shared between different organisations.
 

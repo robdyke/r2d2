@@ -12,7 +12,6 @@ categories:
 tags:
 - Brent Council
 title: Attendance at Council Committees.
-url: /2011/02/08/attendance-at-council-committees/
 ---
 A new record set at Brent Town Hall for a sub-committee meeting. 70 or more local residents present for Licensing Committee hearing on the extension of the License of the Herritage Inn.
 

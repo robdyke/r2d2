@@ -8,7 +8,6 @@ tags:
 - Freedom of Information
 - Parking
 title: Parking tickets in Brent and the FoI Act
-url: /2006/09/21/parking-tickets-in-brent-and-the-foi-act/
 ---
 Shahrar Ali, a Green Party candidate at both this years local and last years national elections, sent me an email yesterday on a topic important to car-owners - Penalty Charge Notices, or, rather, f'ing-tickets, as I'm sure most of us refer to them. Shahrar told me about meeting Brent residents while campaigning during the local elections and a common gripe that came up - being issued with a ticket on a public holiday.
 

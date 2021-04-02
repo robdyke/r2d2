@@ -5,7 +5,6 @@ tags:
 - Open Source
 - NHS Hackday
 title: Hackdays - Leveling the Playing Field
-url: /2020/04/08/hackdays-in-procurement
 description: Note for Cabinet Office on the use of hackdays to achieve a level playing field for Open Source in procurement and production.
 toc: true
 ---

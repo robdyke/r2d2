@@ -6,7 +6,6 @@ categories:
 tags:
 - Open Source
 title: drupal for IP Community commission
-url: /2006/01/16/drupal-for-ip-community-commission/
 ---
 Read [the Drupal README](http://drupal.org/node/35172) if you want to know what it is. Otherwise I'll assume you understand the concepts of a FLOSS modular CMS/web-application generator in a LAMP environment.
 

@@ -6,7 +6,6 @@ categories:
 tags:
 - Open Source
 title: Discussing open source on DotGovLabs
-url: /2011/04/04/discussing-open-source-on-dotgovlabs/
 ---
 I'm a member of the Cabinet Office [Skunkworks](http://en.wikipedia.org/wiki/Skunk_Works) project '[dotgovlabs](https://dotgovlabs.direct.gov.uk)', where 'innovators' post 'solutions' in different 'challenge' areas. Rather than write anything more (that you won't read) about dotgotlabs, here is a [video produced to explain the project](http://vimeo.com/21720640) ... including me and others with great faces for radio.
 

@@ -6,7 +6,6 @@ categories:
 tags:
 - Elections
 title: How are votes counted?
-url: /2006/05/19/how-are-votes-counted/
 ---
 While researching [the possibility of votes going uncounted in Queen's Park ward](http://www.robdyke.com/bec/wp-trackback.php?p=125) I've discovered many interesting pieces of information. Well, I fiund them interesting anyway. Want to know how your votes are processed after you have mailing them of pushed them into those little black boxes at the polling station? Read more....
 

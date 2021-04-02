@@ -7,7 +7,6 @@ tags:
 - Election 2010
 - MAPRA
 title: MapRA AGM and hustings tonight.
-url: /2010/04/19/mapra-agm-and-hustings-tonight/
 ---
 Election hustings and MapRA AGM at St. Gabriel's Church, Walm Lane, tonight.
 

@@ -4,7 +4,6 @@ date: "2004-06-17T22:58:02Z"
 categories:
   - No Overall Control
 title: i’m glad to see she’s consistant
-url: /2004/06/17/im-glad-to-see-shes-consistant/
 tags:
 - Sarah Teather
 ---

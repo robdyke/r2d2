@@ -6,7 +6,6 @@ categories:
 tags:
   - Election 2005
 title: See what happens when you win an election...
-url: /2005/05/09/see-what-happens-when-you-win-an-election/
 ---
 ![](http://www.comwifinet.com/sarah_teather_mp/daily03may09may.png)
 

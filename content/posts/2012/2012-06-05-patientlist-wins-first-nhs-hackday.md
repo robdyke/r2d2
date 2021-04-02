@@ -5,7 +5,6 @@ tags:
 - NHS Hackday
 - Open Source
 title: PatientList wins first NHS Hackday
-url: /2012/06/05/patientlist-wins-first-nhs-hackday/
 ---
 I participated in the first [NHS Hackday](http://nhshackday.com/) last month. The weekend event in central London brought together doctors, healthcare leaders and software developers with the aim of creating solutions to problems experienced on a daily basis in the NHS.
 

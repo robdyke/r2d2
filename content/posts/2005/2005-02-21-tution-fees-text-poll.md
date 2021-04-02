@@ -4,7 +4,6 @@ date: "2005-02-21T23:07:00Z"
 categories:
   - No Overall Control
 title: Tution Fees Text Poll
-url: /2005/02/21/tution-fees-text-poll/
 tags:
 - Sarah Teather
 - Tuition fees

@@ -8,7 +8,6 @@ tags:
 - Green Party
 - Politics
 title: Start the countdown...
-url: /2008/02/24/start-the-countdown/
 ---
 News that [Ralph Nader has announced plans to run again for the US presidency](http://news.bbc.co.uk/1/hi/world/americas/7261670.stm "BBC News item") got me googling like crazy this afternoon...
 

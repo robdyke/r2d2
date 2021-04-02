@@ -8,7 +8,6 @@ tags:
   - Labour
   - MAPRA
 title: Campaign Materials - Labour
-url: /2005/04/23/campaign-materials-labour/
 ---
 At the Mapesbury Residents Association Annnual General Meeting on Thursday night I was hoping to speak to the assembled residents about the [Community Wireless Network I am involved in running in Queen's Park](http://www.queenspark.me.uk). Having been very impressed by the collective action that MapRA have motived in their community around the [Mapesbury Dell](http://www.mapesbury-dell.org/) project and the purchase of old-fashioned, sorry, 'heritage' street lights for some of the streets, I thought that a Community Wireless Broadband Network would have been something that the residents of [Mapesbury](http://www.mapesbury.me.uk) may have been interested in working to acheive. However, due to time constraints I was unable to speak but I did distribute some leaflets to each seat in the room in the hope that people would pick it up and read it.
 

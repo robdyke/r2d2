@@ -6,7 +6,6 @@ categories:
 tags:
 - TeX
 title: making my essays look really hot
-url: /2007/11/04/making-my-essays-look-really-hot/
 ---
 (even if the content could do with some more work...)
 

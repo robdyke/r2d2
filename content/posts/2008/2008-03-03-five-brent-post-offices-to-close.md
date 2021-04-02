@@ -8,7 +8,6 @@ tags:
 - Cricklewood
 - Politics
 title: Five Brent Post Offices to close?
-url: /2008/03/03/five-brent-post-offices-to-close/
 ---
 <p class="news">
   The Government and The Post Office last year announced plans to close around 2,500 Post Offices in the UK, of which up to 169 offices in London are shortlisted. All this was <a href="http://news.bbc.co.uk/1/hi/uk/7023244.stm">announced in October</a> last year. Now the <a href="http://www.postoffice.co.uk/portal/po/content1?catId=19100175&#038;mediaId=57600693">Post Office has begun a six-week consultation</a> on plans for the capital's post offices... not that they are making a big thing about it on the website... you'll find it in small text on the right hand side under 'network changes'... <a href="http://news.bbc.co.uk/1/hi/uk/7252426.stm">Ken wants to get the consultation period doubled up to twelve</a>. Brent Lib Dems say that if the proposed closures go ahead Brent will be left with <a href="http://brentlibdems.org.uk/news/000436/post_office_announcement_another_kick_in_the_teeth_for_londoners__teather.html">just 24 Post Offices, compared with 40</a> when Labour came to power.

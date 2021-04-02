@@ -11,7 +11,6 @@ tags:
 - Liberal Democrats
 - Mapesbury
 title: While I was out....
-url: /2010/05/06/while-i-was-out/
 ---
 [<img src="/pubfiles/2010/05/6th-may-mapesbury-0001-300x134.jpg" alt="" title="6th may mapesbury 0001" width="300" height="134" class="alignleft size-medium wp-image-361" />](/pubfiles/2010/05/6th-may-mapesbury-0001.jpg)
 

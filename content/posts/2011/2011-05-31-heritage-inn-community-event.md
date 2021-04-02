@@ -12,7 +12,6 @@ categories:
 tags:
 - Cricklewood
 title: Heritage Inn Community Event
-url: /2011/05/31/heritage-inn-community-event/
 ---
 I spent Bank Holiday Monday at the Heritage Inn Community Event. It was good to meet with my neighbors and to build bridges, so we can work together for the benefit of our locality. Viva Cricklewood!
 

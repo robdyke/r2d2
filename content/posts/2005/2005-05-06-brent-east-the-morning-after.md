@@ -7,7 +7,6 @@ tags:
   - Election 2005
   - Sarah Teather
 title: Brent East - the morning after...
-url: /2005/05/06/brent-east-the-morning-after/
 ---
 I've posted over at [Brent East Campaigning](http://becampaign.blogspot.com/) about yesterday, the election count and the result - take a peek.
 

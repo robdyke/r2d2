@@ -7,7 +7,6 @@ tags:
 - Elections
 - Goldsmiths
 title: How I would have rigged the Goldsmiths College Student Elections...
-url: /2008/02/26/how-i-would-have-rigged-the-goldsmiths-college-student-elections/
 ---
 How I would have rigged the Goldsmiths College Student Elections and some recommendations for the future.
 

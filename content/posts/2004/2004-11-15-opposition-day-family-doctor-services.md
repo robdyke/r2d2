@@ -4,7 +4,6 @@ date: "2004-11-15T15:00:02Z"
 categories:
   - No Overall Control
 title: 'Opposition Day: Family Doctor Services'
-url: /2004/11/15/opposition-day-family-doctor-services/
 tags:
 - Sarah Teather
 ---

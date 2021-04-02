@@ -4,7 +4,6 @@ date: "2012-03-05T16:18:43Z"
 tags:
 - HANDI Health
 title: Here's HANDI Health
-url: /2012/03/05/heres-handi-health/
 ---
 This month I co-founded [HANDI, a new not-for-profit venture. - The Healthcare App Network for Development and Innovation](http://www.handihealth.net/about-2) with a few others in the healthcare sector.
 

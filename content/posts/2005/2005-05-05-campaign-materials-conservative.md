@@ -8,7 +8,6 @@ tags:
   - Leaflets
   - Conservative
 title: Campaign Materials -  Conservative
-url: /2005/05/05/campaign-materials-conservative/
 ---
 The Blue team managed to get a photocopied A5 flyer delivered yesterday...they must have had a few quid spare after buying all those billboards.
 

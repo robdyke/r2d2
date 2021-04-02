@@ -4,7 +4,6 @@ date: "2004-08-18T13:30:26Z"
 categories:
   - No Overall Control
 title: Meeting with Sarah Teather
-url: /2004/08/18/meeting-with-sarah-teather/
 tags:
 - Sarah Teather
 ---

@@ -10,7 +10,6 @@ tags:
 - Election 2010
 - Sarah Teather
 title: Brent's General Election results.
-url: /2010/05/08/brents-general-election-results/
 ---
 The voters of Brent have returned Lib Dem Sarah Teather with a majority of 1,345, a swing of 11% from Labour, and Labour's Barry Gardiner with [a majority of 8,028, loosing 2.5% of the vote](http://news.bbc.co.uk/1/shared/election2010/results/constituency/a63.stm) to the Conservatives (+2.2%) and other parties. I was at the count on Thursday night tally marking for the Lib Dems and in-between boxes of ballot papers talking with candidates and journalists about the political economy of Brent as a borough. And still there at 11:30 on Friday morning when the results were announced! I didn't have the stamina for the Local Election counts though!
 

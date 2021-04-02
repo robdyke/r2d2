@@ -6,7 +6,6 @@ categories:
 tags:
 - Gladstone Park
 title: GPCC 'Wordles'
-url: /2010/12/06/gpcc-wordles/
 ---
 Here are two wordles created from the feedback on the GPCC launch event speaker feedback forms and the group activities from the afternoon.
 

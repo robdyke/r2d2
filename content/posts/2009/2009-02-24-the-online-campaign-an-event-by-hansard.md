@@ -7,7 +7,6 @@ tags:
 - Hansard
 - Politics
 title: The online campaign; an event by Hansard
-url: /2009/02/24/the-online-campaign-an-event-by-hansard/
 ---
 Just digging around the Hansard Society website for a copy of the report on MPs online, published by the e-democracy unit and I found the blurb for this event, [The Online Campaign](http://hansardsociety.org.uk/blogs/upcoming_events/archive/2009/01/29/the-online-campaign-solution-or-smokescreen.aspx), in late March.
 

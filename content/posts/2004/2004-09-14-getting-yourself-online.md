@@ -4,7 +4,6 @@ date: "2004-09-14T10:00:09Z"
 categories:
   - Community Wifi
 title: Getting yourself online
-url: /2004/09/14/getting-yourself-online/
 tags:
 - Queens Park Wifi Club
 ---

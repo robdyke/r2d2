@@ -6,7 +6,6 @@ categories:
 tags:
 - Sarah Teather
 title: She speaks!
-url: /2005/05/24/she-speaks/
 ---
 > "Perhaps I can drag the right hon. Gentleman away from the spat with the Conservative Front-Bench spokesman, fun though it is..."
 

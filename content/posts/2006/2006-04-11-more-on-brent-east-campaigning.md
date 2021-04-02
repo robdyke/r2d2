@@ -6,7 +6,6 @@ categories:
 tags:
 - Brent East
 title: More on Brent East Campaigning
-url: /2006/04/11/more-on-brent-east-campaigning/
 ---
 The [b.e.c weblog](http://www.robdyke.com/bec/?page_id=2) fears without loathing the Brent East Campaign trail, posting articles and images that catalogue the activism of the political parties and some independent candidates in this area.
 

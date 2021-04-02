@@ -2,7 +2,6 @@
 authors: ["robdyke"]
 date: "2012-10-16T14:00:27Z"
 title: Videos from NHS Hackdays
-url: /2012/10/16/nhs-hackdays/
 tags:
 - NHS Hackday
 ---

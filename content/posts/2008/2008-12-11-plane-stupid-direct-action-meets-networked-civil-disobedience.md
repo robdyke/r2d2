@@ -4,7 +4,6 @@ date: "2008-12-11T15:46:33Z"
 categories:
   - No Overall Control
 title: plane stupid direct action meets networked civil disobedience
-url: /2008/12/11/plane-stupid-direct-action-meets-networked-civil-disobedience/
 ---
 Earlier this week 50 or so [Plane Stupid](http://www.planestupid.com/) activists managed to breach [Stansted Airport](http://www.stanstedairport.com/portal/page/Stansted%5EGeneral%5EAbout%20Stansted%20Airport%5EMedia%20centre%5ENews%20releases%5EResults/0114d3e04f51e110VgnVCM20000039821c0a____/a22889d8759a0010VgnVCM200000357e120a____/)'s perimeter security fence. Idiots. If someone really wanted to shutdown an airport and cause over a week of disruption, all they would have to do is get enough people to sit down.
 

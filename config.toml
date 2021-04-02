@@ -129,6 +129,7 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 degree = "/:section/:title/"
+posts = "/:year/:month/:day/:slug/"
 
 [[menu.sidebar]]
 name = "Career"

@@ -7,7 +7,6 @@ tags:
 - Sarah Teather
 - Elections
 title: Brent East by-election, 2003
-url: /2005/03/24/brent-east-by-election-2003/
 ---
 The by-election of 2003 was caused by the death of the member of Parliament for Brent East, Paul Daisley of the Labour Party. The by-election to fill his seat was held on September 13, and was won by the Liberal Democrat candidate Sarah Teather.
 

@@ -6,7 +6,6 @@ categories:
 tags:
 - Brent Council
 title: Fix My Street
-url: /2008/11/11/fix-my-street/
 ---
 Local residents group [North West Two](http://www.northwesttwo.co.uk/) are now using [Fix My Street](http://www.fixmystreet.com) to file reports with Brent Council. I'll be working with the other residents groups in my area to get links to FMS on all the community websites I can.
 

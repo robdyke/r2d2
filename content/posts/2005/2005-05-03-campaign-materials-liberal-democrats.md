@@ -8,7 +8,6 @@ tags:
   - Leaflets
   - Liberal Democrats
 title: Campaign Materials - Liberal Democrats
-url: /2005/05/03/campaign-materials-liberal-democrats-3/
 ---
 A departure from the tabloid red top of Brent News, the latest campaign freesheet from the Lib Dems, Brent News, leads with the headline of 'Sarah Set To Win' - naturally...
 

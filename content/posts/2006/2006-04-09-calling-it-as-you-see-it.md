@@ -10,7 +10,6 @@ tags:
 - Tower block
 - Queens Park
 title: calling it as you see it
-url: /2006/04/09/calling-it-as-you-see-it/
 ---
 Brent Lib Dems have been redistributing the comments made by Labour Cllr for Queen's Park Jonathan Davies on the governance and effectiveness of Brents' Labour Council.
 

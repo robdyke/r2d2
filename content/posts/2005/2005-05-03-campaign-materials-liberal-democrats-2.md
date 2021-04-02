@@ -7,7 +7,6 @@ tags:
   - Election 2005
   - Liberal Democrats
 title: Campaign Materials - Liberal Democrats
-url: /2005/05/03/campaign-materials-liberal-democrats-2/
 ---
 Received a letter from Charles Kennedy this morning urging me to vote because 'in certain places, the election is effectively a straight choice between having a Liberal Democrat or a Labour MP'.
 

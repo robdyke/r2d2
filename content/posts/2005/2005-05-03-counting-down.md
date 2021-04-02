@@ -6,7 +6,6 @@ categories:
 tags:
   - Election 2005
 title: Counting down... .. .
-url: /2005/05/03/counting-down/
 ---
 Today is May 3rd. It is 12:00. There are 47 hours of campaigning remaining until the polls open at 7am.
 

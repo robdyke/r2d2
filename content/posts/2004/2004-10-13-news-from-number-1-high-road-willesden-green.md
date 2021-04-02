@@ -4,7 +4,6 @@ date: "2004-10-13T14:18:52Z"
 categories:
   - No Overall Control
 title: News from Number 1, High Road, Willesden Green
-url: /2004/10/13/news-from-number-1-high-road-willesden-green/
 tags:
 - Sarah Teather
 - Liberal Democrats

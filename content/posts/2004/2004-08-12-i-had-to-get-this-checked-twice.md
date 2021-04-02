@@ -4,7 +4,6 @@ date: "2004-08-12T10:31:28Z"
 categories:
   - No Overall Control
 title: I had to get this checked. Twice.
-url: /2004/08/12/i-had-to-get-this-checked-twice/
 tags:
 - Labour
 ---

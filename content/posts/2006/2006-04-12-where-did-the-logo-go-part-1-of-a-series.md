@@ -8,7 +8,6 @@ tags:
 - Labour
 - Mapesbury
 title: where did the logo go? Part 1 of a series
-url: /2006/04/12/where-did-the-logo-go-part-1-of-a-series/
 ---
 The Labour Action Team have some hot Election Information for the citizens of Brent - they are ernestly distributing glossy colour A4 'Election Information',erm, leaflets? newsletters? I don't know what you'd call it. The glossy reminded us it was important for us to vote and we were **not to be talked out of it by anyone**. What was intersting was the lack of a logo. These materials where not branded Labour - the logos and the slogunogos were missing too.
 

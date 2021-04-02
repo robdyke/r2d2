@@ -4,7 +4,6 @@ date: "2004-07-28T08:52:27Z"
 categories:
   - No Overall Control
 title: I figured I needed another online presence
-url: /2004/07/28/i-figured-i-needed-another-online-presence/
 ---
 and this, temporarily, will be it.
 

@@ -6,7 +6,6 @@ categories:
 tags:
 - Goldsmiths
 title: study tools
-url: /2007/10/23/study-tools/
 ---
 I've invested a lot of time in researching and testing tools to support my studies. i wanted to to break away from so-called 'productivity tools', as in all my years of using software like Visio, Word, Outlook, I've never really been productive: too much of my time and effort has been wasted in taming the application, or repeated manually generating my desired formatting - perhaps counter-productivity tools would be more accurate.
 

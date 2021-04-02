@@ -7,7 +7,6 @@ tags:
 - Hansard
 - Politics
 title: MPs Online - Hansard Society publication
-url: /2009/02/24/mps-online-hansard-society-publication-2/
 ---
 It's [published](http://hansardsociety.org.uk/blogs/publications/archive/2009/02/24/mps-online-connecting-with-constituents.aspx).
 

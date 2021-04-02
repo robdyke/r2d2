@@ -14,7 +14,6 @@ tags:
 - Tower block
 - Queens Park
 title: Queen's Park Tower Plan
-url: /2006/04/23/queens-park-tower-plan/
 ---
 The proposal for the tower block in Queen's Park is a lead topic for each of the parties contesting the electoral ward of Queen's Park. For Labour it is getting like the Monty Python topic not to be mentioned in front of our hosts for the World Cup. The Lib Dems have made great gains from this thread - well, a sitting (yet not restanding) Councillor defected to Team Yellow with the tower plan as a key issue. The defection as on the front page of this weeks Willesden and Brent Times and the 'bun fight' at the Queen's Park Corral was analysed over a double page spread.
 

@@ -6,7 +6,6 @@ categories:
 tags:
 - Politics
 title: the price of oil, green taxes and cutting steaks in half.
-url: /2008/05/26/the-price-of-oil-green-taxes-and-cutting-steaks-in-half/
 ---
 What factors are increasing the price of oil, [recently over $135 a barrel](http://news.bbc.co.uk/1/hi/business/7414093.stm "BBC article")? Is it the speculative 'unregulated' oil trading that William Pfaff, [writing in the IHT](http://www.iht.com/articles/2008/05/23/opinion/edpfaff.php "International Herald Tribune"), criticises? Certainly the black magic of contract trading is a factor, a parasite on the 'real' market for the commodity. According to the BBC, OPEC has so far blamed price rises on speculators and says there is no shortage of oil. Likewise, Pfaff considers the present situation with rising prices dissimilar to the [1973 oil crisis](http://en.wikipedia.org/wiki/1973_oil_crisis "Wikipedia entry"), when OPEC announced that they would no longer supply oil to nations that supported Israel in its conflict with Syria and Egypt.
 

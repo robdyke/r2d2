@@ -8,7 +8,6 @@ tags:
 - Election 2010
 - Queensbury
 title: from the local press
-url: /2010/04/27/apr-local-press/
 ---
 The Willesden and Brent Times spoke to local candidates standing as independents or for the smaller parties, including [Shahrar Ali for the Green Party](http://www.shahrarali.net/ "Shahrar Ali website") and Atiq Malik.
 

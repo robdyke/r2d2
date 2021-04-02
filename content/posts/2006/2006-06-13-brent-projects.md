@@ -4,7 +4,6 @@ date: "2006-06-13T07:31:09Z"
 categories:
   - Brent East Campaigning
 title: brent projects
-url: /2006/06/13/brent-projects/
 ---
 I posted recently on what could be done next with this journal. ["wither b.e.c?" i asked.](http://www.robdyke.com/bec/wp-trackback.php?p=124 "A b.e.c. post from the past") well, new projects are on the horizon. I've been working on a community information network project with Colin George, [Chair of QPARA](http://www.qpara.org "Queen's Park Residents Association") and Director of MarketSpark (publisher of the excellent [Local Directories](http://www.local-directory.net/ "Local Directories") for Brent residents associations). We see a need to weave links between associations and organisations active in Brent and an opportunity to develop such a network in the light of the demise of Brent Community Empowerment Network.
 

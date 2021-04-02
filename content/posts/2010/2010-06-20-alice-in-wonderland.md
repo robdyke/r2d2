@@ -6,7 +6,6 @@ categories:
 tags:
 - Gladstone Park
 title: Alice in Wonderland
-url: /2010/06/20/alice-in-wonderland/
 ---
 The Madhatters Theatre Club present Alice in Wonderland.
 

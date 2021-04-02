@@ -6,7 +6,6 @@ categories:
 tags:
   - Election 2005
 title: Campaign Materials -  Liberal Democrats
-url: /2005/04/24/campaign-materials-liberal-democrats/
 ---
 After yesterdays mammouth posting session I went out for a while. I hadn't had chance to even leave the building before my mind was drawn back to this blog. More campaign materials from Sarah Teather, local Liberal Democrat. This one an official 'Election Communication' delivered by Royal Mail.
 

@@ -4,7 +4,6 @@ date: "2010-05-08T22:38:19Z"
 categories:
   - No Overall Control
 title: Fair Votes Now!
-url: /2010/05/08/fair-votes-now/
 ---
 [Guy Aitchison](http://www.opendemocracy.net/authors/guy-aitchison) from OurKingdom posted a simple question on Friday morning - [Is This Democracy](http://www.opendemocracy.net/ourkingdom/guy-aitchison/is-this-democracy)? No. No, it's not. I believe that our hung parliament can only be resolved by electoral reform. So this afternoon I [rallied with hundreds of friends](http://www.takebackparliament.com) from [many](http://votefordemocracy.org.uk/) [different](http://www.opendemocracy.net/) [groups](http://www.power2010.org.uk//) in Trafalgar Square to Smith Square shouting [Fair Votes Now](http://www.takebackparliament.com)!
 

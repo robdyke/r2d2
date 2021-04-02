@@ -6,7 +6,6 @@ categories:
 tags:
   - Election 2005
 title: Where are the Conservatives?
-url: /2005/04/19/where-are-the-conservatives/
 ---
 Since starting this blog I have met the candidiates from Labour, Greens and Liberal Democrats 'out and about' in Brent East. I'm still waiting to see Kwasi out and about... Strange not to have seen the Conservatives. During the by-election of '03 they were very visible in this constituency - I remember vividly meeting three party workers on Exeter Road who, after I had asked them for some of their campaign materials, cornered me to drill in their message. I made a lucky escape by distracting them - 'look! someone has dropped a penny!'.
 

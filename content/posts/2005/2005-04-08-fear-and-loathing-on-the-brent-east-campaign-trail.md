@@ -6,7 +6,6 @@ categories:
 tags:
 - Election 2005
 title: Fear and Loathing on the Brent East Campaign Trail
-url: /2005/04/08/fear-and-loathing-on-the-brent-east-campaign-trail/
 ---
 05.05.05 said the Indy.
   

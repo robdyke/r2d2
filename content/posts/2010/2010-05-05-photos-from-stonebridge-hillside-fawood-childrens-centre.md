@@ -9,7 +9,6 @@ tags:
 - Dawn Butler
 - Election 2010
 title: Photos from Stonebridge - Hillside & Fawood Children's Centre
-url: /2010/05/05/photos-from-stonebridge-hillside-fawood-childrens-centre/
 ---
 From wikipedia: [Stonebridge](http://en.wikipedia.org/wiki/Stonebridge,_London) is the largest electoral ward in Brent and includes Stonebridge Estate, and parts of Park Royal and Brent Park, St. Raphael's Estate, Mitchellbrook and the Hillside district. The area has strong links with the Afro-Caribbean community which forms the ward's ethnic majority.
 

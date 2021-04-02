@@ -7,7 +7,6 @@ tags:
 - Open Source
 - Tactix4
 title: A few notes on the enthusiasm around healthcare IT
-url: /2012/07/06/a-few-notes-on-the-enthusiasm-around-healthcare-it/
 ---
 There is a renewed vigor in healthcare IT. Lots of great projects curated by enthusiastic people, encouraging new thinking around the definition, development design and delivery of technology for healthcare. Here I'm thinking about [DigiHealthCon](http://digihealthcon.wordpress.com/), [HANDI](http://www.handihealth.net/), [NHS Hack Day](http://nhshackday.com/) and the [eHealthOpenSource](http://ehealthopensource.org/) competition and Pipe and Hat Club. I'm involved in three organisations: eHealth OpenSource as Secretary, HANDI as a co-founder and NHS Hack Day as a participant and advocate. When I'm not doing things relating to those three, I'm a Director of [Tactix4 Limited](http://www.tactix4.com/), an opensource healthcare IT company. I thought I'd share some of my thinking about these projects and how I see them fitting together.
 

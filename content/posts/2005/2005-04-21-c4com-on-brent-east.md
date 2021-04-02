@@ -6,7 +6,6 @@ categories:
 tags:
   - Election 2005
 title: C4.com on Brent East
-url: /2005/04/21/c4com-on-brent-east/
 ---
 From [Channel 4.com Election 2005 site](http://www.channel4.com/news/microsites/E/election2005/).
 

@@ -7,7 +7,6 @@ tags:
 - Brent Council
 - Libraries
 title: Out with the old, in with new.
-url: /2010/06/17/out-with-the-old-in-with-new/
 ---
 New signing at Cricklewood library now that Brent Archive has moved out.
 

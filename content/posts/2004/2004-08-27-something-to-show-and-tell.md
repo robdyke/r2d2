@@ -4,7 +4,6 @@ date: "2004-08-27T08:37:40Z"
 categories:
   - Community Wifi
 title: Something to show and tell.
-url: /2004/08/27/something-to-show-and-tell/
 tags:
 - Queens Park Wifi Club
 ---

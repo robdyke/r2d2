@@ -4,7 +4,6 @@ date: "2004-11-15T14:30:49Z"
 categories:
   - No Overall Control
 title: How do you know you’ve made it as an MP?
-url: /2004/11/15/how-do-you-know-youve-made-it-as-an-mp/
 tags:
 - Sarah Teather
 ---

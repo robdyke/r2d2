@@ -7,7 +7,6 @@ tags:
 - Brent Central
 - Election 2010
 title: Would Brent Central Lib Dems punish Sarah Teather for Lib/Con pact?
-url: /2010/05/10/would-brent-central-lib-dems-punish-sarah-teather-for-libcon-pact/
 ---
 Brent Central is close. Just [1,345 votes separated Labour and the Lib Dems](http://democracy.brent.gov.uk/mgElectionAreaResults.aspx?ID=52&RPID=613402), around 3% or about 1.5 voters in every 50.
 

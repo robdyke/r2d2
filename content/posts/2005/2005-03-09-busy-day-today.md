@@ -4,7 +4,6 @@ date: "2005-03-09T03:09:00Z"
 categories:
   - No Overall Control
 title: Busy day today.
-url: /2005/03/09/busy-day-today/
 tags:
 - Sarah Teather
 ---

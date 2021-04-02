@@ -8,7 +8,6 @@ tags:
   - Leaflets
   - Labour
 title: Campaign Materials - Labour
-url: /2005/05/03/campaign-materials-labour/
 ---
 Yasmin used her what will probably be the final electoral communication delivered by Royal Mail before the election to remind us that 'it's the economy, stupid!' Short of saying "if you value it, vote for it", Yasmin talked about the low mortgage rates under Gorden Brown and the fall in unemployment from New Labour's New Deal. The [National Minimum Wage](http://www.direct.gov.uk/Topics/Employment/Employees/RightsAtWork/RightsAtWorkArticle/fs/en?CONTENT_ID=4018234&chk=xYDzG9) and other 'redistributive' policies are mentioned. A few figures... A dig at the Lib Dems...
 

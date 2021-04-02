@@ -8,7 +8,6 @@ tags:
   - Leaflets
   - Labour
 title: Campaign Materials - Labour
-url: /2005/05/05/campaign-materials-labour/
 ---
 Recevied a letter from Ken Livingstone yesterday.
 

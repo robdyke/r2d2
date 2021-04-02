@@ -4,7 +4,6 @@ date: "2011-03-24T11:34:42Z"
 categories:
   - No Overall Control
 title: Brent council to allow residents to manage their personal data.
-url: /2011/03/24/brent-council-to-allow-residents-to-manage-their-personal-data/
 tags:
 - Brent Council
 ---

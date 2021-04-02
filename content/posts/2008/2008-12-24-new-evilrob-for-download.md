@@ -11,7 +11,6 @@ categories:
 tags:
 - Evil Rob
 title: New EvilRob! for download
-url: /2008/12/24/new-evilrob-for-download/
 ---
 Merry Christmas everybody.
 

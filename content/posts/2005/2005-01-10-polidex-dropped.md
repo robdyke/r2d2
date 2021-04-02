@@ -4,7 +4,6 @@ date: "2005-01-10T19:22:29Z"
 categories:
   - No Overall Control
 title: Polidex dropped....
-url: /2005/01/10/polidex-dropped/
 ---
 They said they'd be back soon.... They are almost as bad as me!
 

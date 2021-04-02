@@ -4,7 +4,6 @@ date: "2004-10-20T15:58:10Z"
 categories:
   - No Overall Control
 title: Privacy and SPAM
-url: /2004/10/20/privacy-and-spam/
 tags:
 - Sarah Teather
 - SPAM

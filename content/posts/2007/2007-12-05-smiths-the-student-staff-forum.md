@@ -6,7 +6,6 @@ categories:
 tags:
 - Goldsmiths
 title: '@smiths... the student staff forum.'
-url: /2007/12/05/smiths-the-student-staff-forum/
 ---
 I should be I should be writing about Appadurai's theory of globalisation, but I wanted to write about the student staff forum meeting I attended today more...
 

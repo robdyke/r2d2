@@ -7,7 +7,6 @@ tags:
 - Brent Central
 - Election 2010
 title: Atiq Malik standards board inquiry
-url: /2010/05/01/atiq-malik-standards-board-inquiry/
 ---
 More on Atiq Malik, independent candidate in Brent Central, on this weeks [WBTimes front page](http://tinyurl.com/3aoad4w). They don't disclose the nature of the allegations against him for 'legal reasons' and the internet isn't throwing up rumours for me to link to, not even on Labour Cllr James Powney's blog - although there is a great archive of items on [Atiq Malik's views on women and optioning aspects of Sharia Law for UK Muslims](http://jamespowney.blogspot.com/2010/02/cllr-atiq-maliks-legal-threat.html).
 

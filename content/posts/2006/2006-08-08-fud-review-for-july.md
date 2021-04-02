@@ -9,7 +9,6 @@ tags:
 - Labour
 - Liberal Democrats
 title: FUD review for July
-url: /2006/08/08/fud-review-for-july/
 ---
 FUD? Check [wikipedia](http://en.wikipedia.org/wiki/Fud#Non-computer_uses "Definition: FUD - Non-computer uses")...
 

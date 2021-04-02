@@ -4,7 +4,6 @@ date: "2004-08-17T09:33:16Z"
 categories:
   - Community Wifi
 title: Queens Park Open Day
-url: /2004/08/17/queens-park-open-day/
 tags:
 - Queens Park Wifi Club
 ---

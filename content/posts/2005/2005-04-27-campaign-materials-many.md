@@ -7,7 +7,6 @@ tags:
 - Leaflets
 - Election 2005
 title: Campaign Materials -  Many!
-url: /2005/04/27/campaign-materials-many/
 ---
 More campaign materials from Sarah Teather.
 

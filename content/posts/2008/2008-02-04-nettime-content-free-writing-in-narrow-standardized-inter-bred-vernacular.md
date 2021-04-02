@@ -4,7 +4,6 @@ date: "2008-02-04T09:33:17Z"
 categories:
   - No Overall Control
 title: nettime - content-free writing in narrow standardized inter-bred vernacular
-url: /2008/02/04/nettime-content-free-writing-in-narrow-standardized-inter-bred-vernacular/
 ---
 nettime - content-free writing in narrow standardized inter-bred vernacular.
 

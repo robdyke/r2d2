@@ -8,7 +8,6 @@ tags:
   - Leaflets
   - Green Party
 title: Campaign Materials - Green Party
-url: /2005/04/12/campaign-materials-greens/
 ---
 [Brent East Green News - A4 newsletter - Front Page - JPG](http://www.comwifinet.com/becampaign/be_green_news_fr.jpg)
 

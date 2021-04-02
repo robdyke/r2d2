@@ -4,7 +4,6 @@ date: "2005-02-15T03:34:00Z"
 categories:
   - No Overall Control
 title: Feeling blue?
-url: /2005/02/15/feeling-blue/
 tags:
 - Liberal Democrats
 - Brent

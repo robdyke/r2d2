@@ -11,7 +11,6 @@ tags:
 - Dawn Butler
 - Election 2010
 title: WB Times "Butler told to apologise"
-url: /2010/04/23/wb-times-butler-told-to-apologise/
 ---
 Brent's Labour Group formal apology for issuing leaflets with defamatory claims about Sarah Teather is on page 4 of the WB Times this week.
 

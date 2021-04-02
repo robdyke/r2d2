@@ -5,7 +5,6 @@ categories:
   - Community Wifi
 title: New nodes increasing coverage... technology solutions for members... problems
   with banking...
-url: /2004/12/13/new-nodes-increasing-coverage-technology-solutions-for-members-problems-with-banking/
 tags:
 - Queens Park Wifi Club
 ---

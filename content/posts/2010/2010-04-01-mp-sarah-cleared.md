@@ -10,7 +10,6 @@ tags:
 - Sarah Teather
 - Election 2010
 title: MP Sarah Cleared
-url: /2010/04/01/mp-sarah-cleared/
 aliases:
   - /bec/2010/04/01/mp-sarah-cleared-2/
   

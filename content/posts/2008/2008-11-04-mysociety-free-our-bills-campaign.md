@@ -8,7 +8,6 @@ tags:
 - open data
 - Sarah Teather
 title: MySociety's 'Free Our Bills' campaign
-url: /2008/11/04/mysociety-free-our-bills-campaign/
 ---
 Today I've accessed three different MySociety websites: [TheyWorkForYou](http://www.theyworkforyou.com/), [WriteToThem](http://www.writetothem.com/) and [WhatDoTheyKnow](http://www.whatdotheyknow.com).  I honestly don't know what I'd do without these powerful tools: MySociety are indespensible and we'd all miss them if they weren't here.
 

@@ -9,7 +9,6 @@ categories:
 tags:
 - Tech
 title: Using Shrew Soft VPN client with a Cisco RV 120W
-url: /2011/04/24/using-shrew-soft-vpn-client-with-a-cisco-rv-120w/
 ---
 After much fruitless searching for helpful documentation to assist me in setting up the VPN services on a [Cisco RV 120W](http://www.cisco.com/en/US/products/ps10852/index.html) to work with the open source client from [Shrew Soft](http://www.shrew.net/), I thought I'd better make a post here to help others.
 

@@ -7,7 +7,6 @@ tags:
 - Freedom of Information
 - Politics
 title: UKCOD, whatdotheyknow and other web projects for shaking up democracy
-url: /2008/03/25/ukcod-whatdotheyknow-and-other-web-project-for-shaking-up-democracy/
 ---
 UK Citizens Online Democracy's (UKCOD) main activity is running the <a href="http://www.mysociety.org/" class="external text" title="http://www.mysociety.org" rel="nofollow">mySociety</a> project, building websites which "give people simple, tangible benefits in the civic and community aspects of their lives."
 

@@ -6,7 +6,6 @@ categories:
 tags:
   - Election 2005
 title: Postal Voting Application Deadline Today
-url: /2005/04/26/postal-voting-application-deadline-today/
 ---
 From Brent Council's email alert service:
 

@@ -6,7 +6,6 @@ tags:
 - HSCIC
 - Open Source
 title: Community and Governance
-url: /2013/11/14/community-and-governance/
 ---
 This is the second in a short series of posts where I'm looking at the announcements from NHS England / HSCIC in support of open source solutions for NHS organisations. In this post I'm looking at the role of governance and community around open source projects.
 

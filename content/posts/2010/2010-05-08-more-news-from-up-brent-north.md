@@ -8,7 +8,6 @@ tags:
 - Brent North
 - Expenses
 title: More news from up Brent North
-url: /2010/05/08/more-news-from-up-brent-north/
 ---
 I met this chap while out on the [Unlock Democracy](http://www.unlockdemocracy.org.uk/) / [Hang-em](http://hang-em.com/) rally this afternoon.
 

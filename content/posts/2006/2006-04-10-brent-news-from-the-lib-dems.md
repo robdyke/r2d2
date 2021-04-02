@@ -11,7 +11,6 @@ tags:
 - Tower block
 - Willesden Green
 title: Brent News from the Lib Dems
-url: /2006/04/10/brent-news-from-the-lib-dems/
 ---
 This local red top was delivered in late February. It leads with the news of the Liberal Democrats delivering a "[hammer blow" to Labour](http://www.brentlibdems.org.uk/news/285.html "Link to Brent Lib dems news page")" in Dunfermline by-election.
 

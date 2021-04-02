@@ -7,7 +7,6 @@ tags:
 - Election 2010
 - Ubuntu
 title: Beam me up scottie.
-url: /2010/05/02/beam-me-up-scottie/
 ---
 [Operation Lucid - Ubuntu in London](http://chriskenyon.typepad.com/my_weblog/2010/04/operation-london-loves-lucid.html)
   

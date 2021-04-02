@@ -4,7 +4,6 @@ date: "2004-08-15T14:00:03Z"
 categories:
   - No Overall Control
 title: Where did they get the idea for this from?
-url: /2004/08/15/where-did-they-get-the-idea-for-this-from/
 tags:
 - Politics
 ---

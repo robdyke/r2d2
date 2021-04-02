@@ -4,7 +4,6 @@ date: "2004-07-09T16:29:15Z"
 categories:
   - No Overall Control
 title: Question Time Last Night
-url: /2004/07/09/question-time-last-night/
 tags:
 - Sarah Teather
 - BBCQT

@@ -4,7 +4,6 @@ date: "2005-04-08T09:07:00Z"
 categories:
   - No Overall Control
 title: Brent East Campaign Trail
-url: /2005/04/08/brent-east-campaign-trail/
 tags:
 - Brent East
 - Election 2005

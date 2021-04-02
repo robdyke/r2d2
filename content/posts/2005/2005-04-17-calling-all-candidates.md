@@ -6,7 +6,6 @@ categories:
 tags:
   - Election 2005
 title: Calling all candidates
-url: /2005/04/17/calling-all-candidates/
 ---
 An open letter, to be emailed to each of the candidates standing in Brent East at the forthcoming general election.
 

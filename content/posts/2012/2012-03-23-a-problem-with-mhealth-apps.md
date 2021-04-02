@@ -5,7 +5,6 @@ tags:
 - HANDI Health
 - Apps
 title: A problem with mHealth apps....
-url: /2012/03/23/a-problem-with-mhealth-apps/
 ---
 From a thread on the handihealth discussion group.
 

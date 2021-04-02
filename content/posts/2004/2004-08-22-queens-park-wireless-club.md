@@ -4,7 +4,6 @@ date: "2004-08-22T12:55:14Z"
 categories:
   - Community Wifi
 title: Queen’s Park Wireless Club
-url: /2004/08/22/queens-park-wireless-club/
 tags:
 - Queens Park Wifi Club
 ---

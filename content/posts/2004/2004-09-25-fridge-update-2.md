@@ -4,7 +4,6 @@ date: "2004-09-25T18:39:36Z"
 categories:
   - No Overall Control
 title: Fridge Update
-url: /2004/09/25/fridge-update-2/
 tags:
 - Brent
 ---

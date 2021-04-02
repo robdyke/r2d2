@@ -7,7 +7,6 @@ tags:
 - Open Source
 - Goldsmiths
 title: extending `smiths library services
-url: /2007/10/23/extending-smiths-library-services/
 ---
 Goldsmiths SU has successfully campaigned for changes in the opening hours of the colleges library and ICT facilities. I'm interested in exploring what other ways the information that is stored in the library building can opened up to the benefit of students and staff alike. I'm not so much speaking about new things that the library can do, rather I am interested in ways in which existing services and resources could be linked up, extending their use.
 

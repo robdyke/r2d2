@@ -7,7 +7,6 @@ tags:
   - Election 2005
   - Green Party
 title: Campaign Materials -  Greens
-url: /2005/05/03/campaign-materials-greens/
 ---
 I was speaking to Shahrar Ali last night about the Green campaign in Brent East and Brent South.
 

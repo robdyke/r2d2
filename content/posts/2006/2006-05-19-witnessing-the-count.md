@@ -8,7 +8,6 @@ tags:
 - Queens Park
 - Recount
 title: Witnessing the count
-url: /2006/05/19/witnessing-the-count/
 ---
 The suggestion that a number of votes went uncounted at the local election is based on what was witnessed by Shahrar Ali on the night. There is no way that Shahrar could have seen all the ballot papers in for the Queen's Park ward, but he did witness the first sort and count of the block votes and also the count of the 'splits' and the paper with unallocated votes.
 

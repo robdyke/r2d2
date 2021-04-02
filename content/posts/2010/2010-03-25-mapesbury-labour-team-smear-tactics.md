@@ -9,7 +9,6 @@ tags:
 - Liberal Democrats
 - Sarah Teather
 title: Mapesbury Labour Team smear tactics....?
-url: /2010/03/25/mapesbury-labour-team-smear-tactics/
 ---
 In a recent letter to residents of the Mapesbury ward of Brent Central, Labours' candidate Angela Griggs slings a little mud on expenses. Apparently complains have been made to the Parliamentary Standards Commissioner about Sarah Teathers' expenses in relation to her constituency office.
 

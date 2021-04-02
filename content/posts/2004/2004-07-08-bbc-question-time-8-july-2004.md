@@ -4,7 +4,6 @@ date: "2004-07-08T13:30:51Z"
 categories:
   - No Overall Control
 title: BBC Question Time 8 July 2004
-url: /2004/07/08/bbc-question-time-8-july-2004/
 tags:
 - Sarah Teather
 - BBCQT

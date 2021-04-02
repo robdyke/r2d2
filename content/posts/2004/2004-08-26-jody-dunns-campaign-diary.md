@@ -4,7 +4,6 @@ date: "2004-08-26T15:23:18Z"
 categories:
   - No Overall Control
 title: Jody Dunn’s Campaign Diary
-url: /2004/08/26/jody-dunns-campaign-diary/
 tags:
 - Politics
 - Liberal Democrats

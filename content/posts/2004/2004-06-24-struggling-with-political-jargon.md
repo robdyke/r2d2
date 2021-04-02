@@ -4,7 +4,6 @@ date: "2004-06-24T00:48:32Z"
 categories:
   - No Overall Control
 title: Struggling with political jargon?
-url: /2004/06/24/struggling-with-political-jargon/
 tags:
 - Politics
 ---

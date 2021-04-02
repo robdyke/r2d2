@@ -4,7 +4,6 @@ date: "2012-12-11T15:22:32Z"
 tags:
 - HANDI Health
 title: The HANDI approach to innovation.
-url: /2012/12/11/the-handi-approach-to-innovation/
 ---
 [Dick Vinegar, the Patient From Hell](http://www.guardian.co.uk/profile/dick-vinegar), wrote about the [Westminster Health Forum](http://www.westminsterforumprojects.co.uk/forums/index.php?fid=westminster_health_forum) last month on "accelerating innovation in healthcare" at which I was presenting.
 

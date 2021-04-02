@@ -4,7 +4,6 @@ date: "2004-06-23T00:10:09Z"
 categories:
   - No Overall Control
 title: tom watson MP stopped by...
-url: /2004/06/23/tom-watson-mp-stopped-by/
 tags:
 - Sarah Teather
 ---

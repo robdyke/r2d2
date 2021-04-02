@@ -4,7 +4,6 @@ date: "2004-09-13T16:39:52Z"
 categories:
   - Community Wifi
 title: And now you’re live!
-url: /2004/09/13/and-now-youre-live/
 tags:
 - Queens Park Wireless Club
 ---

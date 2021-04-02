@@ -4,7 +4,6 @@ date: "2004-09-16T09:43:25Z"
 categories:
   - Community Wifi
 title: News from the launch
-url: /2004/09/16/news-from-the-launch/
 tags:
 - Queens Park Wifi Club
 ---

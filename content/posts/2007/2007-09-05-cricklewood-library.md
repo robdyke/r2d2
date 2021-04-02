@@ -8,7 +8,6 @@ tags:
 - Libraries
 - Mapesbury
 title: Cricklewood Library
-url: /2007/09/05/cricklewood-library/
 ---
 I have heard rumors locally about the closure of Cricklewood library and <span id="OBJ_PREFIX_DWT719" class="Object">today</span> signed a petition, organised by Friends of Cricklewood Library to keep it open.
 

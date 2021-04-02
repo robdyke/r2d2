@@ -6,7 +6,6 @@ categories:
 tags:
 - Elections
 title: Brent, are you voting?
-url: /2006/05/04/brent-are-you-voting/
 ---
 I can see people reading this blog. There have been 216 of you this last week and 48 readers so far today! Are you voting, Brent people? Who are you voting for? Why? Why vote at all? Got any comments? After all, it's Your Council for Your Street and Your Services - Are you having your say?
 

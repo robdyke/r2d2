@@ -9,7 +9,6 @@ tags:
 - Comwifinet
 - South Kilburn
 title: SKNDC community network ideas
-url: /2006/09/19/skndc-community-network-ideas/
 ---
 Last year [SKNDC](http://www.skndc.net/) advertised for interested parties to propose solutions for a wireless network project in South Kilburn. Comwifinet responded and we won the work. Yet the project was shelved as the budget for ICT in the Home ran out.
 

@@ -4,7 +4,6 @@ date: "2004-08-03T12:21:29Z"
 categories:
   - No Overall Control
 title: Putting the ‘F’ back in Freedom
-url: /2004/08/03/putting-the-f-back-in-freedom/
 ---
 This season, I shall mostly be looking forward to ['Team America: World Police'](http://www.teamamericamovie.com/).
 

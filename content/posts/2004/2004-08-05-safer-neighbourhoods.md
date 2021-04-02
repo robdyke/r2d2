@@ -4,7 +4,6 @@ date: "2004-08-05T11:48:54Z"
 categories:
   - No Overall Control
 title: Safer Neighbourhoods
-url: /2004/08/05/safer-neighbourhoods/
 tags:
 - Sarah Teather
 - Brent

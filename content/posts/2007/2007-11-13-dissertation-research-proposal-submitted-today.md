@@ -6,7 +6,6 @@ categories:
 tags:
 - Dissertation
 title: dissertation research proposal submitted today
-url: /2007/11/13/dissertation-research-proposal-submitted-today/
 ---
 Phew! Completed the text, committed to my repository, created a PDF, printed the output.
 

@@ -7,7 +7,6 @@ tags:
 - Brent Central
 - Election 2010
 title: Sarah Teather Is Our MP
-url: /2010/05/07/sarah-teather-is-our-mp/
 ---
 [Sarah Teather was returned to parliament by the voters of Brent Central](http://news.bbc.co.uk/nol/shared/election2010/results/constituency/a62.stm).
 

@@ -4,7 +4,6 @@ date: "2004-07-29T22:22:32Z"
 categories:
   - No Overall Control
 title: 'HOWTO: blog for your MP'
-url: /2004/07/29/howto-blog-for-your-mp/
 tags:
 - Sarah Teather
 - Politics

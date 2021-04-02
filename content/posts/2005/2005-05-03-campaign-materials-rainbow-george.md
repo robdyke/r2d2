@@ -7,7 +7,6 @@ tags:
   - Election 2005
   - George Rainbow Weiss
 title: Campaign Materials - Rainbow George
-url: /2005/05/03/campaign-materials-rainbow-george/
 ---
 So, did you get your Preferendum from George 'Rainbow' Weiss last week? You can't have missed it: it was an A3 sheet of paper folded to A4 and covered with text. What was curious about the materials was the lack of photographs - no pic of Rainbow George, no pic of Tony Bush and George Blair.
 

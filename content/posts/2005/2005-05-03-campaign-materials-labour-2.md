@@ -8,7 +8,6 @@ tags:
   - Leaflets
   - Labour
 title: Campaign Materials - Labour
-url: /2005/05/03/campaign-materials-labour-2/
 ---
 Here's a scan of the Brent East Labour News '"I'm Backing Yasmin"' I picked up at Kilburn Station last week.
 

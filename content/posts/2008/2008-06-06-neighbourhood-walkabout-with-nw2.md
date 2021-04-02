@@ -7,7 +7,6 @@ tags:
 - Mapesbury
 - NW2
 title: Neighbourhood Walkabout with NW2 4th June
-url: /2008/06/06/neighbourhood-walkabout-with-nw2/
 ---
 This week [NorthWestTwo](http://www.northwesttwo.co.uk/) organised a neighbourhood walkabout with local Councillors [Matthews](http://www.brent.gov.uk/democracy.nsf/66d8b8e642f063d780256a9400404f4e/4b67df26cc9c61a88025716b0035bd95!OpenDocument "Cllr Hayley Matthews") and [Hashmi](http://www.brent.gov.uk/democracy.nsf/66d8b8e642f063d780256a9400404f4e/0dd95166cfaf57068025716b003592bb!OpenDocument "Cllr Sami Hashmi"), officer(s) from Brent Council Street Care, John Rymer and Vikash Mistry from the Neighbourhood WorkingTeam along with the officers from the [Mapesbury ward Safer Neighbourhood Team](http://www.met.police.uk/saferneighbourhoods/boroughs/brent/saferneighbourhoods.htm "Metropolitian Police").
 

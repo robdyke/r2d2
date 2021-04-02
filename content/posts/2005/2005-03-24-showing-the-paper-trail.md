@@ -6,7 +6,6 @@ categories:
 tags:
   - Election 2005
 title: Showing the paper trail...
-url: /2005/03/24/showing-the-paper-trail/
 ---
 Election 2005. You know its coming. I know its coming. It has been trailed more heavily than a Lord of the Rings movie. You probably think its all happened already given the amount of comment and analysis in the media. Slow news year?
 

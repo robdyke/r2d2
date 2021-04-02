@@ -6,7 +6,6 @@ categories:
 tags:
 - Elections
 title: my thoughts on the results
-url: /2006/05/03/my-thoughts-on-the-results/
 ---
 what do I think? I think the Green's have won it really. I expect them to gain two seats, well, at least one in Queen's Park. Also, I think that Cameron may have spoken to a lot of people at a local level and Team Blue will make a few gains. Team Yellow (Look for the Bird!) will also make gains, probably bringing them level with the Blues... These gains will be to someones loss: Team Read.
 

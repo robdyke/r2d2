@@ -7,7 +7,6 @@ tags:
   - Election 2005
   - Leaflets
 title: Campaign Materials - Many!
-url: /2005/05/04/campaign-materials-many/
 ---
 More from Kwasi Kwarteng!
   

@@ -6,7 +6,6 @@ categories:
 tags:
 - Goldsmiths
 title: E-Benchmarking for Goldsmiths CELT
-url: /2007/08/09/e-benchmarking-for-goldsmiths-celt/
 ---
 Towards the end of term at Goldsmiths I participated in a huge number of half-baked surveys and poorly designed questionnaires. Still, that's my own fault for saying 'Yes' to all the last minute BA Sociology / Psychology students, desperate to get some data to evaluate for their assignments. The E-benchmarking survey for [CELT](http://www.goldsmiths.ac.uk/learning/ "Goldsmiths centre for e-learning excellence"), on the other hand, was a focused piece of qualitative research using interviews with students to benchmark e-learning activity at Goldsmiths.
 

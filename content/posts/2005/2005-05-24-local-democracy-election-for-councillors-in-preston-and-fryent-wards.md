@@ -6,7 +6,6 @@ categories:
 tags:
 - Elections
 title: 'Local Democracy: Election for Councillors in Preston and Fryent wards.'
-url: /2005/05/24/local-democracy-election-for-councillors-in-preston-and-fryent-wards/
 ---
 While technically in [Brent North](http://www.brent.gov.uk/elections.nsf/2f123bcc3c5e238c80256ad20034644f/140245e5895cc69480256c07005c1943!OpenDocument) the elections for local councillors for the Preston and Fryent wards of Brent still need reporting - and where better then here?
 

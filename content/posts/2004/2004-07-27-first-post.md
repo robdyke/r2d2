@@ -4,7 +4,6 @@ date: "2004-07-27T21:03:49Z"
 categories:
   - No Overall Control
 title: First post!
-url: /2004/07/27/first-post/
 ---
 Wooooooohhaaaaaaaa!
 

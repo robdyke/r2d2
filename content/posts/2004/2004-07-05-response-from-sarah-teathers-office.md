@@ -4,7 +4,6 @@ date: "2004-07-05T17:36:24Z"
 categories:
   - No Overall Control
 title: Response from Sarah Teather’s Office
-url: /2004/07/05/response-from-sarah-teathers-office/
 tags:
 - Sarah Teather
 ---

@@ -6,7 +6,6 @@ categories:
 title: Take Back Parliament
 tags:
 - Election 2010
-url: /2010/05/10/take-back-parliament/
 ---
 Here is my video taken at the [TakeBackParliament](http://news.bbc.co.uk/1/hi/uk/8670002.stm) protest on Saturday.
 

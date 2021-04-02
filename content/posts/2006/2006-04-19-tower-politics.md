@@ -7,7 +7,6 @@ tags:
 - Tower block
 - Queens Park
 title: Tower Politics
-url: /2006/04/19/tower-politics/
 ---
 Over at stopthetower a recent email news update has been posted by Barney Cokeliss. Go read it for the stopthetower campaign group's update on the proposed tower block development in Queen's Park.
 

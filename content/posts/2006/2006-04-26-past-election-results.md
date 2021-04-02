@@ -7,7 +7,6 @@ tags:
 - Brent East
 - Elections
 title: Past Election Results
-url: /2006/04/26/past-election-results/
 ---
 One sure-fire way of demonstrating that you have some skill with a computer is to generate a barchart from some data in a spreadsheet program like [Calc (in openoffice)](http://www.openoffice.org/ "Get it! It's FREE!") or a program from Microsoft. Both the Lib Dems and the Conservatives have got someone on their team that would pass a European Computer Driving License test no problem.
 

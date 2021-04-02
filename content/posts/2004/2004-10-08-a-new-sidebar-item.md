@@ -4,7 +4,6 @@ date: "2004-10-08T20:54:35Z"
 categories:
   - No Overall Control
 title: A new sidebar item
-url: /2004/10/08/a-new-sidebar-item/
 ---
 > Polidex is an online trading game based on how good our MPs are.
 

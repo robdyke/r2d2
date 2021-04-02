@@ -8,7 +8,6 @@ tags:
 - Community Network
 - Comwifinet
 title: civic reporter developments
-url: /2006/09/18/civic-reporter-developments/
 ---
 early last week I met with two people from Brent Council Environment &#38; Culture Department to discuss the Civic Reporter ideas and application framework that Comwifinet have been working on. A great opportunity to discuss how open accessible data could further develop participation in the up keep of the Borough. Brent Council considering working with a Made In Brent technology organisation and mobile technologies. Brent Council entertaining the public publishing daily status and performance information online. I was also keen to know more about the current use of mobile technologies by Brent and also about the techie stuff that pins their operations together.
 

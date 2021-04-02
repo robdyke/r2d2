@@ -4,7 +4,6 @@ date: "2006-05-08T16:40:43Z"
 categories:
   - Brent East Campaigning
 title: wither bec?
-url: /2006/05/08/wither-bec/
 ---
 I think we are all voted out. When I say 'we' I mean the <font size="2" face="Arial">37.26% that voted. And for the rest of you?</font> election fatigue or political fatigue [disconnected, not apathetic](http://www.powerinquiry.org/index.php)? we'll see. so, wither bec?
 

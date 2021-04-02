@@ -7,7 +7,6 @@ tags:
 - Open Source
 - Goldsmiths
 title: goldsmiths wiki
-url: /2007/12/05/goldsmiths-wiki/
 ---
 @smiths now has [wiki space](http://wiki.gold.ac.uk "Goldsmiths Wiki Server") at a cost of around £2000 for the software licenses (1).
 

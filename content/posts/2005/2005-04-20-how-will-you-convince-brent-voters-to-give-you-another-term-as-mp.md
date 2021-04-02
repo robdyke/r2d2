@@ -6,7 +6,6 @@ categories:
 tags:
   - Election 2005
 title: How will you convince Brent voters to give you another term as MP?
-url: /2005/04/20/how-will-you-convince-brent-voters-to-give-you-another-term-as-mp/
 ---
 In December 2003, Simon Ellis interviewed Sarah for [myBrent.co.uk](http://www.mybrent.co.uk/).
 

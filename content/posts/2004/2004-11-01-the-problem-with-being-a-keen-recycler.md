@@ -4,7 +4,6 @@ date: "2004-11-01T13:10:54Z"
 categories:
   - No Overall Control
 title: The problem with being a keen recycler...
-url: /2004/11/01/the-problem-with-being-a-keen-recycler/
 tags:
 - Sarah Teather
 ---

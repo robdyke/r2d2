@@ -4,7 +4,6 @@ date: "2004-07-03T15:57:52Z"
 categories:
   - No Overall Control
 title: making the spoken word more informing...
-url: /2004/07/03/making-the-spoken-word-more-informing/
 tags:
 - Sarah Teather
 ---

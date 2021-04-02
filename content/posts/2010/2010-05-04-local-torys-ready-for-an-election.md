@@ -8,7 +8,6 @@ tags:
 - Leaflets
 - Election 2010
 title: Local Torys ready for an election.
-url: /2010/05/04/local-torys-ready-for-an-election/
 ---
 Torys care for mapesbury! Is the exclamation mark is necessary? Well, I'm as surprised as they are, so I guess so!
 

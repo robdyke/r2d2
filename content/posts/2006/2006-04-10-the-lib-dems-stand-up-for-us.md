@@ -8,7 +8,6 @@ tags:
 - Council Tax
 - Liberal Democrats
 title: "the lib dems stand up for us"
-url: /2006/04/10/the-lib-dems-stand-up-for-us/
 ---
 _"the lib dems stand up for us"_ ? well it is a Brent Lib Dem flyer... this flyer arrived in either late Feb or early March - the trail started early for the BELD team.
 

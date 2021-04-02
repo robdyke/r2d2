@@ -7,7 +7,6 @@ tags:
   - Election 2005
   - Conservatives
 title: Campaign Materials - Conservatives
-url: /2005/04/23/campaign-materials-conservatives/
 ---
 When I met Kwasi on Thursday at the MapRA AGM I mentioned to him that I hadn't seen any campaign materials from him over the last couple of weeks. Yesterday an Election Communiation from Brent East Conservatives was delivered by Royal Mail.
 

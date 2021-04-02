@@ -5,7 +5,6 @@ tags:
 - HSCIC
 - Policy
 title: dissecting a major Govt IT project to deliver a political objective
-url: /2013/11/05/dissecting-a-major-govt-it-project-to-deliver-a-political-objective/
 ---
 Some notes taken on observing people the other side of the pond dissecting a major Govt IT project to deliver a political objective.
 

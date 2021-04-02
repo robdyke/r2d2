@@ -7,7 +7,6 @@ tags:
   - Election 2005
   - Leaflets
 title: Campaign Materials -  Michele Weininger
-url: /2005/05/05/campaign-materials-michele-weininger/
 ---
 The independent candidate for Brent East fighting for Justice for Motorists from the 'totalitarian power machine'.
 

@@ -4,7 +4,6 @@ date: "2004-11-15T13:23:55Z"
 categories:
   - No Overall Control
 title: I’m not going to make a fortune this way...
-url: /2004/11/15/im-not-going-to-make-a-fortune-this-way/
 tags:
 - Sarah Teather
 ---

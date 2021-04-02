@@ -4,7 +4,6 @@ date: "2004-08-12T14:15:23Z"
 categories:
   - No Overall Control
 title: Didn’t we just do something about this?
-url: /2004/08/12/didnt-we-just-do-something-about-this/
 tags:
 - Kilburn
 ---

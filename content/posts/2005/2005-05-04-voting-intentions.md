@@ -6,7 +6,6 @@ categories:
 tags:
   - Election 2005
 title: Voting intentions
-url: /2005/05/04/voting-intentions/
 ---
 I thought that the time had come to talk about my personal voting intentions for tomorrow, in case you havn't guessed them already.
 

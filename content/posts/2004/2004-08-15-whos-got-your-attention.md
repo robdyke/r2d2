@@ -4,7 +4,6 @@ date: "2004-08-15T13:00:24Z"
 categories:
   - No Overall Control
 title: Who’s got your attention?
-url: /2004/08/15/whos-got-your-attention/
 ---
 Technocratic has crunched the weblogs once again and come up with a metric of authority or trust in online sources. So, just who are we - the online community - trusting for our news?
 

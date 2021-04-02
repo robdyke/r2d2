@@ -2,7 +2,6 @@
 authors: ["robdyke"]
 date: "2017-05-17T00:00:00Z"
 title: NHS urged to consider Microsoft alternatives following cyber attacks
-url: /2017/05/17/digitalhealth-net
 categories:
   - NHoS
 tags:

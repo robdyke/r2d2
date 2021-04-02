@@ -4,7 +4,6 @@ date: "2004-09-02T18:47:22Z"
 categories:
   - No Overall Control
 title: Crude and attention grabbing?
-url: /2004/09/02/crude-and-attention-grabbing/
 tags:
 - Sarah Teather
 ---

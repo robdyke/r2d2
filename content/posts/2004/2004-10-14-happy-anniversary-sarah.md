@@ -4,7 +4,6 @@ date: "2004-10-14T16:00:56Z"
 categories:
   - No Overall Control
 title: Happy anniversary Sarah!
-url: /2004/10/14/happy-anniversary-sarah/
 tags:
 - Sarah Teather
 - Brent East

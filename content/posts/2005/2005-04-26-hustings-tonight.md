@@ -6,7 +6,6 @@ categories:
 tags:
   - Election 2005
 title: Hustings TONIGHT
-url: /2005/04/26/hustings-tonight/
 ---
 Brent Stop The War are holding a General Election Candidate Hustings...
 

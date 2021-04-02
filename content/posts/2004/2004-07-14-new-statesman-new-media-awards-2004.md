@@ -4,7 +4,6 @@ date: "2004-07-14T16:10:54Z"
 categories:
   - No Overall Control
 title: New Statesman New Media Awards 2004
-url: /2004/07/14/new-statesman-new-media-awards-2004/
 ---
 The NS [NMA 2004](http://www.newstatesman.co.uk/nma/nma2004/nma2004home.htm)_"...focus on how new media technology is used to make a difference in public life. The key themes of this year's awards are "innovation, efficiency and modernisation". We intend to award those who have really achieved something good for society through the use of information communications technology."_
 

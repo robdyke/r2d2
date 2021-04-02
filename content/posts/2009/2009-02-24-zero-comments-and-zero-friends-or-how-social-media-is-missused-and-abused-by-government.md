@@ -7,7 +7,6 @@ tags:
 - Politics
 title: Zero Comments and Zero Friends or how 'social media' is missused and abused
   by government.
-url: /2009/02/24/zero-comments-and-zero-friends-or-how-social-media-is-missused-and-abused-by-government/
 ---
 Geert Lovink, in his book ['Zero Comments' (2007)](http://networkcultures.org/wpmu/portal/publications/geert-lovink-publications/zero-comments/), argued that blogs were the cause of a "decay of traditional broadcast media" ... exhibiting "a ‘nihilist impulse’ to empty out established meaning structures." In a network based on reciprocal linking and peer-recognition, he wrote that the "lowest rung of the new Internet hierarchy are those blogs and sites that receive no user feedback or ‘zero comments’."
 

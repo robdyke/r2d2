@@ -7,7 +7,6 @@ tags:
 - Dissertation
 - Goldsmiths
 title: dissertation book print project
-url: /2008/03/22/dissertation-book-print-project/
 ---
 I've been investigating the feasibility of collecting and publishing final year dissertation projects in book form. I think that this will make a great reminder of our time of study, our political alliances and the friendships that have grown over the years at Goldsmiths. Also it's such an indulgent, gratuitous act: So Fucking Goldsmiths. My plan is to gather together our dissertations and publish a book (ISBN record and everything) of our works to have it printed and ready for graduation in September.
 

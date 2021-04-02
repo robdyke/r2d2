@@ -6,7 +6,6 @@ categories:
 tags:
 - Brent Central
 title: Bridge Park
-url: /2010/05/04/bridge-park/
 ---
 I popped down to Bridge Park yesterday morning, for reasons which will become clear.... Bumped into Errol Williams, preparing for a busy day out in Brent Proclaiming Christ's Lordship. His first pledge is to bring all legislation is brought into conformity with the word of God. I uploaded his materials to TheStraightChoice for reference and they are included in the slideshow.
 
