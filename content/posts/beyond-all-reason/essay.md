@@ -7,7 +7,7 @@ categories:
 tags:
     - Third Year
     - Beyond All Reason
-title: Schmitt’s and ‘the political’.
+title: Schmitt’s conception of ‘the political’.
 toc: true
 description: I wrote this essay in my third-year of my BA Politics, back in 2008. The module was 'Beyond All Reason', taught by Dr James Martin
 ---
@@ -35,17 +35,9 @@ sense. The meaning and therefore the identity of friend in this
 antithesis is easily understood. So while non-friends may appear
 immoral, heretical, irrational, illegal, or uneconomic these criterion
 would not be enough to distinguish these non-friends as ‘enemy’; indeed
-these are as likely to be characteristics of our ‘friends’, in Schmitt’s
-antithesis, as of our ‘enemies’. An enemy is separated from the union of
-friends; friends associate with one another and are dissociated from
-their enemies. The enemy is stranger, other, different, alien. Schmitt
-is not concerned here with private confrontations and competitions. Both
-friend and enemy are public. It is the public definition of friend and
-of enemy that makes this antagonism *political*. Schmitt’s Concept of
-the Political then is this antagonism, the “most intense and extreme
-antagonism …\[becoming\] that much more political the closer it
-approaches the *most extreme point*, that of the friend-enemy
-grouping.”[^2]
+these are as likely to be characteristics of our ‘friends’, in Schmitt’s antithesis, as of our ‘enemies’. An enemy is separated from the union of friends; friends associate with one another and are dissociated from their enemies. The enemy is stranger, other, different, alien. Schmitt is not concerned here with private confrontations and competitions. Both friend and enemy are public. It is the public definition of friend and of enemy that makes this antagonism *political*. Schmitt’s Concept of the Political then is this antagonism, the “most intense and extreme antagonism 
+
+> "becoming that much more political the closer it approaches the *most extreme point*, that of the friend-enemy grouping.”[^2]
 
 The friend-enemy polemical criterion, as an antithesis independent of
 other distinctions, gives other political concepts meaning. By grouping

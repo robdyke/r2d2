@@ -133,7 +133,7 @@ posts = "/:year/:month/:day/:slug/"
 
 [[menu.sidebar]]
 name = "Career"
-url = "https://robdyke.github.io/career-profile/"
+url = "https://robdyke.com/career-profile/"
 weight = "80"
 
 # [[menu.sidebar]]
